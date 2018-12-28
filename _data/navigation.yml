@@ -1,0 +1,71 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About Us
+  url: /about-us/mission-core-values/
+  sub-links:
+  - title: Mission Core Values
+    url: /about-us/mission-core-values/
+  - title: Organisation Structure
+    url: /about-us/organisation-structure/
+  - title: History
+    url: /about-us/history/
+  - title: Corporate Video
+    url: /about-us/corporate-video/
+  - title: Brochures And Forms
+    url: /about-us/brochures-and-forms/
+  - title: Statistics
+    url: /about-us/statistics/
+  - title: e-Publication
+    url: /about-us/e-publication/
+- title: What We Do
+  url: /what-we-do/services-lab-provide/
+  sub-links:
+  - title: Services Lab Provide
+    url: /what-we-do/services-lab-provide/
+  - title: Types Of Cases Handled By Lab
+    url: /what-we-do/types-of-cases-handled-by-lab/
+  - title: Types Of Cases Not Handled By Lab
+    url: /what-we-do/types-of-cases-not-handled-by-lab/
+  - title: Legal Aid
+    url: /what-we-do/legal-aid/
+- title: Getting Legal Aid
+  url: /applying-for-legal-aid/eligibility/
+  sub-links:
+  - title: Eligibility
+    url: /applying-for-legal-aid/eligibility/
+  - title: How To Apply For Legal Aid
+    url: /applying-for-legal-aid/how-to-apply-for-legal-aid/
+  - title: Unclaimed Monies
+    url: /applying-for-legal-aid/unclaimed-monies/
+- title: Post Application
+  url: /post-application/legal-aid-board/
+  sub-links:
+  - title: Legal Aid Board
+    url: /post-application/legal-aid-board/
+  - title: How Will My Case Be Managed After I Have Been Granted Legal Aid
+    url: /post-application/how-will-my-case-be-managed-after-i-have-been-granted-legal-aid/
+  - title: When Legal Aid Be Cancelled By The Legal Aid Board
+    url: /post-application/when-legal-aid-be-cancelled-by-the-legal-aid-board/
+  - title: Subject To Third Party Casino Exclusion
+    url: /post-application/subject-to-third-party-casino-exclusion/
+- title: Resources
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
+- title: Join Us
+  url: /join-us/
+- title: E Service
+  url: /e-service/
+- title: Payment
+  url: /payment/
