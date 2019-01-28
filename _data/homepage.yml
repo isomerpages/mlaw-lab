@@ -21,7 +21,7 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
+  - title: E-Services
     description: Important highlight A is important
     url: https://google.com
     external: true
@@ -32,6 +32,9 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
+  - title: Page B
+    description: Page B is important too
+    url: /page-B/
 
 resources-title: Resources
 resources-subtitle: Be in the know
