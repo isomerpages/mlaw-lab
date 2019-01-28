@@ -25,14 +25,14 @@ key-highlights:
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
+  - title: Apply for Legal Aid
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page A
+  - title: Assigned Solicitor
     description: Page A is important too
     url: /page-A/
-  - title: Page B
+  - title: Login to Applicant Portal
     description: Page B is important too
     url: /page-B/
 
