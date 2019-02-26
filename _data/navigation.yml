@@ -57,11 +57,11 @@
   sub-links:
   - title: All
     url: /resource-room/
-  - title: Subcategory A
+  - title: Forms & Brochures
     url: /resource-room/subcategory-A/
-  - title: Subcategory B
+  - title: Corporate Video
     url: /resource-room/subcategory-B/
-  - title: Subcategory C
+  - title: Publications
     url: /resource-room/subcategory-C/
 - title: Join Us
   url: /join-us/
