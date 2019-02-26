@@ -21,11 +21,11 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: E-Services
+  - title: Apply for Legal Aid
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Apply for Legal Aid
+  - title: Internship
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
