@@ -17,24 +17,24 @@ hero-banner: /images/Hero Banner_LAB.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: Contact Us
+    url: /about-us/contact-us/
     
 key-highlights:
   - title: Apply for Legal Aid
-    description: Important highlight A is important
-    url: https://google.com
+    description: Our processes and other info
+    url: /legal-services/how-do-I-apply/
     external: true
   - title: Internship
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+    description: Our internship schemes
+    url: www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
     external: true
   - title: Assigned Solicitor
-    description: Page A is important too
-    url: /page-A/
+    description: Info on pro-bono work
+    url: /resources/assigned-solicitors/
   - title: Login to Applicant Portal
-    description: Page B is important too
-    url: /page-B/
+    description: Register and case updates
+    url: www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
 
 resources-title: Resources
 resources-subtitle: Be in the know
