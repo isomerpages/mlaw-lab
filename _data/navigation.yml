@@ -59,15 +59,4 @@
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=1
   - title: Register SingPass Account
     url: https://www.singpass.gov.sg/singpass/register/instructions
-- title: Resources
-  url: /resource-room/
-  sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Forms & Brochures
-    url: /resource-room/subcategory-A/
-  - title: Corporate Video
-    url: /resource-room/subcategory-B/
-  - title: Publications
-    url: /resource-room/subcategory-C/
 
