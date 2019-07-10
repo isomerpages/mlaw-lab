@@ -42,10 +42,10 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   about-us:
     output: true
-  what-we-do:
+  legal-services:
     output: true
-  applying-for-legal-aid:
+  resources:
     output: true
-  post-application:
+  e-services:
     output: true
 resources_name: resource-room
