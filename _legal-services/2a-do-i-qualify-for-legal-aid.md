@@ -15,7 +15,7 @@ Legal Aid is available to
 
 (a) Singapore citizens and permanent residents who are in Singapore;
 
-(b) (With effect from 1 Mar 2011) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website here).
+(b) (With effect from 1 Mar 2011) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website [here](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Hague-Convention-on-the-Civil-Aspects-of-International-Child-Abduction.aspx){:target="_blank"}.
 
  
 
