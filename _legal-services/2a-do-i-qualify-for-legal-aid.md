@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Do I qualify for legal aid?
 permalink: /legal-services/do-i-qualify-for-legal-aid/
 breadcrumb: Do I qualify for legal aid?
-collection_name: legislation-and-past-decisions
+collection_name: legal-services
 second_nav_title: "Do I qualify?"
 ---
 
