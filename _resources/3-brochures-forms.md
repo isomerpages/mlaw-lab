@@ -26,7 +26,6 @@ Brochures and Forms
  
 
 What I Should Know When Applying for Legal Aid<br>
-
 1. [English](/files/what-I-should-know-english.pdf) <br>
 
 2. [Chinese](/files/what-I-should-know-chinese.pdf) <br>
