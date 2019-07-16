@@ -138,7 +138,7 @@ You should note that the limits for the total disposable capital and the total d
 
 **6. What can I do if I am facing financial hardship?**
 
-If you do not satisfy the Means Test but are facing financial hardship, you should inform us of the hardship that you are facing, as the Director of Legal Aid has the discretion under the Act to determine whether to grant you further deductions for the relief of hardship in exceptional cases.
+If you do not satisfy the Means Test but are facing financial hardship, you should inform us of the hardship that you are facing, as the Director of Legal Aid has the discretion under the Act to determine whether to grant you further deductions for the relief of hardship in exceptional cases.<br>
 
 **7. How does the Director exercise his discretion to determine if I am facing hardship?**
 
