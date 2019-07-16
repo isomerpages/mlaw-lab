@@ -5,3 +5,38 @@ permalink: /resources/publications/
 breadcrumb: Publications
 collection_name: resources
 ---
+
+1. Singapore Medical Association Article (October 2015) <br>
+Deputy Applications Under the Mental Capacity Act - Writing the Medical Report<br>
+
+ 
+2. Singapore Law Gazette Article (January 2016) <br>
+Medical Reports Supporting Deputy Applications - Encouraging the Good, Rescuing the Bad <br>
+
+
+3. Singapore Medical Journal Review Article (December 2016) <br>
+Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications<br>
+
+
+![GENIE](/images/pub1.jpg) <br>
+4. Law Gazette Article (June 2017) <br>
+GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment<br>
+
+![FightingUnderdog](/images/pub2.jpg) <br>
+5. Law Gazette Article (March 2018) <br>
+Fighting for the Underdog - The Assigned Solicitors of the Legal Aid Bureau <br>
+
+ 
+![HelpwithaHeart](/images/pub3.jpg)<br>
+6. Law Gazette Article (May 2018)<br>
+"Help, with a Heart" - The Lawyers of the Legal Aid Bureau<br>
+ 
+
+![HiddenFigures](/images/pub4.jpg) <br>
+7. Law Gazette Article (July 2018) <br>
+Hidden Figures-The Legal Executives of the Legal Aid Bureau <br>
+
+
+![NUS-CLE](/images/pub5.jpg) <br>
+8. Law Gazette Article (October 2018) <br>
+NUS Law @ LAB - Clinical Legal Education in Singapore 
