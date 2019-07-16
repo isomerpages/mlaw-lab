@@ -19,7 +19,7 @@ collection_name: resources
 
 
 ![GENIE](/images/pub1.jpg){:height="36" width="36"} <br> test3
-<img src="/images/pub1.jpg" height="100" width="250">
+<img src="/images/pub1.jpg" height="25" width="50">
 
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
