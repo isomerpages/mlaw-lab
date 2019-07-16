@@ -29,7 +29,7 @@ You should keep LAB informed of the progress of the case at least once in 3 mont
 <b><u>When can I discharge myself from acting for the Applicant?</u></b> <br>
 Under R12(7) of the Legal Aid Regulations, you have the right to discharge yourself from acting for the applicant for a good reason. In particular, you may seek the Director's leave to discharge yourself for the following reasons:<br>
 
-*that the applicant has required you to conduct the proceedings in such a manner so as to incur an unjustifiable expense to the Legal Aid Fund;
+* that the applicant has required you to conduct the proceedings in such a manner so as to incur an unjustifiable expense to the Legal Aid Fund;
 * that he has unreasonably insisted on the continuance of the proceedings;
 * that he has wilfully failed to provide any information requested by you; or
 * that he, in furnishing information, has knowingly made a false representation.
