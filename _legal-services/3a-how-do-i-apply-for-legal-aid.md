@@ -16,7 +16,7 @@ How do I apply for legal aid?
     <img src="/images/legal-aid-overview.jpg/">
     <sup>*</sup>Please note that this is a general guide as to how the case is processed and is not intended to be an exhaustive description of the caseflow as the actual facts of each case will affect how it is dealt with.<br>
     <sup>**</sup>This is not applicable to applications under the Hague Convention on the Civil Aspects of International Child Abduction.
-  </li>
+  </li><br>
   <li>
     <b>How do I register for Legal Aid?</b><br>
     <p>If you require legal aid or advice, you can come to LAB during our office hours to make an application. Please bring along your Identity Card for the registration. Alternatively, you can make an online application at <a href="https://www.mlaw.gov.sg/eservices/labesvc/"></a></p>
