@@ -5,6 +5,15 @@ permalink: /resources/publications/
 breadcrumb: Publications
 collection_name: resources
 ---
+<style>
+.image{width:298px; height:163px;}
+  
+.image img{max-width:100%;}
+
+.image2{width:674px; height:166px;}
+  
+.image2 img{max-width:100%;}
+</style>
 
 1. Singapore Medical Association Article (October 2015) <br>
 [Deputy Applications Under the Mental Capacity Act - Writing the Medical Report](/files/article-in-SMA-News.pdf)<br>
@@ -17,36 +26,35 @@ collection_name: resources
 3. Singapore Medical Journal Review Article (December 2016) <br>
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)<br>
 
-![GENIE](/images/pub1.jpg) <br>
-{: width=150 height=100 style="padding:16px"}
+<div class="image"><img src="/images/pub1.jpg"></div><br>
+
 
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
 
-
-![FightingUnderdog](/images/pub2.jpg) <br>
+<div class="image2"><img src="/images/pub2.jpg"></div><br>
 
 {:start="5"} 
 5. Law Gazette Article (March 2018) <br>
 [Fighting for the Underdog - The Assigned Solicitors of the Legal Aid Bureau](/files/FightingfortheUnderdog.pdf) <br>
 
- 
-![HelpwithaHeart](/images/pub3.jpg)<br>
+<div class="image2"><img src="/images/pub3.jpg"></div><br>
+
 
 {:start="6"} 
 6. Law Gazette Article (May 2018)<br>
 ["Help, with a Heart" - The Lawyers of the Legal Aid Bureau](/files/2-HelpwithaHeart.pdf)<br>
  
+<div class="image2"><img src="/images/pub4.jpg"></div><br>
 
-![HiddenFigures](/images/pub4.jpg) <br>
 
 {:start="7"} 
 7. Law Gazette Article (July 2018) <br>
 [Hidden Figures-The Legal Executives of the Legal Aid Bureau](/files/3-HiddenFigures.pdf) <br>
 
+<div class="image2"><img src="/images/pub5.jpg"></div><br>
 
-![NUS-CLE](/images/pub5.jpg) <br>
 
 {:start="8"} 
 8. Law Gazette Article (October 2018) <br>
