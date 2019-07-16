@@ -24,7 +24,6 @@ collection_name: resources
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)<br>
 <br> <br>
 
-{: width=25 height=10 style="padding:16px"}
 ![GENIE](/images/pub1.jpg) <br> 
 {: width=150 height=100 style="float:left; padding:16px"}
 
