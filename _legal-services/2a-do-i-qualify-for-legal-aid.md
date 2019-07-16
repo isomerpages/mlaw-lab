@@ -21,7 +21,7 @@ Legal Aid is available to
 
 If you are below the age of 21, your guardian (e.g. your parent) must apply on your behalf.
  
-You must also pass the [Means Test](/legal-services/what-is-the-means-test/) and [Merits Test](/https://mlaw-lab-staging.netlify.com/legal-services/what-is-merits-test/).
+You must also pass the [Means Test](/legal-services/what-is-the-means-test/) and [Merits Test](/https://mlaw-lab-staging.netlify.com/legal-services/what-is-merits-test/).h5eher5rh
  
 For information on the various aspects of the **Legal Aid Scheme**, you may download our brochure below:
 
