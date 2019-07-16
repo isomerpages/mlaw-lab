@@ -7,15 +7,15 @@ collection_name: resources
 ---
 
 1. Singapore Medical Association Article (October 2015) <br>
-Deputy Applications Under the Mental Capacity Act - Writing the Medical Report<br>
+[Deputy Applications Under the Mental Capacity Act - Writing the Medical Report](/files/article-in-SMA-News.pdf)<br>
 
  
 2. Singapore Law Gazette Article (January 2016) <br>
-Medical Reports Supporting Deputy Applications - Encouraging the Good, Rescuing the Bad <br>
+[Medical Reports Supporting Deputy Applications - Encouraging the Good, Rescuing the Bad](/files/MCA-article-SingaporeLawGazette.pdf) <br>
 
 
 3. Singapore Medical Journal Review Article (December 2016) <br>
-Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications<br>
+[Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)<br>
 
 
 ![GENIE](/images/pub1.jpg) <br>
