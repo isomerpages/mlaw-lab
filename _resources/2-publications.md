@@ -27,6 +27,7 @@ collection_name: resources
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
 
 ![FightingUnderdog](/images/pub2.jpg) <br>
+{: width=150 height=100 style="float:left; padding:16px"}
 
 {:start="5"} 
 5. Law Gazette Article (March 2018) <br>
