@@ -5,12 +5,6 @@ permalink: /resources/publications/
 breadcrumb: Publications
 collection_name: resources
 ---
-<style>
-  img {
-  height:140px;
-  width:1px;
-  }
-</style>
 
 1. Singapore Medical Association Article (October 2015) <br>
 [Deputy Applications Under the Mental Capacity Act - Writing the Medical Report](/files/article-in-SMA-News.pdf)<br>
