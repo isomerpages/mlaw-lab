@@ -19,29 +19,34 @@ collection_name: resources
 
 
 ![GENIE](/images/pub1.jpg) <br>
+
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
 
 ![FightingUnderdog](/images/pub2.jpg) <br>
+
 {:start="5"} 
 5. Law Gazette Article (March 2018) <br>
 [Fighting for the Underdog - The Assigned Solicitors of the Legal Aid Bureau](/files/FightingfortheUnderdog.pdf) <br>
 
  
 ![HelpwithaHeart](/images/pub3.jpg)<br>
+
 {:start="6"} 
 6. Law Gazette Article (May 2018)<br>
 ["Help, with a Heart" - The Lawyers of the Legal Aid Bureau](/files/2-HelpwithaHeart.pdf)<br>
  
 
 ![HiddenFigures](/images/pub4.jpg) <br>
+
 {:start="7"} 
 7. Law Gazette Article (July 2018) <br>
 [Hidden Figures-The Legal Executives of the Legal Aid Bureau](/files/3-HiddenFigures.pdf) <br>
 
 
 ![NUS-CLE](/images/pub5.jpg) <br>
+
 {:start="8"} 
 8. Law Gazette Article (October 2018) <br>
 [NUS Law @ LAB - Clinical Legal Education in Singapore](/files/4-NUS-CLE.pdf)
