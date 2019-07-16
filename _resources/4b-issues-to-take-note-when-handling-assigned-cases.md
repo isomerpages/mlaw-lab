@@ -34,7 +34,6 @@ Under R12(7) of the Legal Aid Regulations, you have the right to discharge yours
 * that he has wilfully failed to provide any information requested by you; or
 * that he, in furnishing information, has knowingly made a false representation.
 In certain circumstances, the Director of Legal Aid may also cancel legal aid under Rule 8 of the Regulations. <br>
-
 After you have discharged yourself from acting for the applicant, or if the Director has decided to cancel legal aid, you should return all court documents and any other documents relating to the case together with your bill of costs. <br>
 
 <b><u>Must I tax my Solicitor & Client bill?</u></b> <br>
@@ -43,5 +42,4 @@ There is no need to tax your bill if it is less than S$1,000 (inclusive of disbu
 However if your bill exceeds S$1,000, taxation is required. After taxation, you will receive 50 per cent of the amount allowed on account of solicitor and client costs and 100 per cent of disbursements allowed. In such a case, you should prepare a draft bill to be taxed and send it to us for approval. Once the Director has approved the draft bill, you may proceed to have it taxed. After which you should send the Registrar's Certificate to us so that we can process the payment. <br>
 
 <b><u>Should I give any undertaking to another solicitor?</u></b> <br>
-
 No. You should not give any undertakings on any matter to anyone without the express approval of the Director of Legal Aid.
