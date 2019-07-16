@@ -37,7 +37,7 @@ Location
 #07-11 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 
-https://goo.gl/maps/o72FQYAsx7dtVkce6
+<iframe>"https://goo.gl/maps/o72FQYAsx7dtVkce6</iframe>
 
 **Counter Operating Hours:**
 
