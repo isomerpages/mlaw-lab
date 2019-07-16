@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Information about assigned solicitors
+title: What are the duties of an Assigned Solicitor
 permalink: /resources/assigned-solicitors/
-breadcrumb: Information about assigned solicitors
+breadcrumb: What are the duties of an Assigned Solicitor
 collection_name: resources
 second_nav_title: "Assigned Solicitors"
 ---
