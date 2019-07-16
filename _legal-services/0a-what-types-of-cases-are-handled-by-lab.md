@@ -9,8 +9,8 @@ second-nav-title: What services does LAB provide?
 
 <style>
   img {
-  height:141px; 
-  width: 400px;
+  height:100px; 
+  width: 300px;
   }
 </style>
 
