@@ -37,7 +37,7 @@ What I Should Know When Applying for Legal Aid<br>
  
 
 [Documents to bring (in English & Mandarin)](/files/Documents-To-Bring-Eng-and-Mandarin.pdf) <br>
-[Documents to bring (in English & Malay)](/files/Documents-To-Bring-Eng-and-Malay.pdf) <br>
+[Documents to bring (in English & Malay)](/files/Docs-to-Bring-Eng-and-Malay.pdf) <br>
 
  
 
