@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Our Mission and core values
+title: Our mission and core values
 permalink: /about-us/our-mission-core-values/
-breadcrumb: Our Mission and core values
+breadcrumb: Our mission and core values
 collection_name: about-us
 
 ---
