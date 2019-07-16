@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Assigned Solicitors
+title: Award Recipients
 permalink: /resources/award-recipients/
-breadcrumb: Assigned Solicitors
+breadcrumb: Award Recipients
 collection_name: resources
 second_nav_title: "Award Recipients"
 ---
