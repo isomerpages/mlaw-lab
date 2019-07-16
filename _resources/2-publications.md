@@ -17,7 +17,7 @@ collection_name: resources
 3. Singapore Medical Journal Review Article (December 2016) <br>
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)<br>
 
-
+{: width=25 height=10 style="float:right; padding:16px"}
 ![GENIE](/images/pub1.jpg){: width=25 height=10 style="float:right; padding:16px"} <br> 
 <img src="/images/pub1.jpg" alt="GENIE"
 	title="GENIE" width="150" height="100" />
