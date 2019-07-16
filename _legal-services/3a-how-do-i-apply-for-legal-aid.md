@@ -59,7 +59,7 @@ How do I apply for legal aid?
       <li>Medical Report</li>
       <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
       <li>
-        All other documents which are relevant to your case.
+        All other documents which are relevant to your case.<br>
         <p>You may download the following lists of documents to bring on your first appointment:</p>
         <a href="/files/DocumentsToBringEngandMandarin.pdf">List of Documents in English & Chinese</a><br>
         <a href="/files/DocstoBringEngandMalay.pdf">List of Documents in English & Malay</a>
@@ -68,6 +68,12 @@ How do I apply for legal aid?
       </li>
     </ol>
   </li>
-  <li> </li>
-  <li> </li>
+  <li>
+    <b>Will LAB represent me immediately after I have applied for aid or after I have attended the first appointment?</b><br>
+    <p>No. At the first appointment, LAB will start investigating your case to determine whether you pass the Means Test and the Merits Test. LAB will only represent you after your case has been fully investigated, you have passed the Means Test, and the Legal Aid Board determines that you have also passed the Merits Test.</p>
+  </li>
+  <li>
+    <b>How long do I have to wait from the first appointment to the decision of the Legal Aid Board?</b><br>
+    <p>This depends on the complexity of your case and the amount of time needed to investigate your case. In fairly simple cases, it will usually take about four months.</p>
+  </li>
 </ol>
