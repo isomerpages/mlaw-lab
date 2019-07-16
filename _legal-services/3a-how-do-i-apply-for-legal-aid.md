@@ -10,7 +10,7 @@ second_nav_title: "How do I Apply?"
 How do I apply for legal aid?
 ---
 <style>
-#list{font-weight:bold;}
+.list{font-weight:bold;}
 </style>
 <ol class="list">
   <li>
