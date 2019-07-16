@@ -51,7 +51,7 @@ How do I apply for legal aid?
       <li>Photocopy of Birth Certificate* (Children/Sibling/Parent)</li>
       <li>Motor Vehicles Log Book or Purchase Invoice</li>
       <li>
-        or Letter of Administration and Probate case:<br>
+        For Letter of Administration and Probate case:<br>
         (i) Death Certificate/Certificate of Extract From Register of Deaths (for deceased)<sup>**</sup><br>
         (ii) Inheritance Certificate (for Muslim)
       </li>
