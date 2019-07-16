@@ -19,7 +19,8 @@ collection_name: resources
 
 
 ![GENIE](/images/pub1.jpg){: width=25 height=10 style="float:right; padding:16px"} <br> 
-<img src="/images/pub1.jpg" height="25" width="50">
+<img src="/images/pub1.jpg" alt="GENIE"
+	title="GENIE" width="150" height="100" />
 
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
