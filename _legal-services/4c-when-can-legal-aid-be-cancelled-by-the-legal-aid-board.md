@@ -15,7 +15,7 @@ The Legal Aid Board may cancel legal aid to you in the following situations:
 * You have required your lawyer to conduct the proceedings in such a manner as to incur an unjustifiable expense;
 * You have unreasonably insisted on the continuance of the proceedings;
 * You have willfully failed to provide any required information; or
-* You have made a false representation in furnishing information.
+* You have made a false representation in furnishing information.<br>
 
 Legal aid may also be cancelled in the following situations: 
 
@@ -29,7 +29,7 @@ Legal aid may also be cancelled in the following situations:
 * Where you no longer have any reasonable grounds to continue with the case
 * Where it is unreasonable for you to continue receiving legal aid.
 
-As an example, legal aid may be cancelled if you unreasonably refuse to accept your lawyer's advice or the Court's directions, or if you cannot be contacted despite numerous attempts to do so.
+As an example, legal aid may be cancelled if you unreasonably refuse to accept your lawyer's advice or the Court's directions, or if you cannot be contacted despite numerous attempts to do so.<br>
  
 
 **What happens after legal aid is cancelled?**
