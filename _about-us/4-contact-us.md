@@ -31,12 +31,13 @@ You can send us your feedback and enquiries on the following issues:<br>
 
 Location
 ---
-
 **Ministry of Law Services Centre**
 
 45 Maxwell Road<br>
 #07-11 The URA Centre (East Wing)<br>
 Singapore 069118<br>
+
+https://goo.gl/maps/o72FQYAsx7dtVkce6
 
 **Counter Operating Hours:**
 
