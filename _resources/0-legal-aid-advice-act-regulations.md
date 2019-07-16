@@ -5,3 +5,9 @@ permalink: /resources/legal-aid-advice-act-regulations/
 breadcrumb: Legal Aid and Advice Act & Regulations
 collection_name: resources
 ---
+Legal Aid and Advice Act & Regulations
+---
+
+* [Legal Aid and Advice Act, Cap 160 ](/files/LAAA-Amended.pdf)
+* [Legal Aid and Advice Regulations, Cap 160 Reg 1](/files/LAAR-Amended.pdf)
+
