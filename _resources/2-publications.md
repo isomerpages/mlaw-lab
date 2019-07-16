@@ -20,7 +20,6 @@ collection_name: resources
 ![GENIE](/images/pub1.jpg) 
 {: width=150 height=100 style="float:left; padding:16px"}
 
-<br>
 
 
 {:start="4"} 
