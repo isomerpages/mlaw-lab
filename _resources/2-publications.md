@@ -10,9 +10,6 @@ collection_name: resources
   
 .image img{max-width:100%;}
 
-.image2{width:674px; height:166px;}
-  
-.image2 img{max-width:100%;}
 </style>
 
 1. Singapore Medical Association Article (October 2015) <br>
@@ -33,27 +30,27 @@ collection_name: resources
 4. Law Gazette Article (June 2017) <br>
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
 
-<div class="image2"><img src="/images/pub2.jpg"></div><br>
+<div class="image"><img src="/images/pub2.jpg"></div><br>
 
 {:start="5"} 
 5. Law Gazette Article (March 2018) <br>
 [Fighting for the Underdog - The Assigned Solicitors of the Legal Aid Bureau](/files/FightingfortheUnderdog.pdf) <br>
 
-<div class="image2"><img src="/images/pub3.jpg"></div><br>
+<div class="image"><img src="/images/pub3.jpg"></div><br>
 
 
 {:start="6"} 
 6. Law Gazette Article (May 2018)<br>
 ["Help, with a Heart" - The Lawyers of the Legal Aid Bureau](/files/2-HelpwithaHeart.pdf)<br>
  
-<div class="image2"><img src="/images/pub4.jpg"></div><br>
+<div class="image"><img src="/images/pub4.jpg"></div><br>
 
 
 {:start="7"} 
 7. Law Gazette Article (July 2018) <br>
 [Hidden Figures-The Legal Executives of the Legal Aid Bureau](/files/3-HiddenFigures.pdf) <br>
 
-<div class="image2"><img src="/images/pub5.jpg"></div><br>
+<div class="image"><img src="/images/pub5.jpg"></div><br>
 
 
 {:start="8"} 
