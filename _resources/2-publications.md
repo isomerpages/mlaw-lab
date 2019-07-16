@@ -18,10 +18,9 @@ collection_name: resources
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)<br>
 
 {: width=25 height=10 style="float:right; padding:16px"}
-![GENIE](/images/pub1.jpg){: width=25 height=10 style="float:right; padding:16px"} <br> 
-<img src="/images/pub1.jpg" alt="GENIE"
-	title="GENIE" width="150" height="100" />
+![GENIE](/images/pub1.jpg) <br> 
 
+\
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
