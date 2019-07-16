@@ -5,6 +5,12 @@ permalink: /resources/publications/
 breadcrumb: Publications
 collection_name: resources
 ---
+<style>
+  img {
+  height:140px;
+  width:1px;
+  }
+</style>
 
 1. Singapore Medical Association Article (October 2015) <br>
 [Deputy Applications Under the Mental Capacity Act - Writing the Medical Report](/files/article-in-SMA-News.pdf)<br>
@@ -20,6 +26,8 @@ collection_name: resources
 {: width=25 height=10 style="padding:16px"}
 ![GENIE](/images/pub1.jpg) <br> 
 {: width=150 height=100 style="float:left; padding:16px"}
+
+<img src="/images/pub1.jpg" alt="GENIE">
 
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
