@@ -172,10 +172,9 @@ c) You have suffered a sudden loss of income and require legal aid to defend or 
       <li>an amount not exceeding S$10,000 for rent (if any)</li>
       <li>your contribution to the Central Provident Fund; and</li>
       <li>your spouse's contribution to the Central Provident Fund.</li>
-      
     </ul>
   </li>
-</ul><br>
+</ul>
 
 d) You have applied for legal aid in respect of family proceedings as defined in the Act, where a minor is involved, to further exclude the following property in determining the disposable capital:
 
