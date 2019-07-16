@@ -16,7 +16,7 @@ We will obtain your consent before assigning a particular case to you. One of ou
 <b><u>When is a case assigned to me and what should I do?</u></b> <br>
 There are generally two stages at which we will assign a case to you: <br>
 
-* After an application for legal aid has been received, in which case your role is to investigate the case before preparing a legal opinion on the merits of the applicant’s case for the consideration of the Legal Aid Board as to whether legal aid should be granted. If aid is granted, you will then proceed to represent the applicant in Court proceedings;
+* After an application for legal aid has been received, in which case your role is to investigate the case before preparing a legal opinion on the merits of the applicant’s case for the consideration of the [Legal Aid Board](https://mlaw-lab-staging.netlify.com/legal-services/what-is-the-legal-aid-board/) as to whether legal aid should be granted. If aid is granted, you will then proceed to represent the applicant in Court proceedings;
 * In other situations, our legal officer would have submitted a legal opinion to the Board which has approved the granting of legal aid, but new facts arise subsequently which makes it necessary or practical to assign the case to you. When you receive the case in these circumstances, you do not need to prepare a fresh legal opinion, and you may proceed to represent the applicant in the Court proceedings. These situations may arise when both the plaintiff and defendant for a case have applied for legal aid, in which case there is a conflict of interest for LAB in acting for both of them. <br>
  
  
