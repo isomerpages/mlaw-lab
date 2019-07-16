@@ -19,13 +19,12 @@ collection_name: resources
 
 ![GENIE](/images/pub1.jpg) <br>
 
-
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
 [GENIE Comes Out of the Lamp - The Legal Aid Bureau's Journey into a Completely Paperless Environment](/files/GenieArticle.pdf)<br>
 
-![FightingUnderdog](/images/pub2.jpg) <br>
 
+![FightingUnderdog](/images/pub2.jpg) <br>
 
 {:start="5"} 
 5. Law Gazette Article (March 2018) <br>
