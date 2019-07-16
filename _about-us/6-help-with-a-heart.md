@@ -9,5 +9,5 @@ collection_name: about-us
 
 Help with a Heart
 ---
-[Help with a Heart: Stories from the Legal Aid Bureau (Click Here)](https://www.mlaw.gov.sg/flipbook/index.html){:target="_blank"} <br>
+[Help with a Heart: Stories from the Legal Aid Bureau](https://www.mlaw.gov.sg/flipbook/index.html){:target="_blank"} <br>
 ![image](/images/1537430691868.jpg)
