@@ -12,7 +12,7 @@ second_nav_title: What services does LAB provide?
   
 .image img{max-width:100%;}
 </style>
-What types of cases are handled by LAB?ef
+What types of cases are handled by LAB?
 ---
 
 <div class="image"><img src="/images/1399988115437.jpg"></div>
