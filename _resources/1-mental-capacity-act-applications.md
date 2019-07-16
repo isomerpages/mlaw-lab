@@ -17,6 +17,6 @@ Mental Capacity Act Applications
 3. Singapore Medical Journal Review Article (December 2016) <br>
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf) <br>
  
-Medical Report - Blank Template <br>
+[Medical Report - Blank Template](/files/Blank-MR.doc) <br>
 [Medical Report - Sample of a Completed Medical Report](/files/Sample-filled-in-MR.pdf) <br>
  
