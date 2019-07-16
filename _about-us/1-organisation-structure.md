@@ -10,4 +10,4 @@ collection_name: about-us
 Organisation structure
 ---
 
-!
+![image](/images/1545802948932.jpg)
