@@ -18,7 +18,7 @@ The Director of Legal Aid is empowered to maintain a panel of Assigned Solicitor
 * give legal advice under the provisions of the Act. <br>
 
 
-**[The Assigned Solicitor’s Guide (436kb)](/files/LAB-AS-Guide)** <br>
+**[The Assigned Solicitor’s Guide (436kb)](/files/LAB-AS-Guide.pdf)** <br>
 *The Assigned Solicitor's Guide does not reflect the new amendments to the Legal Aid and Advice Act and the Legal Aid and Advice Regulations. We will be uploading an amended version of the Guide shortly.* <br>
 
  
