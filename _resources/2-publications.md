@@ -25,7 +25,7 @@ collection_name: resources
 
 
 
-<div class="image"><img src="/images/pub1.jpg"></div><br>
+<div class="image"><img src="/images/pub1.jpg"></div>
 
 {:start="4"} 
 4. Law Gazette Article (June 2017) <br>
