@@ -24,14 +24,50 @@ How do I apply for legal aid?
   </li>
   <li>
     <b>I do not reside in Singapore. How can I register for legal aid for an application under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) [with effect from 1 Mar 2011]?</b><br>
-    You are required to complete Form 1 - Application for Legal Aid for matters relating to the HCCAICA and submit it to the Singapore Central Authority.
+    <p>You are required to complete Form 1 - Application for Legal Aid for matters relating to the HCCAICA and submit it to the Singapore Central Authority.</p>
   </li>
   <li>
     <b>What happens during my first appointment?</b><br>
     <p>During your first appointment, your means will be reassessed by our Commissioner for Oaths. You will be required to swear a Statutory Declaration on your income and capital, and you will have to furnish LAB with relevant information on your case.</p>
     <p>A person who knowingly makes any false statement or representation to LAB shall be guilty of an offence and shall be liable on conviction to a fine of up to $5,000 or imprisonment of up to six months or to both.</p>
   </li>
-  <li> </li>
+  <li>
+    <b>What documents do I bring to my first appointment?</b><br>
+    <p>Please bring your SingPass and the following documents on your first appointment to enable us to process your case expeditiously:</p>
+    <ol>
+      <li>Your identity card (IC)</li>
+      <li>Valid Passport if you are a Permanent Resident (PR)</li>
+      <li>Applicant's CPF Contribution History for the past 12 months</li>
+      <li>Spouse's CPF Contribution History for the past 12 months</li>
+      <li>Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF</li>
+      <li>Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF</li>
+      <li>Applicant's Latest Income Tax Assessment/ (IR8A form)</li>
+      <li>Spouse's Latest Income Tax Assessment/ (IR8A form)</li>
+      <li>Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information</li>
+      <li>Tenancy/Rental Agreement</li>
+      <li>Applicant's Insurance Policies and their Surrender Values</li>
+      <li>The Central Depository (CDP) Account Statement (if any)</li>
+      <li>Original/Certified Copy of Marriage Certificate<sup>*</sup></li>
+      <li>Photocopy of Birth Certificate* (Children/Sibling/Parent)</li>
+      <li>Motor Vehicles Log Book or Purchase Invoice</li>
+      <li>
+        or Letter of Administration and Probate case:
+        (i) Death Certificate/Certificate of Extract From Register of Deaths (for deceased)<sup>**</sup>
+        (ii) Inheritance Certificate (for Muslim)
+      </li>
+      <li>Police Report</li>
+      <li>Medical Report</li>
+      <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
+      <li>
+        All other documents which are relevant to your case.
+        <p>You may download the following lists of documents to bring on your first appointment:</p>
+        <a href="/files/DocumentsToBringEngandMandarin.pdf">List of Documents in English & Chinese</a><br>
+        <a href="/files/DocstoBringEngandMalay.pdf">List of Documents in English & Malay</a><br>
+        <sup>*</sup>For civil marriages, the documents to be translated to English if it is in other languages.<br>
+        <sup>**</sup>To translate the Death Certificate or extract to English if it is in other languages.
+      </li>
+    </ol>
+  </li>
   <li> </li>
   <li> </li>
 </ol>
