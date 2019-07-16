@@ -21,14 +21,12 @@ There are generally two stages at which we will assign a case to you: <br>
  
  
 <b><u>What is my role after legal aid is granted?</u></b> <br> 
-
-If legal aid is granted, the Grant of Aid will be sent to you. You will have to file this in Court as well as serve it on all relevant parties to the proceedings.
+If legal aid is granted, the Grant of Aid will be sent to you. You will have to file this in Court as well as serve it on all relevant parties to the proceedings. <br>
 
 You should keep LAB informed of the progress of the case at least once in 3 months. You should also keep the applicant informed of the progress of the case periodically. <br>
 
 
 <b><u>When can I discharge myself from acting for the Applicant?</u></b> <br>
-
 Under R12(7) of the Legal Aid Regulations, you have the right to discharge yourself from acting for the applicant for a good reason. In particular, you may seek the Director's leave to discharge yourself for the following reasons:<br>
 
 *that the applicant has required you to conduct the proceedings in such a manner so as to incur an unjustifiable expense to the Legal Aid Fund;
@@ -40,7 +38,6 @@ In certain circumstances, the Director of Legal Aid may also cancel legal aid un
 After you have discharged yourself from acting for the applicant, or if the Director has decided to cancel legal aid, you should return all court documents and any other documents relating to the case together with your bill of costs. <br>
 
 <b><u>Must I tax my Solicitor & Client bill?</u></b> <br>
-
 There is no need to tax your bill if it is less than S$1,000 (inclusive of disbursements). Just send us your bill and payment will be made to you once the Director of Legal Aid has approved it.
 
 However if your bill exceeds S$1,000, taxation is required. After taxation, you will receive 50 per cent of the amount allowed on account of solicitor and client costs and 100 per cent of disbursements allowed. In such a case, you should prepare a draft bill to be taxed and send it to us for approval. Once the Director has approved the draft bill, you may proceed to have it taxed. After which you should send the Registrar's Certificate to us so that we can process the payment. <br>
