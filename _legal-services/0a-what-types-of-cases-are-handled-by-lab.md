@@ -7,17 +7,11 @@ collection_name: legal-services
 second-nav-title: What services does LAB provide?
 ---
 
-<style>
-  img {
-  height:140px; 
-  width:400px;
-  }
-</style>
 
 What types of cases are handled by LAB?
 ---
 
-<img src="/images/1399988115437.jpg" alt="case handled by LAB">
+![case handled by LAB](/images/1399988115437.jpg){: width="400px" height="141px"}
 
 LAB only handles those cases dealt with in the Singapore Courts and tribunals where legal representation is allowed.
 
