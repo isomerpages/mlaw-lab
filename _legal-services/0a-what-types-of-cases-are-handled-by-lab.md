@@ -8,7 +8,7 @@ second_nav_title: What services does LAB provide?
 ---
 
 
-What types of cases are handled by LAB?
+What types of cases are handled by LAB?ef
 ---
 
 <div class="image"><img src="/images/1399988115437.jpg"></div><br>
