@@ -10,6 +10,8 @@ second-nav-title: What services does LAB provide?
 What types of cases are handled by LAB?
 ---
 
+![image](/files/1399988115437.jpg)
+
 LAB only handles those cases dealt with in the Singapore Courts and tribunals where legal representation is allowed.
 
 Services offered by LAB cover a wide range of civil matters including: 
