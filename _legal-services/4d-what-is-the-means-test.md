@@ -109,12 +109,12 @@ The Means Test Indicator is merely a **guide** to indicate whether you may be fi
     <td></td>
     <td></td>
     <td>
-      <p>Personal Deductions</p>
-      <p>Working Spouse Deductions (if any)</p>
+      Personal Deductions<br>
+      Working Spouse Deductions (if any)
     </td>
     <td>
-      <p>S$6,000</p>
-      <p>S$6,000</p>
+      S$6,000<br>
+      S$6,000
     </td>
   </tr>
   <tr>
