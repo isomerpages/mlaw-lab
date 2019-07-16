@@ -18,5 +18,6 @@ Mental Capacity Act Applications
 [Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf) <br>
  
 [Medical Report - Blank Template](/files/Blank-MR.doc) <br>
+
 [Medical Report - Sample of a Completed Medical Report](/files/Sample-filled-in-MR.pdf) <br>
  
