@@ -10,11 +10,11 @@ second_nav_title: "What happens After I Apply?"
 What is the Means test?
 ---
 
-**1. What is the Means Test?**
+**1. What is the Means Test?**<br>
 
 The Means test determines your financial eligibility for legal aid by looking at an applicant’s disposable income and disposable capital.<br>
 
-**2. What is required under the Means Test?**
+**2. What is required under the Means Test?**<br>
 
 Only persons with a disposable income of not more than S$10,000 per year and a disposable capital of not more than S$10,000 may be granted legal aid.
 
@@ -24,7 +24,7 @@ If you pass the preliminary assessment done during the registration of your case
 
 A false declaration to LAB may lead to criminal prosecution.<br>
 
-**3. What is disposable income?**
+**3. What is disposable income?**<br>
 
 **Disposable income** is your total income together with your spouse’s income (if any) for the past 12 months, after deducting
 
@@ -33,7 +33,7 @@ A false declaration to LAB may lead to criminal prosecution.<br>
 * an amount not exceeding S$20,000 per year for rent; and
 * an amount equal to your contribution to the Central Provident Fund.<br>
 
-**4. What is disposable capital?**
+**4. What is disposable capital?**<br>
 
 Disposable capital is the property which you possess or to which you are entitled to, excluding
 
@@ -46,7 +46,7 @@ Disposable capital is the property which you possess or to which you are entitle
 * your Central Provident Fund (CPF) money in your CPF account; and
 * up to $46,000 of total surrender value of life insurance policies.<br>
 
-**5. Means Test Indicator: How do I calculate if I am likely to qualify for Legal Aid?**
+**5. Means Test Indicator: How do I calculate if I am likely to qualify for Legal Aid?**<br>
 
 The Means Test Indicator is merely a **guide** to indicate whether you may be financially eligible to qualify for legal aid and the results of the indicator **are no** guarantee that you will pass the means test. You will still have to come personally to the LAB to have your means assessed. (Foreign applicants under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) do not need to come personally to the LAB.)<br>
 
@@ -136,11 +136,11 @@ The Means Test Indicator is merely a **guide** to indicate whether you may be fi
 
 You should note that the limits for the total disposable capital and the total disposable income are S$10,000 each. This means that if you have more than S$10,000 for either disposal capital or disposal income, you will have failed the Means Test.<br>
 
-**6. What can I do if I am facing financial hardship?**
+**6. What can I do if I am facing financial hardship?**<br>
 
 If you do not satisfy the Means Test but are facing financial hardship, you should inform us of the hardship that you are facing, as the Director of Legal Aid has the discretion under the Act to determine whether to grant you further deductions for the relief of hardship in exceptional cases.<br>
 
-**7. How does the Director exercise his discretion to determine if I am facing hardship?**
+**7. How does the Director exercise his discretion to determine if I am facing hardship?**<br>
 
 The Director of Legal Aid may exercise his discretion where:
 
