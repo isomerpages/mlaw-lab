@@ -1,3 +1,10 @@
+layout	title	permalink	breadcrumb
+simple-page
+Payment
+/useful-links/
+Payment
+
+
 Useful Links
 ---
 
