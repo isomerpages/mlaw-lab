@@ -32,6 +32,5 @@ Legal aid may also be cancelled in the following situations:
 As an example, legal aid may be cancelled if you unreasonably refuse to accept your lawyer's advice or the Court's directions, or if you cannot be contacted despite numerous attempts to do so.<br>
  
 
-**What happens after legal aid is cancelled?**
-
+**What happens after legal aid is cancelled?**<br>
 We will inform you that you will no longer be legally represented by LAB. You will have to decide whether you wish to continue with your case in person or to engage a private lawyer to represent you. If no action is taken on your part to continue with your case, the Court may eventually strike out your case.
