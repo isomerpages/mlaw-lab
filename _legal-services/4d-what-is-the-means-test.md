@@ -174,7 +174,7 @@ c) You have suffered a sudden loss of income and require legal aid to defend or 
       <li>your spouse's contribution to the Central Provident Fund.</li>
     </ul>
   </li>
-</ul>
+</ul><br>
 
 d) You have applied for legal aid in respect of family proceedings as defined in the Act, where a minor is involved, to further exclude the following property in determining the disposable capital:
 
