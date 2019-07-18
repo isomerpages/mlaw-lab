@@ -20,27 +20,27 @@ Brochures and Forms
 
  
 
-[The Assigned Solicitor's Guide](/files/LAB-AS-Guide.pdf) <br>
+[The Assigned Solicitor's Guide](/files/LAB-AS-Guide.pdf){:target="_blank"} <br>
 *The Assigned Solicitor's Guide does not reflect the new amendments to the Legal Aid and Advice Act and the Legal Aid and Advice Regulations. We will be uploading an amended version of the Guide shortly.* <br>
 
  
 
 What I Should Know When Applying for Legal Aid<br>
-1. [English](/files/what-I-should-know-english.pdf) <br>
+1. [English](/files/what-I-should-know-english.pdf){:target="_blank"} <br>
 
-2. [Chinese](/files/what-I-should-know-chinese.pdf) <br>
+2. [Chinese](/files/what-I-should-know-chinese.pdf){:target="_blank"} <br>
 
-3. [Malay](/files/what-I-should-know-malay.pdf) <br>
+3. [Malay](/files/what-I-should-know-malay.pdf){:target="_blank"} <br>
 
-4. [Tamil](/files/what-I-should-know-tamil.pdf) <br>
-
- 
-
-[Documents to bring (in English & Mandarin)](/files/Documents-To-Bring-Eng-and-Mandarin.pdf) <br>
-[Documents to bring (in English & Malay)](/files/Docs-to-Bring-Eng-and-Malay.pdf) <br>
+4. [Tamil](/files/what-I-should-know-tamil.pdf){:target="_blank"} <br>
 
  
 
-[Direct Credit Authorisation Form](/files/DCA-Form.pdf)<br>
-[Giro Form](/files/Giro-form.pdf)<br>
+[Documents to bring (in English & Mandarin)](/files/Documents-To-Bring-Eng-and-Mandarin.pdf){:target="_blank"} <br>
+[Documents to bring (in English & Malay)](/files/Docs-to-Bring-Eng-and-Malay.pdf){:target="_blank"} <br>
+
+ 
+
+[Direct Credit Authorisation Form](/files/DCA-Form.pdf){:target="_blank"}<br>
+[Giro Form](/files/Giro-form.pdf){:target="_blank"}<br>
 
