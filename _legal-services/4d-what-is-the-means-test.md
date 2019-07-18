@@ -37,13 +37,13 @@ A false declaration to LAB may lead to criminal prosecution.<br>
 * your clothes;
 * your tools of trade;
 * your household furniture in your home;
-* a dwelling-house owned and exclusively used by you and your family as your home assessed at an IRAS annual value of not more than S$13,000; or a Housing and Development Board flat owned and exclusively used by you and your family as your home;
+* a dwelling-house owned and exclusively used by you and your family as your home assessed at an [IRAS](https://www.iras.gov.sg/irashome/default.aspx) annual value of not more than S$13,000; or a Housing and Development Board flat owned and exclusively used by you and your family as your home;
 * your savings of up to S$30,000, if you are aged 60 years and above; 
 * your Central Provident Fund (CPF) money in your CPF account; and
 * up to $46,000 of total surrender value of life insurance policies.<br>
 
 **5. Means Test Indicator: How do I calculate if I am likely to qualify for Legal Aid?**<br>
-The Means Test Indicator is merely a **guide** to indicate whether you may be financially eligible to qualify for legal aid and the results of the indicator **are no** guarantee that you will pass the means test. You will still have to come personally to the LAB to have your means assessed. (Foreign applicants under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) do not need to come personally to the LAB.)<br>
+The Means Test Indicator is merely a **guide** to indicate whether you may be financially eligible to qualify for legal aid and the results of the indicator are **no guarantee** that you will pass the means test. You will still have to come personally to the LAB to have your means assessed. (Foreign applicants under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) do not need to come personally to the LAB.)<br>
 
 <table>
   <tr>
