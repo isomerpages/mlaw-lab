@@ -137,9 +137,9 @@ If you do not satisfy the Means Test but are facing financial hardship, you shou
 **7. How does the Director exercise his discretion to determine if I am facing hardship?**<br>
 The Director of Legal Aid may exercise his discretion where:
 
-a) You are living separate and apart from your spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, to disregard your spouse’s income.
+**a)** You are living separate and apart from your spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, to disregard your spouse’s income.
 
-b) You have suffered from sudden physical or mental disability which permanently and severely restricts your capacity to earn an income; and it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship:
+**b)** You have suffered from sudden physical or mental disability which permanently and severely restricts your capacity to earn an income; and it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship:
 
 <ul>
   <li>in determining your disposable capital, exclude your savings of up to $30,000; and</li>
@@ -152,7 +152,7 @@ b) You have suffered from sudden physical or mental disability which permanently
   </li>
 </ul>
 
-c) You have suffered a sudden loss of income and require legal aid to defend or take legal proceedings as a matter of urgency; and it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship:
+**c)** You have suffered a sudden loss of income and require legal aid to defend or take legal proceedings as a matter of urgency; and it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship:
 
 <ul>
   <li>regard your disposable income limit to be not more than S$5,000 during the past six months; and</li>
@@ -169,7 +169,7 @@ c) You have suffered a sudden loss of income and require legal aid to defend or 
   </li>
 </ul><br>
 
-d) You have applied for legal aid in respect of family proceedings as defined in the Act, where a minor is involved, to further exclude the following property in determining the disposable capital:
+**d)** You have applied for legal aid in respect of family proceedings as defined in the Act, where a minor is involved, to further exclude the following property in determining the disposable capital:
 
 i) a dwelling-house owned and exclusively used by yourself and your family as your home if the annual value of the dwelling-house is assessed as not more than S$20,000; and
 
