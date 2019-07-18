@@ -76,7 +76,7 @@ ol li .image img{max-width:100%;}
   </li><br>
   <li>
     <b>Will LAB represent me immediately after I have applied for aid or after I have attended the first appointment?</b><br>
-    No. At the first appointment, LAB will start investigating your case to determine whether you pass the Means Test and the Merits Test. LAB will only represent you after your case has been fully investigated, you have passed the Means Test, and the Legal Aid Board determines that you have also passed the Merits Test.
+    No. At the first appointment, LAB will start investigating your case to determine whether you pass the Means Test and the Merits Test. LAB will only represent you after your case has been fully investigated, you have passed the Means Test, and the <a href="/legal-services/what-is-the-legal-aid-board/">Legal Aid Board</a> determines that you have also passed the Merits Test.
   </li><br>
   <li>
     <b>How long do I have to wait from the first appointment to the decision of the Legal Aid Board?</b><br>
