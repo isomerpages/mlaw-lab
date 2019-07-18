@@ -32,8 +32,10 @@ Under R12(7) of the Legal Aid Regulations, you have the right to discharge yours
 * that the applicant has required you to conduct the proceedings in such a manner so as to incur an unjustifiable expense to the Legal Aid Fund;
 * that he has unreasonably insisted on the continuance of the proceedings;
 * that he has wilfully failed to provide any information requested by you; or
-* that he, in furnishing information, has knowingly made a false representation.
+* that he, in furnishing information, has knowingly made a false representation.<br>
+
 In certain circumstances, the Director of Legal Aid may also cancel legal aid under Rule 8 of the Regulations. <br>
+
 After you have discharged yourself from acting for the applicant, or if the Director has decided to cancel legal aid, you should return all court documents and any other documents relating to the case together with your bill of costs. <br>
 
 <b><u>Must I tax my Solicitor & Client bill?</u></b> <br>
