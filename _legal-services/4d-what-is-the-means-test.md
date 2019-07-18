@@ -31,7 +31,7 @@ A false declaration to LAB may lead to criminal prosecution.<br>
 * an amount equal to your contribution to the Central Provident Fund.<br>
 
 **4. What is disposable capital?**<br>
-Disposable capital is the property which you possess or to which you are entitled to, excluding
+**Disposable capital** is the property which you possess or to which you are entitled to, excluding
 
 * the subject-matter of the proceedings (eg., if you are applying for a divorce, any property owned by you which may be considered as matrimonial property, which is subject to division, is excluded);
 * your clothes;
