@@ -32,9 +32,11 @@ key-highlights:
   - title: Assigned Solicitor
     description: Info on pro-bono work
     url: /resources/assigned-solicitors/
+    external: true
   - title: Login to Applicant Portal
     description: Register and case updates
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
+    external: true
 
 resources-title: 
 resources-subtitle: HIGHLIGHTS
