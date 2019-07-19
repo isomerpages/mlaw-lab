@@ -45,7 +45,7 @@ collections:
   legal-services:
     output: true
   resources:
-   output: true  
+   output: true
   e-services:
     output: true
-resources_name: resource-room
+
