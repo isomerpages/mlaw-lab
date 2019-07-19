@@ -23,18 +23,18 @@ button:
 key-highlights:
   - title: Apply for Legal Aid
     description: Our processes and other info
-    url: /legal-services/how-do-I-apply/
+    url: /legal-services/how-do-i-apply-for-legal-aid/
     external: true
   - title: Internship
     description: Our internship schemes
-    url: www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
     external: true
   - title: Assigned Solicitor
     description: Info on pro-bono work
     url: /resources/assigned-solicitors/
   - title: Login to Applicant Portal
     description: Register and case updates
-    url: www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
 
 resources-title: 
 resources-subtitle: HIGHLIGHTS
