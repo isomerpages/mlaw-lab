@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: When can legal aid be cancelled by the Legal Aid Board?
+title: Cancellation of Legal Aid
 permalink: /legal-services/when-can-legal-aid-be-cancelled-by-the-legal-aid-board/
-breadcrumb: When can legal aid be cancelled by the Legal Aid Board?
+breadcrumb: What happens after I apply?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
