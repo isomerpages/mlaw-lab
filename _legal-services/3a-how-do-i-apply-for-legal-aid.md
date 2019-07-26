@@ -25,7 +25,7 @@ ol li .image img{max-width:100%;}
   </li><br>
   <li>
     <b>How do I register for Legal Aid?</b><br>
-    If you require legal aid or advice, you can come to LAB during our office hours to make an application. Please bring along your Identity Card for the registration. Alternatively, you can make an online application at <https://www.mlaw.gov.sg/eservices/labesvc/>(https://www.mlaw.gov.sg/eservices/labesvc/)
+    If you require legal aid or advice, you can come to LAB during our office hours to make an application. Please bring along your Identity Card for the registration. Alternatively, you can make an online application at <https://www.mlaw.gov.sg/eservices/labesvc/><a href="https://www.mlaw.gov.sg/eservices/labesvc/")</a>
     <p>If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.</p>
   </li><br>
   <li>
