@@ -6,8 +6,7 @@ breadcrumb: What happens after I apply?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
-
-When can legal aid be cancelled by the Legal Aid Board?
+Cancellation of Legal Aid
 ---
 
 The [Legal Aid Board](/legal-services/what-is-the-legal-aid-board/) may cancel legal aid to you in the following situations: 
