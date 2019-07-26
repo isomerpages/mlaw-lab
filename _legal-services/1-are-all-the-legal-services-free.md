@@ -26,7 +26,7 @@ You are also required to pay for the preparation of various documents that are e
 **5. How do I pay my contribution or other charges to LAB?**<br>
 You can make payment online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/) or you can come down to LAB to pay either by cash or by NETS.
 
-For on-going payments, GIRO deductions can be arranged. Please fill up this form and send it to us.
+For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf) and send it to us.
 
 **6. Will I have to pay the costs of the opposing party if I lose the case?**<br>
 If legal aid is granted to you, you will usually not be ordered by the Court to pay costs if you lose the case. However, there may be situations in which the Court may order you to pay costs. For example, when the Court decides that you have obtained legal aid through fraud or misrepresentation or that you have acted improperly in the conduct of your Court proceedings, it may order you to pay costs to the opposing party.
