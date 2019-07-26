@@ -8,7 +8,7 @@ second_nav_title: "What happens After I Apply?"
 
 ---
 
-Taking the Means test?
+Taking the Means test
 ---
 
 **1. What is the Means Test?**<br>
