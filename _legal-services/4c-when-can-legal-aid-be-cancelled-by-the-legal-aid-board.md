@@ -24,7 +24,7 @@ Legal aid may also be cancelled in the following situations:
 * Where you require the proceedings to be conducted unreasonably thus incurring unjustifiable expenses
 * Where you require unreasonably that the proceedings be continued
 * Where you have wilfully failed to comply with the law as to information to be furnished by you, or where you have made a false statement when furnishing such information
-* Where further information received shows that you fail the [Means Test](/legal-services/what-is-merits-test/)
+* Where further information received shows that you fail the [Means Test](/legal-services/taking-the-means-test/)
 * Where you no longer have any reasonable grounds to continue with the case
 * Where it is unreasonable for you to continue receiving legal aid.
 
