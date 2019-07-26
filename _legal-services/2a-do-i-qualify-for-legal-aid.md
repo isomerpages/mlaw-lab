@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Do I qualify for legal aid?
-permalink: /legal-services/do-i-qualify-for-legal-aid/
-breadcrumb: Do I qualify for legal aid?
+title: Do I qualify?
+permalink: /legal-services/do-i-qualify/
+breadcrumb: Do I qualify?
 collection_name: legal-services
 
 ---
