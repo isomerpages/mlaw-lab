@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: How to make first payment
-permalink: /legal-services/payment/
-breadcrumb: What happens after I apply?
+title: How to make first payment?
+permalink: /legal-services/how-to-make-first-payment/
+breadcrumb: How to make first payment?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
 
-Payment
+How to make first payment?
 ---
 
 You can make payment through the following methods:
