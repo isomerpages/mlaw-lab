@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: How to make first payment?
+title: How to make first payment
 permalink: /legal-services/how-to-make-first-payment/
-breadcrumb: How to make first payment?
+breadcrumb: How to make first payment
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
