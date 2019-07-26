@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Taking the Merits Test
-permalink: /legal-services/what-the-merits-test/
+permalink: /legal-services/taking-the-merits-test/
 breadcrumb: Taking the Merits Test
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
