@@ -6,7 +6,7 @@ breadcrumb: Are all the legal services free?
 collection_name: legal-services
 ---
 
-Is legal aid free?
+Are all the legal services free?
 ---
 
 **1. Is legal aid free?**<br>
