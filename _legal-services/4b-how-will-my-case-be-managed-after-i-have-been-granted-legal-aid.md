@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: How will my case be managed after I have been granted legal aid?
+title: After Aid is Granted
 permalink: /legal-services/how-will-my-case-be-managed-after-i-have-been-granted-legal-aid/
-breadcrumb: How will my case be managed after I have been granted legal aid?
+breadcrumb: What happens after I apply?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
