@@ -5,9 +5,10 @@ permalink: /legal-services/what-is-the-means-test/
 breadcrumb: What is Means Test?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
+
 ---
 
-What is the Means test?
+Taking the Means test?
 ---
 
 **1. What is the Means Test?**<br>
