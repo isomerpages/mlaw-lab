@@ -7,7 +7,7 @@ collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
 
-How will my case be managed after I have been granted legal aid?
+After Aid is Granted
 ---
 
 **1. Who should I contact if I have any questions about my case?**<br>
