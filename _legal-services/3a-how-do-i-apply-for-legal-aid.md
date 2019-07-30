@@ -67,8 +67,8 @@ ol li .image img{max-width:100%;}
       <li>
         All other documents which are relevant to your case.<br>
         <p>You may download the following lists of documents to bring on your first appointment:</p>
-        <a href="/files/DocumentsToBringEngandMandarin.pdf">List of Documents in English & Chinese</a><br>
-        <a href="/files/DocstoBringEngandMalay.pdf">List of Documents in English & Malay</a>
+        <a href="/files/DocumentsToBringEngandMandarin.pdf">(509KB) List of Documents in English & Chinese</a><br>
+        <a href="/files/DocstoBringEngandMalay.pdf">(480KB) List of Documents in English & Malay</a>
         <p><sup>*</sup>For civil marriages, the documents to be translated to English if it is in other languages.<br>
         <sup>**</sup>To translate the Death Certificate or extract to English if it is in other languages.</p>
       </li>
