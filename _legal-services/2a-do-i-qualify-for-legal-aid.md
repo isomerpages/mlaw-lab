@@ -23,6 +23,6 @@ You must also pass the <a href="/legal-services/what-is-the-means-test/">Means T
  
 For information on the various aspects of the **Legal Aid Scheme**, you may download our brochure below:
 
-[Download our brochure in English](/files/LegalAidBureau-Flyer.pdf){:target="_blank"}
+[Download our brochure in English](/files/LegalAidBureau-Flyer.pdf){:target="_blank"}(KB)
 
 Haven't got Adobe Reader?  [Download it here](http://get.adobe.com/reader/otherversions/).
