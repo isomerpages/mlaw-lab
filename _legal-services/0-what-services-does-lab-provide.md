@@ -4,10 +4,10 @@ title: What services does LAB provide?
 permalink: /legal-services/what-services-does-lab-provide/
 breadcrumb: What Services does LAB provide?
 collection_name: legal-services
-second_nav_title: Types of Services
+second_nav_title: What services does LAB provide?
 ---
 
-What services does LAB provide?
+Types of Services
 ---
 
 LAB provides the following areas of help:
