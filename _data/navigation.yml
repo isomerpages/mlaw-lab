@@ -3,8 +3,6 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: Home
-  url: /
 - title: About Us
   url: /about-us/our-mission-core-values/
   sub-links:
