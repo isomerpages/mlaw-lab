@@ -17,15 +17,16 @@ What types of cases are handled by LAB?
 
 <div class="image"><img src="/images/1399988115437.jpg"></div>
 
-LAB only handles those cases dealt with in the Singapore Courts and tribunals where legal representation is allowed.
+LAB can represent you in civil proceedings, as set out in the Legal Aid and Advice Act.
 
-Services offered by LAB cover a wide range of civil matters including: 
+Examples of these civil cases include, but are not limited to: 
 
-* Divorce
-* Variation or enforcement of Court orders on ancillary matters in divorce (e.g. maintenance of ex-wife and children, division of assets and properties)
+* Divorce (including divorces under the Administration of Muslim Law Act)
+* Variation or enforcement of Court orders on ancillary matters in a divorce (e.g. maintenance of ex-wife and children, division of assets)
 * Adoption
 * Custody of children
-* Monetary claim
-* Claim for compensation in injury or medical negligence cases
+* Appointment of a Deputy under the Mental Capacity Act
+* Monetary claims
+* Claims in tort, e.g. compensation for injuries from accidents or medical negligence
 * Estate matters<br>
-(including the application for a Grant of Letters of Administration or Probate which are documents authorising the personal representative(s) of a deceased to deal with and distribute the deceased's assets)
+(including the application for a Grant of Letters of Administration or Probate, which are documents authorising the personal representative(s) of a deceased person to deal with and distribute the deceased person's assets)
