@@ -14,16 +14,20 @@ What types of cases are not handled by LAB?
 
 LAB does not handle criminal proceedings.
 
-If you require legal advice or representation in criminal proceedings, you may wish to approach the Law Society of Singapore which administers the Criminal Legal Aid Scheme.
+If you require legal advice or representation in criminal proceedings, you may approach the Law Society of Singapore which administers the Criminal Legal Aid Scheme ("CLAS").
+
+You can find out more about CLAS at http://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx and CLAS can be contacted at 65341564.
 
 **Certain Civil Proceedings**<br>
 
-LAB also does not handle certain civil proceedings including the following:
+LAB also does not handle certain civil proceedings including, but not limited to, the following:
 
 * Defamation cases
 * Proceedings before the Small Claims Tribunal and the Tribunal for the Maintenance of Parents
-* Proceedings in the Family Court for maintenance and personal protection orders where the opposing party is not legally represented
+* Mediation at the Tripartite Alliance for Dispute Management and proceedings before the Employment Claims Tribunal
 
-**Director’s Discretion**<br>
+Generally, LAB also does not handle proceedings in the Family Court for Maintenance and Personal Protection Orders where the opposing party is not legally represented, unless there are exceptional circumstances (for example the applicant is a vulnerable person (e.g. disabled, bedridden)
 
-The Director of Legal Aid may refuse legal aid if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case.
+**Proceedings involving Foreign Law or Foreign Subject Matter**<br>
+
+LAB is only authorised to give legal advice on Singapore law, and to provide aid for civil proceedings in the Singapore courts. Is is therefore unlikely to be able to assist in cases clearly involving foreign law or a foreign subject matter e.g. property outside of Singapore.
