@@ -23,7 +23,7 @@ In respect of a person who lacks mental capacity, the person seeking to be his C
 
 A Deputy is a person appointed by the Court to make certain important decisions concerning the mentally incapacitated person's welfare, propert and/ot affairs. 
 
-All applicants must also pass the Means Test <a href="/legal-services/taking-the-means-test/">Means Test</a> and Merits Test <a href="/legal-services/taking-the-merits-test/">Merits Test</a> before legal aid can be granted.
+All applicants must also pass the <a href="/legal-services/taking-the-means-test/">Means Test</a> and <a href="/legal-services/taking-the-merits-test/">Merits Test</a> before legal aid can be granted.
 
 NOTE: The Director of Legal Aid may refuse legal aid, even if the applicant has passed the means and merits tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation.
  
