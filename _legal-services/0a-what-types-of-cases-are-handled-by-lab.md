@@ -25,8 +25,8 @@ Examples of these civil cases include, but are not limited to:
 * Variation or enforcement of Court orders on ancillary matters in a divorce (e.g. maintenance of ex-wife and children, division of assets)
 * Adoption
 * Custody of children
-* Appointment of a Deputy under the Mental Capacity Act
 * Monetary claims
+* Appointment of a Deputy under the Mental Capacity Act
 * Claims in tort, e.g. compensation for injuries from accidents or medical negligence
 * Estate matters<br>
 (including the application for a Grant of Letters of Administration or Probate, which are documents authorising the personal representative(s) of a deceased person to deal with and distribute the deceased person's assets)
