@@ -23,7 +23,7 @@ If you are unable to pay your contribution in full, you must inform us immediate
 **4. What other charges might I be required to pay?**<br>
 You are also required to pay for:
 - obtaining and/or preparing various essential documents, such as medical reports and opinions from experts
-- other fees incurred e.g. for personal service of Court documents on the opposing party.
+- other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
 You can make payment online at [https://lab.mlaw.gov.sg/eservices/labesvc/](https://lab.mlaw.gov.sg/eservices/labesvc/) or you can come down in person to LAB to pay either by cash or by NETS.
