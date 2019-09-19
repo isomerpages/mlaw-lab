@@ -7,12 +7,21 @@ breadcrumb: Contact Us
 
 FAQs
 ---
+
 Have questions?<br>
 
-[Find the answers here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)<br>
+<div class="image">
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px; float: left;"></a>
+</div><br>
 
-Contact Us @ OneMinLaw
----
+<div class="paragraphs">
+   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
+   <div class="content-heading">
+   <h3> Contact Us @ OneMinLaw</h3>
+  </div>
+</div>
+
 You can send us your feedback and enquiries on the following issues:<br>
 
 * Bankruptcy Matters<br>
@@ -25,10 +34,18 @@ You can send us your feedback and enquiries on the following issues:<br>
 * Exemption & Examination for Admission to the Singapore Bar<br>
 * General Enquiries<br>
 
-[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)
+<div class="image">
+  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
+</div><br>
 
-Location
----
+<div class="paragraphs">
+   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/loc.png/"></a>
+   <div class="content-heading">
+   <h3> Location</h3>
+  </div>
+</div>
+
 **Ministry of Law Services Centre**
 
 45 Maxwell Road<br>
@@ -43,8 +60,14 @@ Closed on Weekends & Public Holidays<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8229405858337!2d103.84294531475398!3d1.2798659990665142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1912c3f8f9a1%3A0x1300f7ac70e55bda!2sSingapore+069118!5e0!3m2!1sen!2ssg!4v1563259237607!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Call Us
----
+<div class="paragraphs">
+   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/call.png/"></a>
+   <div class="content-heading">
+   <h3> Call Us</h3>
+  </div>
+</div>
+
 Enquiry Line Operating Hours<br>
 
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
