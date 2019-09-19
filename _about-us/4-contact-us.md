@@ -9,6 +9,7 @@ collection_name: about-us
 
 FAQs
 ---
+
 Have questions?<br>
 
 [Find the answers here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)<br>
@@ -25,7 +26,6 @@ Have questions?<br>
   </div>
 </div>
 
----
 You can send us your feedback and enquiries on the following issues:<br>
 
 * Bankruptcy Matters<br>
@@ -50,8 +50,6 @@ You can send us your feedback and enquiries on the following issues:<br>
   </div>
 </div>
 
----
-
 **Ministry of Law Services Centre**
 
 45 Maxwell Road<br>
@@ -73,8 +71,6 @@ Closed on Weekends & Public Holidays<br>
    <h3> Call Us</h3>
   </div>
 </div>
-
----
 
 Enquiry Line Operating Hours<br>
 
