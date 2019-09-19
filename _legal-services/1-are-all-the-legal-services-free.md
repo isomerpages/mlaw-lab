@@ -26,7 +26,7 @@ You are also required to pay for:
 - other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
-You can make payment online at [https://lab.mlaw.gov.sg/eservices/labesvc/](https://lab.mlaw.gov.sg/eservices/labesvc/) or you can come down in person to LAB to pay either by cash or by NETS.
+You can make payment online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://mlaw.gov.sg/eservices/labesvc/) or you can come down in person to LAB to pay either by cash or by NETS.
 
 For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf)(205KB) and send it to us.
 
