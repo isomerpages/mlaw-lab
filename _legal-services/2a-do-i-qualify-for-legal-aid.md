@@ -15,7 +15,7 @@ Legal Aid is available to
 
 (a) Singapore citizens and permanent residents who are residing in Singapore;
 
-(b) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website [here](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Hague-Convention-on-the-Civil-Aspects-of-International-Child-Abduction.aspx){:target="_blank"}.
+(b) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website <a target="_blank" alt="MSF" href="https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Hague-Convention-on-the-Civil-Aspects-of-International-Child-Abduction.aspx">here</a>.
 
 If you are below the age of 21, your parent or guardian must apply for legal aid on your behalf.
  
