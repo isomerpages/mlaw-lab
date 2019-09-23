@@ -10,4 +10,7 @@ collection_name: about-us
 Statistics
 ---
 
-![image](/images/1498802839311.jpg)
+<div class="image">
+    <br><img src="/images/1498802839311.jpg" title="Statistics" alt="Statistics">
+  </a>
+</div>
