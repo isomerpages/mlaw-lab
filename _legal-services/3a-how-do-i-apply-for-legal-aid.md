@@ -19,7 +19,7 @@ ol li .image img{max-width:100%;}
 <ol>
   <li>
     <b>Overview of the legal aid process</b><br>
-    <div class="image"><img src="/images/legal-aid-overview.jpg/"></div>
+    <div class="image"><img src="/images/legal-aid-overview.jpg/" alt="overview"></div>
     <sup>*</sup>Please note that this is a general guide as to how the case is processed and is not intended to be an exhaustive description of the caseflow as the actual facts of each case will affect how it is dealt with.<br>
     <sup>**</sup>This is not applicable to applications under the Hague Convention on the Civil Aspects of International Child Abduction.
   </li><br>
