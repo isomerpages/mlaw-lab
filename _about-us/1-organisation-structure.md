@@ -12,5 +12,4 @@ Organisation structure
 
 <div class="image">
     <br><img src="/images/1545802948932.jpg" title="Organisation Structure" alt="Organisation Structure">
-  </a>
 </div>
