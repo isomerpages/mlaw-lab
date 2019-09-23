@@ -10,8 +10,10 @@ collection_name: about-us
 History
 ---
 
-![image](/images/1399988168555.jpg)
-
+<div class="image">
+    <br><img src="/images/1399988168555.jpg" title="Organisation Structure" alt="Organisation Structure">
+  </a>
+</div>
 On 4 April 1956, the Legal Aid and Advice Bill was introduced in the Legislative Assembly. The aim of the Bill was “to make legal aid and advice in the Colony more readily available to persons of limited means”. LAB is now governed by the Legal Aid and Advice Act (Cap 160). <br>
 
 LAB was set up on 1 July 1958 as a department under the Ministry of Labour and Welfare. It was housed at the former Ministry of Labour Building at Havelock Road. With that, Singapore became the first country in South East Asia to have a legal aid scheme.<br>
