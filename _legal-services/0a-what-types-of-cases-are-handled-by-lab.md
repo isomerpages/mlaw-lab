@@ -15,7 +15,7 @@ second_nav_title: What services does LAB provide?
 What types of cases are handled by LAB?
 ---
 
-<div class="image"><img src="/images/1399988115437.jpg"></div>
+<div class="image"><img src="/images/1399988115437.jpg" title="Cases Handled" alt="Cases Handled"></div>
 
 LAB can represent you in civil proceedings, as set out in the Legal Aid and Advice Act.
 
