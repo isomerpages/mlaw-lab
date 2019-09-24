@@ -46,7 +46,16 @@
     url: /resources/brochures-forms/
   - title: Assigned Solicitors
     url: /resources/assigned-solicitors/
-- title: Login to e-Services 
+- title: LAB Volunteer Schemes
+  url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+  sub-links: 
+  - title: What are the Duties of an Assigned Solicitor
+    url: /lab-volunteer-schemes/what-are-the-duties-of-an-assigned-solicitor/
+  - title: Issues to Take Note When Handling Assigned Cases
+    url: /lab-volunteer-schemes/issues-to-take-note-when-handling-assigned-cases/
+  - title: Award Recipients
+    url: /lab-volunteer-schemes/award-recipients/
+ - title: Login to e-Services 
   url: https://www.mlaw.gov.sg/eservices/labesvc/
   sub-links:
   - title: Login to Applicant Portal
