@@ -48,9 +48,9 @@ The Means Test Indicator is merely a **guide** to indicate whether you may be fi
 
 <table>
   <tr>
-    <th><b>Capital Assets</b></th>
+    <th>Capital Assets</th>
     <th></th>
-    <th><b>Income</b></th>
+    <th>Income</th>
     <th></th>
   </tr>
   <tr>
