@@ -48,10 +48,10 @@ The Means Test Indicator is merely a **guide** to indicate whether you may be fi
 
 <table>
   <tr>
-    <td><b>Capital Assets</b></td>
-    <td></td>
-    <td><b>Income</b></td>
-    <td></td>
+    <th><b>Capital Assets</b></th>
+    <th></th>
+    <th><b>Income</b></th>
+    <th></th>
   </tr>
   <tr>
     <td>1. If you own any motor vehicle, what is its value?</td>
