@@ -25,7 +25,6 @@ If you are a lawyer who wishes to volunteer but no longer have a valid practisin
 <b> <u>How do I sign up? </u> </b> <br>
 To sign up as an Assigned Solicitor, please visit our e-services page and click on the link "Register as an LAB Volunteer".
 
-**[The Assigned Solicitor’s Guide (436KB)](/files/LAB-AS-Guide.pdf)** <br>
-*The Assigned Solicitor's Guide does not reflect the new amendments to the Legal Aid and Advice Act and the Legal Aid and Advice Regulations. We will be uploading an amended version of the Guide shortly.* <br>
+
 
  
