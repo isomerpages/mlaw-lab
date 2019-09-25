@@ -35,7 +35,7 @@
     url: /legal-services/grant-by-legal-aid-board/
 - title: Resources
   url: /resources/legal-aid-advice-act-regulations/
-  sub-links: 
+  sub-links:
   - title: Legal Aid and Advice Act & Regulations
     url: /resources/legal-aid-advice-act-regulations/
   - title: Mental Capacity Act Applications
@@ -48,17 +48,17 @@
     url: /resources/assigned-solicitors/
 - title: LAB Volunteer Schemes
   url: /lab-volunteer-schemes/assigned-solicitors-scheme/
-  sub-links: 
+  sub-links:
   - title: Assigned Solicitors Scheme
     url: /lab-volunteer-schemes/assigned-solicitors-scheme/
   - title: Volunteer Lawyers Scheme
     url: /lab-volunteer-schemes/volunteer lawyers scheme/
- - title: Login to e-Services 
+ - title: Login to e-Services
   url: https://www.mlaw.gov.sg/eservices/labesvc/
   sub-links:
   - title: Login to Applicant Portal
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
-  - title: Login to Assigned Solicitor Portal 
+  - title: Login to Assigned Solicitor Portal
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=4
   - title: Register as an Intern
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
@@ -66,4 +66,3 @@
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=1
   - title: Register SingPass Account
     url: https://www.singpass.gov.sg/singpass/register/instructions
-
