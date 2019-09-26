@@ -4,10 +4,10 @@ title: Volunteer Lawyers Scheme
 permalink: /lab-volunteer-schemes/volunteer-lawyers-scheme/
 breadcrumb: Volunteer Lawyers Scheme
 collection_name: lab-volunteer-schemes
-
 ---
 Volunteer Lawyers 
 ---
+
 The LAB Volunteer Lawyers Scheme was launched in 2008 to provide an opportunity for lawyers without practicing certificates to assist the less privileged.
 
 Suitable candidates for this scheme include lawyers who have retired from full-time practice, lawyers who are on sabbatical or extended maternity leave, and academics.
