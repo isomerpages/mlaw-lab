@@ -46,6 +46,8 @@ collections:
     output: true
   resources:
    output: true
+  lab-volunteer-schemes:
+   output: true
   e-services:
     output: true
 
