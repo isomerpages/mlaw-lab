@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Volunteer Lawyers Scheme
 permalink: /lab-volunteer-schemes/volunteer-lawyers-scheme/
 breadcrumb: Volunteer Lawyers Scheme
-collection_name: lab-volunteer-schemes
+collection_name: LAB-volunteer-schemes
 
 ---
 Volunteer Lawyers 
