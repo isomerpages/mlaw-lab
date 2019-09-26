@@ -4,7 +4,7 @@ title: Volunteer Lawyers Scheme
 permalink: /lab-volunteer-schemes/volunteer-lawyers-scheme/
 breadcrumb: Volunteer Lawyers Scheme
 collection_name: lab-volunteer-schemes
-second_nav_title: "Volunteer Lawyers Scheme"
+
 ---
 Volunteer Lawyers 
 ---
