@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: What is an Assigned Solicitor
+title: Assigned Solicitor Scheme
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
-breadcrumb: What is an Assigned Solicitor
+breadcrumb: Assigned Solicitor Scheme
 collection_name: lab-volunteer-schemes
 
 ---
