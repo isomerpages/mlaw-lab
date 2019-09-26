@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Important Issues to Note
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
 breadcrumb: Important Issues to Note
-collection_name: lab-volunteer-schemes
+collection_name: LAB-volunteer-schemes
 
 ---
 Important Issues to Note
