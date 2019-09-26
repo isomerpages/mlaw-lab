@@ -25,7 +25,7 @@ hero-banner: /images/Hero Banner_LAB.jpg
 button:
   - text: Contact Us
     url: /about-us/contact-us/
-    
+
 key-highlights:
   - title: Apply for Legal Aid
     description: Our processes and other info
@@ -44,7 +44,7 @@ key-highlights:
     url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
     external: true
 
-resources-title: 
+resources-title:
 resources-subtitle: HIGHLIGHTS
 # resources-more-button: More Resources
 # resources-more-button-url: resource-room/
