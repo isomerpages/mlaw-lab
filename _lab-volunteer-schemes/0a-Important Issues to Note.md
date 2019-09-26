@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Important Issues to Note
-permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
+permalink: /lab-volunteer-schemes/important-issues-to-note/
 breadcrumb: Important Issues to Note
 collection_name: lab-volunteer-schemes
 
