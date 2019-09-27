@@ -3,69 +3,68 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
 - title: About Us
-  url: /about-us/mission-core-values/
+  url: /about-us/our-mission-core-values/
   sub-links:
-  - title: Mission Core Values
-    url: /about-us/mission-core-values/
-  - title: Organisation Structure
+  - title: Our mission and core values
+    url: /about-us/our-mission-core-values/
+  - title: Organisation structure
     url: /about-us/organisation-structure/
   - title: History
     url: /about-us/history/
   - title: Corporate Video
     url: /about-us/corporate-video/
-  - title: Brochures And Forms
-    url: /about-us/brochures-and-forms/
+  - title: Contact Us
+    url: /about-us/contact-us/
   - title: Statistics
     url: /about-us/statistics/
-  - title: e-Publication
-    url: /about-us/e-publication/
-- title: What We Do
-  url: /what-we-do/services-lab-provide/
+  - title: Help with a Heart
+    url: /about-us/help-with-a-heart/
+- title: Legal Services
+  url: /legal-services/type-of-services/
   sub-links:
-  - title: Services Lab Provide
-    url: /what-we-do/services-lab-provide/
-  - title: Types Of Cases Handled By Lab
-    url: /what-we-do/types-of-cases-handled-by-lab/
-  - title: Types Of Cases Not Handled By Lab
-    url: /what-we-do/types-of-cases-not-handled-by-lab/
-  - title: Legal Aid
-    url: /what-we-do/legal-aid/
-- title: Getting Legal Aid
-  url: /applying-for-legal-aid/eligibility/
-  sub-links:
-  - title: Eligibility
-    url: /applying-for-legal-aid/eligibility/
-  - title: How To Apply For Legal Aid
-    url: /applying-for-legal-aid/how-to-apply-for-legal-aid/
-  - title: Unclaimed Monies
-    url: /applying-for-legal-aid/unclaimed-monies/
-- title: Post Application
-  url: /post-application/legal-aid-board/
-  sub-links:
-  - title: Legal Aid Board
-    url: /post-application/legal-aid-board/
-  - title: How Will My Case Be Managed After I Have Been Granted Legal Aid
-    url: /post-application/how-will-my-case-be-managed-after-i-have-been-granted-legal-aid/
-  - title: When Legal Aid Be Cancelled By The Legal Aid Board
-    url: /post-application/when-legal-aid-be-cancelled-by-the-legal-aid-board/
-  - title: Subject To Third Party Casino Exclusion
-    url: /post-application/subject-to-third-party-casino-exclusion/
+  - title: What services does LAB provide?
+    url: /legal-services/type-of-services/
+  - title: Are all the legal services free?
+    url: /legal-services/are-all-the-legal-services-free/
+  - title: Do I qualify?
+    url: /legal-services/do-i-qualify/
+  - title: How do I apply?
+    url: /legal-services/how-do-i-apply-for-legal-aid/
+  - title: What happens after I apply?
+    url: /legal-services/grant-by-legal-aid-board/
 - title: Resources
-  url: /resource-room/
+  url: /resources/legal-aid-advice-act-regulations/
   sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Forms & Brochures
-    url: /resource-room/subcategory-A/
-  - title: Corporate Video
-    url: /resource-room/subcategory-B/
+  - title: Legal Aid and Advice Act & Regulations
+    url: /resources/legal-aid-advice-act-regulations/
+  - title: Mental Capacity Act Applications
+    url: /resources/mental-capacity-act-applications/
   - title: Publications
-    url: /resource-room/subcategory-C/
-- title: Join Us
-  url: /join-us/
-- title: E Service
-  url: /e-service/
-- title: Payment
-  url: /payment/
+    url: /resources/publications/
+  - title: Brochures and Forms
+    url: /resources/brochures-forms/
+  - title: Assigned Solicitors
+    url: /resources/assigned-solicitors/
+- title: LAB Volunteer Schemes
+  url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+  sub-links:
+  - title: Assigned Solicitors Scheme
+    url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+  - title: Important Issues To Note
+    url: /lab-volunteer-schemes/important-issues-to-note/
+  - title: Volunteer Lawyers Scheme
+    url: /lab-volunteer-schemes/volunteer-lawyers-scheme/
+- title: Login to e-Services
+  url: https://www.mlaw.gov.sg/eservices/labesvc/
+  sub-links:
+  - title: Login to Applicant Portal
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
+  - title: Login to Assigned Solicitor Portal
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=4
+  - title: Register as an Intern
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
+  - title: Register as an LAB Volunteer
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=1
+  - title: Register SingPass Account
+    url: https://www.singpass.gov.sg/singpass/register/instructions

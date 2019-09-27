@@ -5,38 +5,46 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-minlaw.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/mlaw-logo.png
+
+
+
+# Google analytics
+
+google-analytics: UA-10405444-12
 
 # Hero Banner
 hero-title: LEGAL AID BUREAU
 hero-subtitle: Advancing access to justice, the rule of law, the economy and society through policy, law and services.
-hero-banner: /images/hero-banner.png
+hero-banner: /images/Hero Banner_LAB.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
-    
+  - text: Contact Us
+    url: /about-us/contact-us/
+
 key-highlights:
   - title: Apply for Legal Aid
-    description: Important highlight A is important
-    url: https://google.com
+    description: Our processes and other info
+    url: /legal-services/how-do-i-apply-for-legal-aid/
     external: true
   - title: Internship
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+    description: Our internship schemes
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=2
     external: true
   - title: Assigned Solicitor
-    description: Page A is important too
-    url: /page-A/
+    description: Info on pro-bono work
+    url: /resources/assigned-solicitors/
+    external: true
   - title: Login to Applicant Portal
-    description: Page B is important too
-    url: /page-B/
+    description: Register and case updates
+    url: https://www.mlaw.gov.sg/eservices/labesvc/?tabIndex=3
+    external: true
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-title:
+resources-subtitle: HIGHLIGHTS
+# resources-more-button: More Resources
+# resources-more-button-url: resource-room/
