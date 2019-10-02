@@ -10,10 +10,11 @@ favicon: /images/favicon-minlaw.ico
 # Agency logo
 agency-logo: /images/mlaw-logo.png
 
+# AskJamie
+ask-jamie: non-empty string
 
 
 # Google analytics
-
 google-analytics: UA-10405444-12
 
 # Hero Banner
