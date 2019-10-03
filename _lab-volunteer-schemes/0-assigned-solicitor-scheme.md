@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Assigned Solicitors
-permalink: /lab-volunteer-schemes/assigned-solicitors/
+permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
 breadcrumb: Assigned Solicitors
 collection_name: lab-volunteer-schemes
 second_nav_title: Assigned Solicitors
