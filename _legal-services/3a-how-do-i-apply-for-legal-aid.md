@@ -7,7 +7,7 @@ collection_name: legal-services
 second_nav_title: "How do I Apply?"
 ---
 
-How do I apply for legal aid?
+How do I apply for LAB's Services?
 ---
 
 <style>
@@ -18,15 +18,19 @@ ol li .image img{max-width:100%;}
 
 <ol>
   <li>
-    <b>Overview of the legal aid process</b><br>
+    <b>Overview of LAB's Application Process for Legal Aid and Assistance</b><br>
     <div class="image"><img src="/images/legal-aid-overview.jpg/" alt="Overview of legal Aid Process" title="Overview"></div>
-    <sup>*</sup>Please note that this is a general guide as to how the case is processed and is not intended to be an exhaustive description of the caseflow as the actual facts of each case will affect how it is dealt with.<br>
-    <sup>**</sup>This is not applicable to applications under the Hague Convention on the Civil Aspects of International Child Abduction.
-  </li><br>
+    <sup>*</sup>Please note that this is a general overview of the LAB's application process for legal aid and assistance. Your application may be processed differently, depending on the facts of your case.
+    For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.<br>
+    <sup>**</sup>This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
+  Please see (11) below for further information.</li><br>
   <li>
-    <b>How do I register for Legal Aid?</b><br>
-    If you require legal aid or advice, you can come to LAB during our office hours to make an application. Please bring along your Identity Card for the registration. Alternatively, you can make an online application at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
-    <p>If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.</p>
+    <b>How do I register for LAB's services?</b><br>
+    If you require legal aid, assistance, or advice, you can either*:
+    (a) Register your case online at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
+    <p>For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB within 2 working days. 
+    Or
+    (b) Come to LAB during office hours (8.30 am to 5.00 pm) on weekdays to make an application. Please note that LAB is closed on weekends and public holidays.</p>
   </li><br>
   <li>
     <b>I do not reside in Singapore. How can I register for legal aid for an application under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) [with effect from 1 Mar 2011]?</b><br>
