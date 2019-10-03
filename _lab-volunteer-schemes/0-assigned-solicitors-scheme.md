@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Assigned Solicitors
 permalink: /lab-volunteer-schemes/assigned-solicitors/
-breadcrumb: Assigned Solicitor 
+breadcrumb: Assigned Solicitors 
 collection_name: assigned-solicitor-scheme
-second_nav_title: Assigned Solicitors Scheme
+second_nav_title: Assigned Solicitor Scheme
 ---
 Assigned Solicitors 
 ---
