@@ -18,28 +18,43 @@ ol li .image img{max-width:100%;}
 
 <ol>
   <li>
-    <b>Overview of LAB's Application Process for Legal Aid and Assistance</b><br>
-    <div class="image"><img src="/images/legal-aid-overview.jpg/" alt="Overview of legal Aid Process" title="Overview"></div>
-    <sup>*</sup>Please note that this is a general overview of the LAB's application process for legal aid and assistance. Your application may be processed differently, depending on the facts of your case.
-    For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.<br>
-    <sup>**</sup>This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
-  Please see (11) below for further information.</li><br>
-  <li>
-    <b>How do I register for LAB's services?</b><br>
-    If you require legal aid, assistance, or advice, you can either*:
+![**1. Overview of LAB's Application Process for Legal Aid and Assistance**](images/LAB%20process%20workflow.jpg)
+Please note that this is a general overview of the LAB's application process for legal aid and assistance. Your application may be processed differently, depending on the facts of your case.
+<li>
+For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.<br>
+<li>
+This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
+<li>   
+Please see (11) below for further information.</li><br>
+<li>
+<b>2. How do I register for LAB's services?</b><br>
+If you require legal aid, assistance, or advice, you can either*:
+<li>
     (a) Register your case online at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
-    <p>For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB within 2 working days. 
+    <p>For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB **within 2 working days**. 
+   <li>
     Or
+   <li>
     (b) Come to LAB during office hours (8.30 am to 5.00 pm) on weekdays to make an application. Please note that LAB is closed on weekends and public holidays.</p>
+  <li>
+    <sup>*</sup> If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf. 
   </li><br>
   <li>
-    <b>I do not reside in Singapore. How can I register for legal aid for an application under the Hague Convention on the Civil Aspects of International Child Abduction (HCCAICA) [with effect from 1 Mar 2011]?</b><br>
-    You are required to complete Form 1 - Application for Legal Aid for matters relating to the HCCAICA and submit it to the Singapore Central Authority.
+    <b>3. What are the benefits of registering online?</b><br>
+    If you register online, you will be immediately placed in the queue to see the Duty Lawyer for your matter. You will not need to tell our staff about the facts or your case or answer questions about your financial situation (“preliminary means test”).
   </li><br>
   <li>
-    <b>What happens during my first appointment?</b><br>
-    During your first appointment, your means will be reassessed by our Commissioner for Oaths. You will be required to swear a Statutory Declaration on your income and capital, and you will have to furnish LAB with relevant information on your case.
-    <p>A person who knowingly makes any false statement or representation to LAB shall be guilty of an offence and shall be liable on conviction to a fine of up to $5,000 or imprisonment of up to six months or to both.</p>
+    <b>4. What happens when I attend at LAB?</b><br>
+    **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
+    <p>If your matter is within LAB’s scope of work and you pass the preliminary means test, then:</p>
+    <li>
+    (a) If you only need legal advice, you will be able to consult the Duty Lawyer.
+    <li>
+    (b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you.
+    <li>
+    (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
+    <li>
+    **If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
   </li><br>
   <li>
     <b>What documents do I bring to my first appointment?</b><br>
