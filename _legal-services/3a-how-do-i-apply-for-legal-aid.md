@@ -25,13 +25,13 @@ Please see (11) below for further information.
 
 **2. How do I register for LAB's services?**<br>
 If you require legal aid, assistance, or advice, you can either*:
-<li>
+
 (a) Register your case online at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
-<li>
+
 For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB **within 2 working days**.
-<li>
+
 Or
-<li>
+
 (b) Come to LAB during office hours (8.30 am to 5.00 pm) on weekdays to make an application. Please note that LAB is closed on weekends and public holidays.
 
 <sup>*</sup> If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.  
@@ -45,11 +45,11 @@ If you register online, you will be immediately placed in the queue to see the D
 **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
   
 If your matter is within LAB’s scope of work and you pass the preliminary means test, then:
-<li>
+
 (a) If you only need legal advice, you will be able to consult the Duty Lawyer
-<li>
+
 (b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you
-<li>
+
 (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
 
 **If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
@@ -116,7 +116,7 @@ Please ensure you have an active SingPass and bring the following documents to e
 **9. Will LAB represent me immediately after I have applied for aid or after Statement Taking?**<br>
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
 
-You can find out more about the Merits Test here: <a href="/legal-services/taking-the-merits-test/">Merits Test</a>
+You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a> here. 
 
 You will be informed of the Board's decision on whether you have been granted legal aid once the decision has been made. 
 
