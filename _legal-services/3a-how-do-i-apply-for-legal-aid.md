@@ -133,23 +133,6 @@ In urgent cases (for example where there are ongoing court proceedings), LAB may
 
 
 
-
-
-
-
-If you require legal aid, assista
-
-****<br>
-
-No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
-
-You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a> here. 
-
-You will be informed of the Board's decision on whether you have been granted legal aid once the decision has been made. 
-
-In urgent cases (for example where there are ongoing court proceedings), LAB may represent you under a Provisional Grant of Aid ("PGA") even before you have passed the Merits Test. This PGA will continue/be renewed until the Board makes a decision for your case.
-
-
 **10. How long do I have to wait from the Statement Taking to the decision on whether I have been granted aid?**<br>
 
 This depends on the complexity of your case and the amount of time needed for investigations. For fairly straightforward cases, it will usually take about four months before the decision is made on whether to grant you aid. 
