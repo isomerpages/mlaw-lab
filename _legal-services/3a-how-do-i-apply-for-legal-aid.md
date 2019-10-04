@@ -12,7 +12,7 @@ How do I apply for LAB's Services?
 
 **1. Overview of LAB's Application Process for Legal Aid and Assistance**<br>
 
-IMAGE
+<div class="image"><img src="/images/LAB process workflow.jpg" alt="LAB process" title="LAB process"></div>
 
 Please note that this is a general overview of the LAB's application process for legal aid and assistance. Your application may be processed differently, depending on the facts of your case.
 
