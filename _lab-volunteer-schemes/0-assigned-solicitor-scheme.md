@@ -4,7 +4,7 @@ title: Assigned Solicitors
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
 breadcrumb: Assigned Solicitors
 collection_name: lab-volunteer-schemes
-second_nav_title: Assigned Solicitors
+second_nav_title: Assigned Solicitor Scheme
 ---
 Assigned Solicitors 
 ---
