@@ -86,33 +86,33 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
 
   Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:
-    <ol>
-      <li>Your identity card (IC)</li>
-      <li>Valid Passport if you are a Permanent Resident (PR)</li>
-      <li>Applicant's CPF Contribution History for the past 12 months</li>
-      <li>Spouse's CPF Contribution History for the past 12 months</li>
-      <li>Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF</li>
-      <li>Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF</li>
-      <li>Applicant's Latest Income Tax Assessment/ (IR8A form)</li>
-      <li>Spouse's Latest Income Tax Assessment/ (IR8A form)</li>
-      <li>Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information</li>
-      <li>Tenancy/Rental Agreement</li>
-      <li>Applicant's Insurance Policies and their Surrender Values</li>
-      <li>The Central Depository (CDP) Account Statement (if any)</li>
-      <li>Original/Certified Copy of Marriage Certificate<sup>*</sup></li>
-      <li>Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)</li>
-      <li>Motor Vehicles Log Book or Purchase Invoice</li>
-      <li>For Letter of Administration and Probate case:<br>
+    
+      1. Your identity card (IC)
+      2. Valid Passport if you are a Permanent Resident (PR)
+      3. Applicant's CPF Contribution History for the past 12 months
+      4. Spouse's CPF Contribution History for the past 12 months
+      5. Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
+      6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
+      7. Applicant's Latest Income Tax Assessment/ (IR8A form)
+      8. Spouse's Latest Income Tax Assessment/ (IR8A form)
+      9. Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information
+      10. Tenancy/Rental Agreement
+      11. Employment contract/agreement
+      12. Applicant's Insurance Policies and their Surrender Values
+      13. The Central Depository (CDP) Account Statement (if any)
+      14. Original/Certified Copy of Marriage Certificate<sup>*</sup>
+      15. Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)
+      16. Motor Vehicles Log Book or Purchase Invoice
+      17. For Letter of Administration and Probate case:<br>
         (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)<sup>*</sup><br>
         (ii) Inheritance Certificate (for Muslim deceased persons)
-      </li>
-      <li>Police Report(s)</li>
-      <li>Medical Report(s)</li>
-      <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
-      <li>Any other documents which may be relevant to your case.</li>
+      18. Police Report(s)
+      19. Medical Report(s)
+      20. Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)
+      21. Any other documents which may be relevant to your case.
         
- You may download the following lists of documents to bring on your first appointment:
- [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)
+ You may download the following lists of documents to bring on your first appointment:<br>
+ [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
  [List of Documents in English & Malay](files/Docs-to-Bring-Eng-and-Malay.pdf)
    
  <sup>*</sup>Please ensure that you have a copy of these documents translated in English if they are in any other language.
@@ -142,7 +142,7 @@ You must inform us if Court proceedings have been commenced in your case, whethe
 
 If you are not a resident in Singapore or if your child has been removed from Singapore, please approach the Singapore Central Authority to assist you. You will be required to complete "Form 1-Application for Legal Aid for matters relating to the HCCAICA" and submit it to the said Authority.
 
-For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx{:target="_blank"}
+For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx) {:target="_blank"}
 
 If you are a resident in Singapore, please come to LAB persoanlly during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
 
