@@ -27,7 +27,7 @@ Please see (11) below for further information.
 
 If you require legal aid, assistance, or advice, you can either*:
 
-(a) Register your case online at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
+(a) Register your case online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}
 
 For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB **within 2 working days**.
 
@@ -100,27 +100,25 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
       <li>Applicant's Insurance Policies and their Surrender Values</li>
       <li>The Central Depository (CDP) Account Statement (if any)</li>
       <li>Original/Certified Copy of Marriage Certificate<sup>*</sup></li>
-      <li>Photocopy of Birth Certificate* (Children/Sibling/Parent)</li>
+      <li>Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)</li>
       <li>Motor Vehicles Log Book or Purchase Invoice</li>
-      <li>
-        For Letter of Administration and Probate case:<br>
-        (i) Death Certificate/Certificate of Extract From Register of Deaths (for deceased)<sup>**</sup><br>
-        (ii) Inheritance Certificate (for Muslim)
+      <li>For Letter of Administration and Probate case:<br>
+        (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)<sup>*</sup><br>
+        (ii) Inheritance Certificate (for Muslim deceased persons)
       </li>
-      <li>Police Report</li>
-      <li>Medical Report</li>
+      <li>Police Report(s)</li>
+      <li>Medical Report(s)</li>
       <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
-      <li>
-        All other documents which are relevant to your case.<br>
+      <li>Any other documents which may be relevant to your case.</li>
         
-      
- <p>You may download the following lists of documents to bring on your first appointment:</p>
-        <a href="/files/DocumentsToBringEngandMandarin.pdf">(509KB) List of Documents in English & Chinese</a><br>
-        <a href="/files/DocstoBringEngandMalay.pdf">(480KB) List of Documents in English & Malay</a>
-        <p><sup>*</sup>For civil marriages, the documents to be translated to English if it is in other languages.<br>
-        <sup>**</sup>To translate the Death Certificate or extract to English if it is in other languages.</p>
-
-
+ You may download the following lists of documents to bring on your first appointment:
+ [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)
+ [List of Documents in English & Malay](files/Docs-to-Bring-Eng-and-Malay.pdf)
+   
+ <sup>*</sup>Please ensure that you have a copy of these documents translated in English if they are in any other language.
+ 
+ 
+ 
 **9. Will LAB represent me immediately after I have applied for aid or after Statement Taking?**<br>
 
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
@@ -144,7 +142,7 @@ You must inform us if Court proceedings have been commenced in your case, whethe
 
 If you are not a resident in Singapore or if your child has been removed from Singapore, please approach the Singapore Central Authority to assist you. You will be required to complete "Form 1-Application for Legal Aid for matters relating to the HCCAICA" and submit it to the said Authority.
 
-For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx
+For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx{:target="_blank"}
 
 If you are a resident in Singapore, please come to LAB persoanlly during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
 
