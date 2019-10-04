@@ -86,10 +86,10 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
 
   Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:
-      1. Your identity card (IC)
-      2. Valid Passport if you are a Permanent Resident (PR)
-      3. Applicant's CPF Contribution History for the past 12 months
-      4. Spouse's CPF Contribution History for the past 12 months
+      1. Your identity card (IC)<br>
+      2. Valid Passport if you are a Permanent Resident (PR)<br>
+      3. Applicant's CPF Contribution History for the past 12 months<br>
+      4. Spouse's CPF Contribution History for the past 12 months<br>
       5. Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
       6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
       7. Applicant's Latest Income Tax Assessment/ (IR8A form)
