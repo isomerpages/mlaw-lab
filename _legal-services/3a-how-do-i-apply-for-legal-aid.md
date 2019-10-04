@@ -85,21 +85,7 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
 
-  <b>4. What happens when I attend at LAB?</b><br>
-    **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
-    <p>If your matter is within LAB’s scope of work and you pass the preliminary means test, then:</p>
-    <li>
-    (a) If you only need legal advice, you will be able to consult the Duty Lawyer.
-    <li>
-    (b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you.
-    <li>
-    (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
-    <li>
-    **If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
-  </li><br>
-  <li>
-    <b>What documents do I bring to my first appointment?</b><br>
-    Please bring your SingPass and the following documents on your first appointment to enable us to process your case expeditiously:
+  Please ensure that you have an active SingPass and bring following documents to enable us to process your case expeditiously:
     <ol>
       <li>Your identity card (IC)</li>
       <li>Valid Passport if you are a Permanent Resident (PR)</li>
@@ -126,7 +112,8 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
       <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
       <li>
         All other documents which are relevant to your case.<br>
-        <p>You may download the following lists of documents to bring on your first appointment:</p>
+        
+        <p>The List of Documents may be downloaded here:</p>
         <a href="/files/DocumentsToBringEngandMandarin.pdf">(509KB) List of Documents in English & Chinese</a><br>
         <a href="/files/DocstoBringEngandMalay.pdf">(480KB) List of Documents in English & Malay</a>
         <p><sup>*</sup>For civil marriages, the documents to be translated to English if it is in other languages.<br>
