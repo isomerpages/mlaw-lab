@@ -85,31 +85,30 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
 
-  Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:
-    
-      1. Your identity card (IC)
-      2. Valid Passport if you are a Permanent Resident (PR)
-      3. Applicant's CPF Contribution History for the past 12 months
-      4. Spouse's CPF Contribution History for the past 12 months
-      5. Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
-      6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF
-      7. Applicant's Latest Income Tax Assessment/ (IR8A form)
-      8. Spouse's Latest Income Tax Assessment/ (IR8A form)
-      9. Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information
-      10. Tenancy/Rental Agreement
-      11. Employment contract/agreement
-      12. Applicant's Insurance Policies and their Surrender Values
-      13. The Central Depository (CDP) Account Statement (if any)
-      14. Original/Certified Copy of Marriage Certificate<sup>*</sup>
-      15. Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)
-      16. Motor Vehicles Log Book or Purchase Invoice
+  Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:<br>
+      1. Your identity card (IC)<br>
+      2. Valid Passport if you are a Permanent Resident (PR)<br>
+      3. Applicant's CPF Contribution History for the past 12 months<br>
+      4. Spouse's CPF Contribution History for the past 12 months<br>
+      5. Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
+      6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
+      7. Applicant's Latest Income Tax Assessment/ (IR8A form)<br>
+      8. Spouse's Latest Income Tax Assessment/ (IR8A form)<br>
+      9. Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information<br>
+      10. Tenancy/Rental Agreement<br>
+      11. Employment contract/agreement<br>
+      12. Applicant's Insurance Policies and their Surrender Values<br>
+      13. The Central Depository (CDP) Account Statement (if any)<br>
+      14. Original/Certified Copy of Marriage Certificate<sup>*</sup><br>
+      15. Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)<br>
+      16. Motor Vehicles Log Book or Purchase Invoice<br>
       17. For Letter of Administration and Probate case:<br>
         (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)<sup>*</sup><br>
-        (ii) Inheritance Certificate (for Muslim deceased persons)
-      18. Police Report(s)
-      19. Medical Report(s)
-      20. Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)
-      21. Any other documents which may be relevant to your case.
+        (ii) Inheritance Certificate (for Muslim deceased persons)<br>
+      18. Police Report(s)<br>
+      19. Medical Report(s)<br>
+      20. Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)<br>
+      21. Any other documents which may be relevant to your case.<br>
         
  You may download the following lists of documents to bring on your first appointment:<br>
  [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
