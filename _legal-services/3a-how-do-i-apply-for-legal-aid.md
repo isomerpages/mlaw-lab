@@ -10,7 +10,7 @@ second_nav_title: "How do I Apply?"
 How do I apply for LAB's Services?
 ---
 
-**1. Overview of LAB's Application Process for Legal Aid and Assistance?**<br>
+**1. Overview of LAB's Application Process for Legal Aid and Assistance**<br>
 
 IMAGE
 
@@ -24,6 +24,7 @@ Please see (11) below for further information.
 
 
 **2. How do I register for LAB's services?**<br>
+
 If you require legal aid, assistance, or advice, you can either*:
 
 (a) Register your case online at <a href="https://www.mlaw.gov.sg/eservices/labesvc/">https://www.mlaw.gov.sg/eservices/labesvc/</a>
@@ -38,10 +39,12 @@ Or
 
 
 **3. What are the benefits of registering online?**<br>
+
 If you register online, you will be immediately placed in the queue to see the Duty Lawyer for your matter. You will not need to tell our staff about the facts or your case or answer questions about your financial situation (“preliminary means test”).
 
 
 **4. What happens when I attend at LAB?**<br>
+
 **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
   
 If your matter is within LAB’s scope of work and you pass the preliminary means test, then:
@@ -56,6 +59,7 @@ If your matter is within LAB’s scope of work and you pass the preliminary mean
   
   
 **5. What happens when I see the Duty Lawyer?**<br>
+
 The Duty Lawyer will give you oral advice on questions relating to Singapore law and suggest practical steps you may take in your case. He may ask you for more information and documents, in order to advise you properly. If necessary, the lawyer will also assess if your matter is one LAB can help to represent you in Court for. If it is, then the lawyer will direct the counter staff to open a file for you and give you an appointment for the full Means Test.
 
 <sup>*</sup> Please note that this initial assessment does NOT mean that legal aid has been or will be granted to you. 
@@ -64,6 +68,7 @@ For legal aid to be granted to you, you will still need to pass both the full Me
 
 
 **6. What happens during the Means Test?**<br>
+
 The Means Test is an assessment of whether you are financially eligible for legal aid. 
 
 During the Means Test, you must make full and frank disclosure of your means. Failure to do so is a criminal offence punishable by a fine of up to $5,000 or with imprisonment of up to 6 months, or both. 
@@ -74,11 +79,27 @@ If you pass the Means Test, then you will be given an appointment for Statement 
 
 
 **7. What happens during the Statement Taking?**<br>
+
 You will be interviewed by a Legal Executive from LAB during the Statement Taking who will ask you questions about your case. You should provide LAB with the full facts of your case as well as all the relevant documents/evidence. This helps LAB to investigate your case and assess whether legal aid should be granted to you. 
 
 
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
-Please ensure you have an active SingPass and bring the following documents to enable us to process your case expeditiously:
+
+  <b>4. What happens when I attend at LAB?</b><br>
+    **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
+    <p>If your matter is within LAB’s scope of work and you pass the preliminary means test, then:</p>
+    <li>
+    (a) If you only need legal advice, you will be able to consult the Duty Lawyer.
+    <li>
+    (b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you.
+    <li>
+    (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
+    <li>
+    **If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
+  </li><br>
+  <li>
+    <b>What documents do I bring to my first appointment?</b><br>
+    Please bring your SingPass and the following documents on your first appointment to enable us to process your case expeditiously:
     <ol>
       <li>Your identity card (IC)</li>
       <li>Valid Passport if you are a Permanent Resident (PR)</li>
@@ -105,6 +126,16 @@ Please ensure you have an active SingPass and bring the following documents to e
       <li>Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)</li>
       <li>
         All other documents which are relevant to your case.<br>
+        <p>You may download the following lists of documents to bring on your first appointment:</p>
+        <a href="/files/DocumentsToBringEngandMandarin.pdf">(509KB) List of Documents in English & Chinese</a><br>
+        <a href="/files/DocstoBringEngandMalay.pdf">(480KB) List of Documents in English & Malay</a>
+        <p><sup>*</sup>For civil marriages, the documents to be translated to English if it is in other languages.<br>
+        <sup>**</sup>To translate the Death Certificate or extract to English if it is in other languages.</p>
+      </li>
+    </ol>
+  </li><br>
+  <li>
+
 
  <p>You may download the following lists of documents to bring on your first appointment:</p>
         <a href="/files/DocumentsToBringEngandMandarin.pdf">(509KB) List of Documents in English & Chinese</a><br>
@@ -114,6 +145,7 @@ Please ensure you have an active SingPass and bring the following documents to e
 
 
 **9. Will LAB represent me immediately after I have applied for aid or after Statement Taking?**<br>
+
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
 
 You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a> here. 
@@ -124,12 +156,14 @@ In urgent cases (for example where there are ongoing court proceedings), LAB may
 
 
 **10. How long do I have to wait from the Statement Taking to the decision on whether I have been granted aid?**<br>
+
 This depends on the complexity of your case and the amount of time needed for investigations. For fairly straightforward cases, it will usually take about four months before the decision is made on whether to grant you aid. 
 
 You must inform us if Court proceedings have been commenced in your case, whether by yoursself or against you, and/or whether your case requires urgent attention (for any other reason). This is so that, if necessary, we can give you help even before the decision is made on whether to grant you aid.  
 
 
 **11. My child has been removed from Singapore or removed/abducted to Singapore. How can I apply for legal aid?**<br>
+
 If you are not a resident in Singapore or if your child has been removed from Singapore, please approach the Singapore Central Authority to assist you. You will be required to complete "Form 1-Application for Legal Aid for matters relating to the HCCAICA" and submit it to the said Authority.
 
 For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx
