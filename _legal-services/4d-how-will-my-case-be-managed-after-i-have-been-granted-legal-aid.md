@@ -14,7 +14,7 @@ After Aid is Granted
 
 You should submit your query online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/)
 
-ALternatively, you may call LAB at 1800 225 5529.
+Alternatively, you may call LAB at 1800 225 5529.
 
 If your case is assigned to a private lawyer (i.e. an Assigned Solicitor), we will inform you of the name of your Assigned Solicitor, his office address, as well as his relevant contact details. You should contact your Assigned Solicitor directly if you have any queries pertaining to your case.<br>
 
