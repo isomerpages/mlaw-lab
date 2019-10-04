@@ -12,7 +12,7 @@ After Aid is Granted
 
 **1. Who should I contact if I have any questions about my case?**<br>
 
-You should submit your query online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/)
+You should submit your query online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}
 
 Alternatively, you may call LAB at 1800 225 5529.
 
@@ -47,7 +47,7 @@ You must be responsible for the progress of your case, **be amenable to legal ad
 
 In particular, you should do the following:
 
-(a) Pay your assessed contribution on time. Your lawyer canot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters here [LINK to ARE LAB'S SERVICES FREE]
+(a) Pay your assessed contribution on time. Your lawyer canot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters <a href="/legal-services/are-all-the-legal-services-free/">here</a>.
 
 (b) Remain contactable so that we can provide you with updates on your case, ask you for more information, and take your instructions. Please update LAB if you change your address and/or contact details. 
 
