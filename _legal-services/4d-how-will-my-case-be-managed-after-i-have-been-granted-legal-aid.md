@@ -11,23 +11,55 @@ After Aid is Granted
 ---
 
 **1. Who should I contact if I have any questions about my case?**<br>
-You may contact the Bureau if you have any queries relating to your case, including its progress. Alternatively, you can submit your enquiries online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/)
 
-If your case is assigned to an assigned solicitor, we will inform you of the name of your assigned solicitor, his office address and contact number. You may contact your assigned solicitor directly regarding any queries relating to your case.<br>
+You should submit your query online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/)
+
+ALternatively, you may call LAB at 1800 225 5529.
+
+If your case is assigned to a private lawyer (i.e. an Assigned Solicitor), we will inform you of the name of your Assigned Solicitor, his office address, as well as his relevant contact details. You should contact your Assigned Solicitor directly if you have any queries pertaining to your case.<br>
+
 
 **2. What will my lawyer do for my case?**<br>
-Your LAB lawyer or assigned solicitor will prepare your Court documents and arrange for you to sign them. He will liaise with the opposing party or his lawyer. He will represent you in Court and inform you when you have to be present for Court proceedings. He will also keep you updated of all significant steps that are being taken to complete your case. LAB will also monitor the progress of your case if it is being handled by an assigned solicitor.<br>
+
+Generally, once you are granted legal aid, your lawyer will*:
+* Represent you in COurt proceedings ** 
+* Prepare Court documents for your case 
+* Liaise with the opposing party or his lawyer (if the opposing party is represented)
+* For non-court cases, advise you and draft all necessary legal documents to help you complete your case.
+
+If your case is handled by an assigned solicitor, LAB's in-house lawyers will also monitor the progress of our case. 
+
+* This list is not exhaustive. 
+
+** Please note that while LAB is processing your application for legal aid and tehre are on-going Court proceedings, LAB will not be representing you unless you are informed otherwise. You must take all necessary steps to protect your own interests, including attending COurt, complying with any directions given to you by the COurt, filing and serving any documents required within Court and statutory timelines, and taking other necessary steps, whether in the legal proceedings or outside of the legal proceedings. <br>
+
 
 **3. How long will it take to complete my case?**<br>
-The time needed complete your case depends on a number of factors, e.g. the legal and factual complexity of the case, and whether the opposing party is legally represented and contesting the case. Fairly simple cases will take about 12 months to complete and more complex cases will take longer to complete.<br>
+
+The time needed to complete your case depends on the specific facts of your case and the legal issues that arise in your case. Additionally, other factors such as whether the opposing party is represented by a lawyer and whether he/she is contesting the case can also affect the time needed to complete your case. 
+
+Each case is unique and the time taken to complete your case will vary. However, as rough estimate, straightforward cases (e.g. an uncontested divorce case where parties are able to agree on ancillary issues) will usually take less than 12 months to complete. <br>
+
 
 **4. How can I speed up the completion of my case?**<br>
-You must be responsible for the progress of your case and cooperate with your LAB lawyer or assigned solicitor in order to expedite the progress of your case. 
 
-For example, when you are required to attend appointments with your LAB lawyer or assigned solicitor or to submit documents, you must do so punctually. When you are informed to attend Court proceedings, you must do so. It is also important for you to update us on your latest correspondence address and your contact numbers so that we will be able to contact you.<br>
+You must be responsible for the progress of your case, **be amenable to legal advice**, and cooperate with your lawyer in order to expedite the progress of your case. 
 
-**5. When is my case considered to be completed?**<br>
-Your case will be completed after the Court proceedings are completed. This may be after the Court has made an order, or when the parties have settled the matter out of Court, or if either party has withdrawn or discontinued the Court proceedings.<br>
+In particular, you should do the following:
 
-**6. What should I do if I am dissatisfied with the Court's decision or order and I wish to appeal against it?**<br>
-If you wish to appeal, you must go down to LAB immediately after the Court has given its decision or order. This is because there are strict timelines for the filing of an appeal and LAB will not be able to assist you if there is very little time left to do so. In addition, we have to refer your appeal case to an assigned solicitor to examine its merits, and he will not have sufficient time to do so if your application is late.
+(a) Pay your assessed contribution on time. Your lawyer canot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters here [LINK to ARE LAB'S SERVICES FREE]
+(b) Remain contactable so that we can provide you with updates on your case, ask you for more information, and take your instructions. Please update LAB if you change your address and/or contact details. 
+(c) Attend your appointments punctually.
+(d) Submit required document(s) within the deadlines given to you.
+(e) Attend Court proceedings when you are informed to do so.<br>
+
+
+**5. The Court has made a decision I am not satisfied with and I want to appeal. What should I do?**<br>
+
+If you wish to file an appeal, regardless of whether LAB acted for you in the original proceedinigs, you must come down to LAB immediately after the Court has given its decision or order.*
+
+Generally, the law imposes very strict timelines for the filing of appeals. LAB will probably bot be able to assist you if you have exceeded the time for the filing od an appeal or there is very little time left to do so. 
+
+Additionally, the lawyer for your case will need time to examine the merits of your case, and your chances of success on appeal. 
+
+* As a general rule, LAB can only assist you to file a Notice of Appeal if you apply for legal aid at least 5 working days before the deadline for filing such a Notice. If you apply less than 5 working days before the deadline, you will need to file the Notice of Appeal yourself before coming to LAB. As you may be unsure when the deadline to file an appeal for your case is, you should seek help by coming down to LAB immediately after the Court gives its decision or order. 
