@@ -4,7 +4,7 @@ title: Important Issues to Note
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/important-issues-to-note/
 breadcrumb: Important Issues to Note
 collection_name: lab-volunteer-schemes
-second_nav_title: "Assigned Solicitor Scheme"
+second_nav_title: Assigned Solicitor Scheme
 ---
 Important Issues to Note
 ---

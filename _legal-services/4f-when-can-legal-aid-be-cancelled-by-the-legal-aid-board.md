@@ -9,27 +9,15 @@ second_nav_title: "What happens After I Apply?"
 Cancellation of Legal Aid
 ---
 
-The [Legal Aid Board](/legal-services/grant-by-legal-aid-board/) may cancel legal aid to you in the following situations: 
+In addition to the Director of Legal Aid's discretion to refuse legal aid,* the [Legal Aid Board](/legal-services/grant-by-legal-aid-board/) may cancel the legal aid which has been granted to you, for various reasons, for example: 
 
-* You have required your lawyer to conduct the proceedings in such a manner as to incur an unjustifiable expense;
-* You have unreasonably insisted on the continuance of the proceedings;
-* You have willfully failed to provide any required information; or
-* You have made a false representation in furnishing information.<br>
+* Where you have failed to pay your assessed contribution or any payment due to LAB for more than 30 days after the time you were supposed to pay
+* Where LAB finds out new information, or your circumstances change, and this new information/the changed circumstances means that you are no longer financially eligible for legal aid
+* Where your lawyer assesses that you no longer have any reasonable grounds to bring, continue with or defend a case in court
+* Generally, where it is unreasonable for you to continue receiving legal aid. For example, you refuse to accept your lawyer's advice or comply with Court directions, you remain uncontactable despite numerous attempts by LAB to contact you, you have been abusive towards your lawyer, you have refused to provide information your lawyer has asked you for, or provided false information etc.<br>
 
-Legal aid may also be cancelled in the following situations: 
-
-
-* Upon your request
-* Where you have failed to pay your assessed [contribution](/legal-services/are-all-the-legal-services-free/) despite numerous reminders to do so
-* Where you require the proceedings to be conducted unreasonably thus incurring unjustifiable expenses
-* Where you require unreasonably that the proceedings be continued
-* Where you have wilfully failed to comply with the law as to information to be furnished by you, or where you have made a false statement when furnishing such information
-* Where further information received shows that you fail the [Means Test](/legal-services/taking-the-means-test/)
-* Where you no longer have any reasonable grounds to continue with the case
-* Where it is unreasonable for you to continue receiving legal aid.
-
-As an example, legal aid may be cancelled if you unreasonably refuse to accept your lawyer's advice or the Court's directions, or if you cannot be contacted despite numerous attempts to do so.<br>
+<sup>*</sup> The Director of Legal Aid may refuse legal aid, even is the applicant has passed the Means and Merits Tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation. <br>
  
 
 **What happens after legal aid is cancelled?**<br>
-We will inform you that you will no longer be legally represented by LAB. You will have to decide whether you wish to continue with your case in person or to engage a private lawyer to represent you. If no action is taken on your part to continue with your case, the Court may eventually strike out your case.
+We will inform you in writing that you will no longer be legally-aided and that LAB will proceed to close your file. If there are on-going Court proceedings, you will have to engage your own private lawyer or represent yourself in the said proceedings.
