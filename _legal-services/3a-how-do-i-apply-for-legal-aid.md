@@ -86,7 +86,6 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring for the Means Test and Statement Taking?**<br>
 
   Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:
-    
       1. Your identity card (IC)
       2. Valid Passport if you are a Permanent Resident (PR)
       3. Applicant's CPF Contribution History for the past 12 months
