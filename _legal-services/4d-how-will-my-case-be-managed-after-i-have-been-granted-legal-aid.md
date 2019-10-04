@@ -47,11 +47,11 @@ You must be responsible for the progress of your case, **be amenable to legal ad
 
 In particular, you should do the following:
 
-* (a) Pay your assessed contribution on time. Your lawyer canot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters here [LINK to ARE LAB'S SERVICES FREE]
-* (b) Remain contactable so that we can provide you with updates on your case, ask you for more information, and take your instructions. Please update LAB if you change your address and/or contact details. 
-* (c) Attend your appointments punctually.
-* (d) Submit required document(s) within the deadlines given to you.
-* (e) Attend Court proceedings when you are informed to do so.<br>
+* Pay your assessed contribution on time. Your lawyer canot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters here [LINK to ARE LAB'S SERVICES FREE]
+* Remain contactable so that we can provide you with updates on your case, ask you for more information, and take your instructions. Please update LAB if you change your address and/or contact details. 
+* Attend your appointments punctually.
+* Submit required document(s) within the deadlines given to you.
+* Attend Court proceedings when you are informed to do so.<br>
 
 
 **5. The Court has made a decision I am not satisfied with and I want to appeal. What should I do?**<br>
