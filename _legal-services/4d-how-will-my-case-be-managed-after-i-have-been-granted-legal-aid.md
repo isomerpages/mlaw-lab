@@ -22,7 +22,7 @@ If your case is assigned to a private lawyer (i.e. an Assigned Solicitor), we wi
 **2. What will my lawyer do for my case?**<br>
 
 Generally, once you are granted legal aid, your lawyer will*:
-* Represent you in COurt proceedings ** 
+* Represent you in Court proceedings ** 
 * Prepare Court documents for your case 
 * Liaise with the opposing party or his lawyer (if the opposing party is represented)
 * For non-court cases, advise you and draft all necessary legal documents to help you complete your case.
@@ -31,7 +31,7 @@ If your case is handled by an assigned solicitor, LAB's in-house lawyers will al
 
 * This list is not exhaustive. 
 
-** Please note that while LAB is processing your application for legal aid and tehre are on-going Court proceedings, LAB will not be representing you unless you are informed otherwise. You must take all necessary steps to protect your own interests, including attending COurt, complying with any directions given to you by the COurt, filing and serving any documents required within Court and statutory timelines, and taking other necessary steps, whether in the legal proceedings or outside of the legal proceedings. <br>
+** Please note that while LAB is processing your application for legal aid and there are on-going Court proceedings, LAB will not be representing you unless you are informed otherwise. You must take all necessary steps to protect your own interests, including attending Court, complying with any directions given to you by the Court, filing and serving any documents required within Court and statutory timelines, and taking other necessary steps, whether in the legal proceedings or outside of the legal proceedings. <br>
 
 
 **3. How long will it take to complete my case?**<br>
