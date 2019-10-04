@@ -12,7 +12,21 @@ Taking the Means Test
 ---
 
 **1. What is the Means Test?**<br>
-The Means test determines your financial eligibility for legal aid by looking at an applicant’s disposable income and disposable capital.<br>
+The Means Test is an assessment of whether you are financially eligible for legal aid.
+
+<sup>*</sup> There will be changes to the Means Test, pursuant to the Legal Aid and Advice (Amendment) Bill, and this website will be updated accordingly when the changes are in force. <br>
+
+
+**2. What is the Merits Test?**<br>
+The Merits Test assesses whether you have a reasonable case to bring or defend in court. 
+
+After Statement Taking is done, and all the neessary documents for your case have been received by LAB, a lawyer will be assigned to investigate your case. He may ask for further information and documents from you to understand your case better. He will then put up an opinion one the merits of your case. This opinion will be put before the Legal Aid Board for their consideration on whether to grant you legal aid.<br>
+
+
+
+
+
+
 
 **2. What is required under the Means Test?**<br>
 Only persons with a disposable income of not more than S$10,000 per year and a disposable capital of not more than S$10,000 may be granted legal aid.
