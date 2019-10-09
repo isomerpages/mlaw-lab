@@ -111,8 +111,8 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
       21. Any other documents which may be relevant to your case.<br>
         
  You may download the following lists of documents to bring on your first appointment:<br>
- [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
- [List of Documents in English & Malay](files/Docs-to-Bring-Eng-and-Malay.pdf)
+ [List of Documents in English & Chinese](/files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
+ [List of Documents in English & Malay](/files/Docs-to-Bring-Eng-and-Malay.pdf)
    
  <sup>*</sup>Please ensure that you have a copy of these documents translated in English if they are in any other language.
  
