@@ -1,21 +1,23 @@
 ---
 layout: leftnav-page-content
-title: Grant by Legal Aid Board
-permalink: /legal-services/grant-by-legal-aid-board/
+title: Grant of Aid by the Legal Aid Board
+permalink: /legal-services/grant-of-aid-by-the-legal-aid-board/
 breadcrumb: What happens after I apply?
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
 
-Grant By Legal Aid Board
+Grant of Aid by the Legal Aid Board
 ---
 
-The Legal Aid Board comprises the Director of Legal Aid as well as at least two other independent assigned solicitors.
+The Legal Aid Board comprises the Director of Legal Aid and at least two independent solicitors who are on LAB's Panel of Assigned Solicitors.
 
-After your lawyer has investigated into your case, your lawyer will prepare an opinion on the merits of your case (that is, whether you have a good chance of succeeding in your case). This opinion will be put forward before the Board.
+If the Board is of the view that your case has merits, i.e. you have a reasonable case to bring or defend in court, then it will decide to grant you legal aid.
 
-If the Board is of the view that your case has merits, then you have passed the [Merits Test](/legal-services/taking-the-merits-test/) and your application for legal aid is approved.
+However, if the Board is of the view that your case does not have merits, i.e. you do not have a reasonable case to bring or defend in court, then it will decide not to grant you legal aid.
 
-If the Board is of the view that your case does not have merits, then your application for legal aid is refused. A letter will be sent to you explaining the reasons of the Board for refusing to grant aid to you.
+LAB will send you a letter letting you know whether you have been granted legal aid. If you have not been granted legal aid, then the letter will briefly explain the reasons for this. 
 
-The decision of the Board is final.
+All decisions of the Legal Aid Board in respect of applications for legal aid are final. 
+
+
