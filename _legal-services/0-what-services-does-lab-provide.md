@@ -18,7 +18,7 @@ LAB lawyers can give you oral advice on questions relating to Singapore law and 
 
 **Legal Aid**<br>
 
-LAB lawyers or a lawyer assigned by LAB can represent you in many kinds of civil proceedings, as set out in the Legal Aid and Advice Act. These include proceedings before the Court of Appeal, the High Court, District Courts, Magistrates’ Courts, the Family Courts, the Syariah Court and the Syariah Court of Appeal Board, and the Commissioner of Labour under the Work Injury Compensation Act.
+LAB lawyers or a lawyer assigned by LAB can represent you in many kinds of civil proceedings, as set out in the Legal Aid and Advice Act. These include proceedings before the Court of Appeal, the High Court, District Courts, Magistrates’ Courts, the Family Courts, the Syariah Court and the Syariah Court Appeal Board, and the Commissioner of Labour under the Work Injury Compensation Act.
 
 **Legal Assistance (Drafting of Simple Legal Documents)**<br>
 
