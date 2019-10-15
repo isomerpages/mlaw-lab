@@ -40,7 +40,7 @@ Or
 
 **3. What are the benefits of registering online?**<br>
 
-If you register online, you will be immediately placed in the queue to see the Duty Lawyer for your matter. You will not need to tell our staff about the facts or your case or answer questions about your financial situation (“preliminary means test”).
+If you register online, you will be immediately placed in the queue to see the Duty Lawyer for your matter. You will not need to tell our staff about the facts of your case or answer questions about your financial situation (“preliminary means test”).
 
 
 **4. What happens when I attend at LAB?**<br>
@@ -49,9 +49,9 @@ If you register online, you will be immediately placed in the queue to see the D
   
 If your matter is within LAB’s scope of work and you pass the preliminary means test, then:
 
-(a) If you only need legal advice, you will be able to consult the Duty Lawyer
+(a) If you only need legal advice, you will be able to consult the Duty Lawyer.
 
-(b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you
+(b) If you only need legal assistance to draft a Will or Deed of Separation, a file will be opened for you.
 
 (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
 
@@ -111,14 +111,14 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
       21. Any other documents which may be relevant to your case.<br>
         
  You may download the following lists of documents to bring on your first appointment:<br>
- [List of Documents in English & Chinese](files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
- [List of Documents in English & Malay](files/Docs-to-Bring-Eng-and-Malay.pdf)
+ [List of Documents in English & Chinese](/files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
+ [List of Documents in English & Malay](/files/Docs-to-Bring-Eng-and-Malay.pdf)
    
  <sup>*</sup>Please ensure that you have a copy of these documents translated in English if they are in any other language.
  
  
  
-**9. Will LAB represent me immediately after I have applied for aid or after Statement Taking?**<br>
+**9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?**<br>
 
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
 
@@ -143,7 +143,7 @@ If you are not a resident in Singapore or if your child has been removed from Si
 
 For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx){:target="_blank"}
 
-If you are a resident in Singapore, please come to LAB persoanlly during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
+If you are resident in Singapore, please come to LAB personally during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
 
 
 
