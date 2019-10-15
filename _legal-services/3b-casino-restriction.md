@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Casino Restriction
-permalink: /legal-services/casino-restriction/
+title: Casino Exclusion
+permalink: /legal-services/casino-exclusion/
 breadcrumb: Casino Exclusion
 collection_name: legal-services
 second_nav_title: "How do I Apply?"
