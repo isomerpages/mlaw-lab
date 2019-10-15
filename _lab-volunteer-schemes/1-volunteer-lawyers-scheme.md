@@ -14,7 +14,7 @@ The LAB Volunteer Lawyers Scheme was launched in 2008 to provide an opportunity 
 Suitable candidates for this scheme include lawyers who have retired from full-time practice, lawyers who are on sabbatical or extended maternity leave, and academics.
 
 <b> <u>Requirements: </u> </b> <br>
-* You must be a Qualified Person (as defined in s 2 of the Legal Profession Act), without a practicing certificate;
+* You must be a Qualified Person (as defined in s2 of the Legal Profession Act), without a practicing certificate;
 * Previously called to the Singapore Bar (you will need to submit the necessary documentation); and 
 * Able to commit to work for not less than 1/2 a day a week for at least 3 months during office hours. <br>
 
