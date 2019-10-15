@@ -19,9 +19,9 @@ Assigned Solicitors assist LAB by:
 * Sitting in Legal Aid Board meetings with the Director of Legal Aid in order to determine whether aid should be granted for particular cases. <br>
 
 <b> <u>What qualifications are needed to apply to  be an Assigned Solicitor? </u> </b> <br>
-You need to have a valid practising certificate in order to apply to be an Assigned Solicitor.
+You need to have a valid practicing certificate in order to apply to be an Assigned Solicitor.
 
-If you are a lawyer who wishes to volunteer but no longer have a valid practising certificate, you may apply to be a volunteer under the Volunteer Lawyers Scheme. You may similarly visit our e-services page and click on the link "Register as an LAB Volunteer" to sign up.  <br>
+If you are a lawyer who wishes to volunteer but no longer have a valid practicing certificate, you may apply to be a volunteer under the Volunteer Lawyers Scheme. You may similarly visit our e-services page and click on the link "Register as an LAB Volunteer" to sign up.  <br>
 
 <b> <u>How do I sign up? </u> </b> <br>
 To sign up as an Assigned Solicitor, please visit our e-services page and click on the link "Register as an LAB Volunteer".
