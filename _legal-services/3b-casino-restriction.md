@@ -2,12 +2,12 @@
 layout: leftnav-page-content
 title: Casino Restriction
 permalink: /legal-services/casino-restriction/
-breadcrumb: Casino Restriction
+breadcrumb: Casino Exclusion
 collection_name: legal-services
 second_nav_title: "How do I Apply?"
 ---
 
-Casino Restriction
+Casino Exclusion
 ---
 
 If you are granted legal aid, you will be subject to Third-Party Casino Exclusion. 
