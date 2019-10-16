@@ -16,7 +16,7 @@ In addition to the Director of Legal Aid's discretion to refuse legal aid,* the 
 * Where your lawyer assesses that you no longer have any reasonable grounds to bring, continue with or defend a case in court
 * Generally, where it is unreasonable for you to continue receiving legal aid. For example, you refuse to accept your lawyer's advice or comply with Court directions, you remain uncontactable despite numerous attempts by LAB to contact you, you have been abusive towards your lawyer, you have refused to provide information your lawyer has asked you for, or provided false information etc.<br>
 
-<sup>*</sup> The Director of Legal Aid may refuse legal aid, even is the applicant has passed the Means and Merits Tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation. <br>
+<sup>*</sup> The Director of Legal Aid may refuse legal aid, even if the applicant has passed the Means and Merits Tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation. <br>
  
 
 **What happens after legal aid is cancelled?**<br>
