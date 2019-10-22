@@ -8,20 +8,20 @@ collection_name: resources
 Brochures and Forms
 ---
 
-[Guide to the Legal Aid Scheme in English](/files/Guide-to-legal-scheme-english.pdf)(5.89MB) <br>
+[Guide to the Legal Aid Scheme in English](/files/Guide-to-legal-scheme-english.pdf){:target="_blank"}(5.89MB) <br>
 
  
 
-[Applicants' Portal User Guide](/files/Applicants-Portal-User-Guide.pdf)(1.32MB) <br>
+[Applicants' Portal User Guide](/files/Applicants-Portal-User-Guide.pdf){:target="_blank"}(1.32MB) <br>
 
  
 
-[Assigned Solicitors' Portal Guide](/files/AS-Portal-Guide.pdf)(904KB) <br>
+[Assigned Solicitors' Portal Guide](/files/AS-Portal-Guide.pdf){:target="_blank"}(904KB) <br>
 
  
 
-[The Assigned Solicitor's Guide](/files/LAB-AS-Guide.pdf){:target="_blank"}(436KB) <br>
-*The Assigned Solicitor's Guide does not reflect the new amendments to the Legal Aid and Advice Act and the Legal Aid and Advice Regulations. We will be uploading an amended version of the Guide shortly.* <br>
+[The Assigned Solicitor's Guide](files/The Assigned Solicitor's Guide.pdf){:target="_blank"}(1MB) <br>
+
 
  
 
