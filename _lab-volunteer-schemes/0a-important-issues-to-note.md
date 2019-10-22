@@ -37,5 +37,5 @@ If there are still ongoing court proceedings after the Director of Legal Aid has
 <b><u>Can I get another solicitor to act in a cacse assigned to me?</u></b> <br>
 No. Regulation 12(9) of the Legal Aid and Advice Regulations states that no Assigned Solicitor should entrust conduct of any part of the case assigned to him to any other person. <br>
 
-**[The Assigned Solicitor’s Guide (436KB)](/files/LAB-AS-Guide.pdf)** <br>
-*We are currently updating our Assigned Solicitor's Guide to incorporate upcoming amendments to the Legal Aid and Advice Act. The updated version will be available soon.* <br>
+**[The Assigned Solicitor’s Guide (1MB)](files/The Assigned Solicitor's Guide.pdf){:target="_blank"}** <br>
+
