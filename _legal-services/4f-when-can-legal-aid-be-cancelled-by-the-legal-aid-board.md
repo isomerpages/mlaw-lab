@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Cancellation of Legal Aid
 permalink: /legal-services/cancellation-of-legal-aid/
-breadcrumb: What happens after I apply?
+breadcrumb: Cancellation of Legal Aid
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
