@@ -21,7 +21,7 @@ If you are below the age of 21, your parent or guardian must apply for legal aid
  
 In respect of a person who lacks mental capacity, the person seeking to be his Court appointed Deputy under the Mental Capacity Act must apply for legal aid on behalf of the mentally incapacitated person.
 
-A Deputy is a person appointed by the Court to make certain important decisions concerning the mentally incapacitated person's welfare, propert and/or affairs. 
+A Deputy is a person appointed by the Court to make certain important decisions concerning the mentally incapacitated person's welfare, property and/or affairs. 
 
 All applicants must also pass the <a href="/legal-services/taking-the-means-test/">Means Test</a> and <a href="/legal-services/taking-the-merits-test/">Merits Test</a> before legal aid can be granted.
 

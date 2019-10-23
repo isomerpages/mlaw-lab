@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Grant of Aid by the Legal Aid Board
 permalink: /legal-services/grant-of-aid-by-the-legal-aid-board/
-breadcrumb: What happens after I apply?
+breadcrumb: Grant of Aid by the Legal Aid Board
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
