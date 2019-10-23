@@ -20,7 +20,7 @@ Brochures and Forms
 
  
 
-[The Assigned Solicitor's Guide](files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"}(1MB) <br>
+[The Assigned Solicitor's Guide](/files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"}(1MB) <br>
 
 
  
