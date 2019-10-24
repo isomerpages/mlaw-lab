@@ -34,8 +34,8 @@ Reasons for you to seek the Director's leave to discharge yourself include, but 
 If there are still ongoing court proceedings after the Director of Legal Aid has approved your request to be discharged, you must apply to Court for an order declaring that you have discharged yourself and serve it on all relevant parties to proceedings, as well as LAB. You can then proceed to close your file and send us your draft bill for approval (if any). <br>
 
 
-<b><u>Can I get another solicitor to act in a cacse assigned to me?</u></b> <br>
+<b><u>Can I get another solicitor to act in a case assigned to me?</u></b> <br>
 No. Regulation 12(9) of the Legal Aid and Advice Regulations states that no Assigned Solicitor should entrust conduct of any part of the case assigned to him to any other person. <br>
 
-**[The Assigned Solicitor’s Guide (1MB)](/files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"}** <br>
+[The Assigned Solicitor’s Guide (1MB)](/files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"} <br>
 
