@@ -99,7 +99,7 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
       11. Employment contract/agreement<br>
       12. Any Insurance Policies and their Surrender Values<br>
       13. Central Depository (CDP) Account Statement (if any)<br>
-      14. Marriage Certificate (Original or Certified Copy)*<br>
+      14. Marriage Certificate* (Original or Certified Copy)<br>
       15. Photocopy of Birth Certificate* (Children/Sibling/Parent)<br>
       16. Motor Vehicle Log Book or Purchase Invoice<br>
       17. For Letters of Administration and Probate cases:<br>
