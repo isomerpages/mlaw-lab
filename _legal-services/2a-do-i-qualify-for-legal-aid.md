@@ -10,7 +10,7 @@ collection_name: legal-services
 Do I qualify for legal aid?
 ---
 
-Legal Aid is available to
+Legal Aid is available to:
 
 
 (a) Singapore citizens and permanent residents who are residing in Singapore;
