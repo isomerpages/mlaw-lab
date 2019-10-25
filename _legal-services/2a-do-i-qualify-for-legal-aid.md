@@ -23,6 +23,7 @@ In respect of a person who lacks mental capacity, the person seeking to be his C
 
 In addition:
 (a) For Legal Advice and Assistance matters, you must pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>.
+
 (b) For Legal Aid, you must pass both the Means and <a href="/legal-services/taking-the-merits-test/">Merits Test</a>.
 
 NOTE: The Director of Legal Aid may refuse legal aid, even if the applicant has passed the Means and Merits tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation.
