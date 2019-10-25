@@ -83,17 +83,16 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 
 **8. What documents should I bring when I apply for legal aid?**<br>
 
-  Please bring the following documents with you on the day you come to apply for legal aid:
-  ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:<br>
-      a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR)<br>
-      b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information<br>
-      c. Your latest Central Depository (CDP) Account Statement, if any, and<br>
-      d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications<br>.
+  Please bring the following documents with you on the day you come to apply for legal aid:<br>
+      a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
+      b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
+      c. Your latest Central Depository (CDP) Account Statement (if any); and<br>
+      d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
  
- If youdo not have Singpass, please also bring the following documents:
-      e. Your CPF Contribution History for the past 12 months, or if you are 65 years and above, your CPF Transaction History for the past 12 months<br>
-      f. Your latest Income Tax Assessment/ (IR8A form), and<br>
-      g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat<br>
+ If you do not have Singpass, please also bring the following documents:
+      e. Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
+      f. Your latest Income Tax Assessment/IR8A form; and<br>
+      g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
      
      
  
