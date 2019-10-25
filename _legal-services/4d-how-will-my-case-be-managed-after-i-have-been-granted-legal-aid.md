@@ -12,7 +12,7 @@ After Aid is Granted
 
 **1. Who should I contact if I have any questions about my case?**<br>
 
-You should submit your query online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}
+You should submit your query online at [https://www.mlaw.gov.sg/eservices/enquiry/](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
 
 Alternatively, you may call LAB at 1800 225 5529.
 
@@ -29,9 +29,9 @@ Generally, once you are granted legal aid, your lawyer will*:
 
 If your case is handled by an assigned solicitor, LAB's in-house lawyers will also monitor the progress of your case. 
 
-<sup>*</sup> This list is not exhaustive. 
+*This list is not exhaustive. 
 
-<sup>**</sup> Please note that while LAB is processing your application for legal aid and there are on-going Court proceedings, LAB will not be representing you unless you are informed otherwise. You must take all necessary steps to protect your own interests, including attending Court, complying with any directions given to you by the Court, filing and serving any documents required within Court and statutory timelines, and taking other necessary steps, whether in the legal proceedings or outside of the legal proceedings. <br>
+** Please note that while LAB is processing your application for legal aid and there are on-going Court proceedings, LAB will not be representing you unless you are informed otherwise. You must take all necessary steps to protect your own interests, including attending Court, complying with any directions given to you by the Court, filing and serving any documents required within Court and statutory timelines, and taking other necessary steps, whether in the legal proceedings or outside of the legal proceedings. <br>
 
 
 **3. How long will it take to complete my case?**<br>
@@ -66,4 +66,4 @@ Generally, the law imposes very strict timelines for the filing of appeals. LAB 
 
 Additionally, the lawyer for your case will need time to examine the merits of your case, and your chances of success on appeal. 
 
-<sup>*</sup> As a general rule, LAB can only assist you to file a Notice of Appeal if you apply for legal aid at least 5 working days before the deadline for filing such a Notice. If you apply less than 5 working days before the deadline, you will need to file the Notice of Appeal yourself before coming to LAB. As you may be unsure when the deadline to file an appeal for your case is, you should seek help by coming down to LAB immediately after the Court gives its decision or order. 
+*As a general rule, LAB can only assist you to file a Notice of Appeal if you apply for legal aid **at least 5 working days** before the deadline for filing such a Notice. If you apply less than 5 working days before the deadline, you will need to file the Notice of Appeal yourself before coming to LAB. As you may be unsure when the deadline to file an appeal for your case is, you should seek help by coming down to LAB immediately after the Court gives its decision or order. 

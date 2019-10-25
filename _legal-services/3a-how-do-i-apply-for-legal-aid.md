@@ -18,7 +18,7 @@ Please note that this is a general overview of the LAB's application process for
 
 For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.
 
-<sup>*</sup> This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
+*This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
 
 Please see (11) below for further information. 
 
@@ -29,13 +29,13 @@ If you require legal aid, assistance, or advice, you can either*:
 
 (a) Register your case online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}
 
-For the online registration, you will be required to complete a preliminary assessment of your financial eligibility for legal aid ("preliminary means assessment"). Once you have passed the means assessment and successfully registered your case, you will be asked to attend at LAB **within 2 working days**.
+Once you have registered successfully, you will be required to attend at LAB **within 3 working days after the date of registration**.
 
 Or
 
 (b) Come to LAB during office hours (8.30 am to 5.00 pm) on weekdays to make an application. Please note that LAB is closed on weekends and public holidays.
 
-<sup>*</sup> If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.  
+*If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.  
 
 
 **3. What are the benefits of registering online?**<br>
@@ -62,7 +62,7 @@ If your matter is within LAB’s scope of work and you pass the preliminary mean
 
 The Duty Lawyer will give you oral advice on questions relating to Singapore law and suggest practical steps you may take in your case. He may ask you for more information and documents, in order to advise you properly. If necessary, the lawyer will also assess if your matter is one LAB can help to represent you in Court for. If it is, then the lawyer will direct the counter staff to open a file for you and give you an appointment for the full Means Test.
 
-<sup>*</sup> Please note that this initial assessment does NOT mean that legal aid has been or will be granted to you. 
+*Please note that this initial assessment does NOT mean that legal aid has been or will be granted to you. 
 
 For legal aid to be granted to you, you will still need to pass both the full Means Test (which assesses your financial eligibility for legal aid) and the Merits Test (which assesses whether you have a reasonable case to bring or defend in court).
 
@@ -73,7 +73,7 @@ The Means Test is an assessment of whether you are financially eligible for lega
 
 During the Means Test, you must make full and frank disclosure of your means. Failure to do so is a criminal offence punishable by a fine of up to $5,000 or with imprisonment of up to 6 months, or both. 
 
-<sup>*</sup> There will be changes to the Means Test, pursuant to the Legal Aid and Advice (Amendment) Bill, and this website will be updated accordingly when the changes are in force. 
+*There will be changes to the Means Test, pursuant to the Legal Aid and Advice (Amendment) Bill, and this website will be updated accordingly when the changes are in force. 
 
 If you pass the Means Test, then you will be given an appointment for Statement Taking.
 
@@ -88,33 +88,33 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
   Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:<br>
       1. Your identity card (IC)<br>
       2. Valid Passport if you are a Permanent Resident (PR)<br>
-      3. Applicant's CPF Contribution History for the past 12 months<br>
+      3. Your CPF Contribution History for the past 12 months<br>
       4. Spouse's CPF Contribution History for the past 12 months<br>
-      5. Applicant's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
+      5. Your pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
       6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
-      7. Applicant's Latest Income Tax Assessment/ (IR8A form)<br>
+      7. Your Latest Income Tax Assessment/ (IR8A form)<br>
       8. Spouse's Latest Income Tax Assessment/ (IR8A form)<br>
       9. Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information<br>
       10. Tenancy/Rental Agreement<br>
       11. Employment contract/agreement<br>
-      12. Applicant's Insurance Policies and their Surrender Values<br>
-      13. The Central Depository (CDP) Account Statement (if any)<br>
-      14. Original/Certified Copy of Marriage Certificate<sup>*</sup><br>
-      15. Photocopy of Birth Certificate<sup>*</sup> (Children/Sibling/Parent)<br>
-      16. Motor Vehicles Log Book or Purchase Invoice<br>
-      17. For Letter of Administration and Probate case:<br>
-        (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)<sup>*</sup><br>
+      12. Any Insurance Policies and their Surrender Values<br>
+      13. Central Depository (CDP) Account Statement (if any)<br>
+      14. Marriage Certificate* (Original or Certified Copy)<br>
+      15. Photocopy of Birth Certificate* (Children/Sibling/Parent)<br>
+      16. Motor Vehicle Log Book or Purchase Invoice<br>
+      17. For Letters of Administration and Probate cases:<br>
+        (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)*<br>
         (ii) Inheritance Certificate (for Muslim deceased persons)<br>
       18. Police Report(s)<br>
       19. Medical Report(s)<br>
       20. Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)<br>
       21. Any other documents which may be relevant to your case.<br>
         
- You may download the following lists of documents to bring on your first appointment:<br>
+ The List of Documents to bring can be downloaded here:<br>
  [List of Documents in English & Chinese](/files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
  [List of Documents in English & Malay](/files/Docs-to-Bring-Eng-and-Malay.pdf)
    
- <sup>*</sup>Please ensure that you have a copy of these documents translated in English if they are in any other language.
+ *Please ensure that you have a copy of these documents translated in English if they are in any other language.
  
  
  
@@ -134,7 +134,7 @@ In urgent cases (for example where there are ongoing court proceedings), LAB may
 
 This depends on the complexity of your case and the amount of time needed for investigations. For fairly straightforward cases, it will usually take about four months before the decision is made on whether to grant you aid. 
 
-You must inform us if Court proceedings have been commenced in your case, whether by yoursself or against you, and/or whether your case requires urgent attention (for any other reason). This is so that, if necessary, we can give you help even before the decision is made on whether to grant you aid.  
+You must inform us if Court proceedings have been commenced in your case, whether by yourself or against you, and/or whether your case requires urgent attention (for any other reason). This is so that, if necessary, we can give you help even before the decision is made on whether to grant you aid.  
 
 
 **11. My child has been removed from Singapore or removed/abducted to Singapore. How can I apply for legal aid?**<br>
