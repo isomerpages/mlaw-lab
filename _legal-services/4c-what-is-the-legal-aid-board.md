@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Grant of Aid by the Legal Aid Board
-permalink: /legal-services/grant-of-aid-by-the-legal-aid-board/
-breadcrumb: Grant of Aid by the Legal Aid Board
+title: Grant of Aid
+permalink: /legal-services/grant-of-aid/
+breadcrumb: Grant of Aid
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
 
-Grant of Aid by the Legal Aid Board
+Grant of Aid
 ---
 
 The Legal Aid Board comprises the Director of Legal Aid and at least two independent solicitors who are on LAB's Panel of Assigned Solicitors.
@@ -18,6 +18,10 @@ However, if the Board is of the view that your case does not have merits, i.e. y
 
 LAB will send you a letter letting you know whether you have been granted legal aid. If you have not been granted legal aid, then the letter will briefly explain the reasons for this. 
 
-All decisions of the Legal Aid Board in respect of applications for legal aid are final. 
+With effect from 16 October 2019, the Director for Legal Aid can, without reference to the Legal Aid Board, approve applications for legal aid in certain types of cases e.g. uncontested adoption proceedings, simple uncontested divorce proceedings, non-disputed proceedings for grant of letters of administration or probate. * Do note that you will still have to pass the Means Test and show that you have a meritorious case for aid to be granted. 
+
+All decisions of the Legal Aid Board and/or the Director of Legal Aid in respect of applications for legal aid are final.
+
+* For the full list of prescribed classes of proceedings, you may refer to the 2nd Schedule to the Legal Aid and Advice Regulations. [Shafinaz to include hyperlink to Regs]
 
 
