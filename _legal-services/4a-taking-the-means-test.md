@@ -16,10 +16,10 @@ The Means Test assesses your financial circumstances to determine if you have li
 
 From 16 October 2019, applicants for legal aid must meet the following criteria:
 
-(a) The average Per Capita Gross Monthly Household Income (PCHI) must be $950 or lower for the last 12 months prior to the application:<br>
-(b)	The Annual Value of applicant’s place of residence owned by the applicant must be $13,000 or lower: and<br>
+(a) The average Per Capita Gross Monthly Household Income (PCHI) must be $950 or lower for the last 12 months prior to the application;<br>
+(b) The Annual Value of applicant’s place of residence owned by the applicant must be $13,000 or lower; and<br>
 
-(c) The applicant’s savings and non-CPF investments must be $10,000 or lower, if he is younger than 60 years old. Applicants aged 60 and above are allowed to have savings and non-CPF investments of $40,000 or lower. 
+(c) The applicant’s savings and non-CPF investments must be $10,000 or lower, if he is younger than 60 years old. Applicants aged 60 and above are allowed to have savings and non-CPF investments of $40,000 or lower.<br>
 
 The applicant must not own any other property besides his/her place of residence.
 
@@ -28,22 +28,18 @@ The applicant must not own any other property besides his/her place of residence
 
 The Average PCHI is the **average gross household income** for the last 12 months divided by the total number of **household members** (including the applicant). 
 
-Average PCHI	=	Total gross income of all household members in the last 12 months/
-	                         	Number of household members x 12 
+![Average PCHI](/images/Average_PCHI.JPG) 
 
 
 **“Gross income”** refers to the gross wages or salaries before deduction of CPF contributions and personal income tax. It comprises basic wages, overtime pay, commissions, tips, other allowances, and bonuses. For self-employed persons, gross income refers to profits from their business, trade or profession (i.e. total receipts less business expenses incurred) before the deduction of income tax.
 
-**“Household members”** refers to persons related by blood, marriage and/or legal adoption and have the same residential address reflected on the NRIC as the applicant for legal aid.
+**“Household members”** refers to persons related by blood, marriage and/or legal adoption **and** have the same residential address reflected on the NRIC as the applicant for legal aid.
 
 The MinLaw Services Centre will calculate the PCHI as part of the means test, based on the supporting documents. 
 
 Example:
 
-For a household of four where there are 2 adults, one earning a gross monthly income of $2000, the other earning a gross monthly income of $1,800, and 2 children not earning income, the average PCHI would be calculated as follows:
-
-Average Per Capita Monthly Household Income (PCHI)	=	$2000 * 12 + $1800 * 12/	= $950
-		                                                         4 * 12	
+![Example:](/images/Example_of_PCHI.JPG)
 
 
 **3. How are savings and non-CPF investments calculated?**<br>
