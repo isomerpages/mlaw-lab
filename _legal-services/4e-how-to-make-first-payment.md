@@ -1,18 +1,18 @@
 ---
 layout: leftnav-page-content
-title: How to make first payment
-permalink: /legal-services/how-to-make-first-payment/
-breadcrumb: How to make first payment
+title: How do I pay my contribution or other charges to LAB
+permalink: /legal-services/how-do-I-pay-my-contribution-or-other-charges-to-LAB?/
+breadcrumb: How do I pay my contribution or other charges to LAB
 collection_name: legal-services
 second_nav_title: "What happens After I Apply?"
 ---
 
-How to make first payment?
+How do I pay my contribution or other charges to LAB?
 ---
 
 You can make payment through the following methods:
 
-1. Attend at the Bureau to pay using **Cash or via Nets**. You do not need to take a Queue Number for making payment.
+1. Come down in person to LAB to pay using either **Cash or Nets**. You will not need to take a Queue Number for making payment.
 
 2. Send a cheque or money order for the amount to us. All cheques or money orders should be **crossed** and made payable to the **Director of Legal Aid**. Please ensure that your name, NRIC and case reference number are written on the reverse of the cheque or money order.  Please do not send cash by post.
 
