@@ -22,6 +22,6 @@ With effect from 16 October 2019, the Director for Legal Aid can, without refere
 
 All decisions of the Legal Aid Board and/or the Director of Legal Aid in respect of applications for legal aid are final.
 
-* For the full list of prescribed classes of proceedings, you may refer to the 2nd Schedule to the Legal Aid and Advice Regulations. [Shafinaz to include hyperlink to Regs]
+*For the full list of prescribed classes of proceedings, you may refer to the 2nd Schedule to the Legal Aid and Advice Regulations. [Shafinaz to include hyperlink to Regs]
 
 
