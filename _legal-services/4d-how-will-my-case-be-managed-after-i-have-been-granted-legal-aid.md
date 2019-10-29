@@ -12,7 +12,9 @@ After Aid is Granted
 
 **1. Who should I contact if I have any questions about my case?**<br>
 
-You should submit your query online at [https://www.mlaw.gov.sg/eservices/enquiry/](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
+If you already have a registered case, you can log on to the e-Services Portal at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"} to check the status of your case, submit electronic copies of your documents, track your appointments or update your personal details. You will need your SingPass to log in.
+
+For further enquiries, please submit via our online enquiry form at [https://www.mlaw.gov.sg/eservices/enquiry/](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
 
 Alternatively, you may call LAB at 1800 225 5529.
 
@@ -47,7 +49,7 @@ You must be responsible for the progress of your case, **be amenable to legal ad
 
 In particular, you should do the following:
 
-(a) Pay your assessed contribution on time. Your lawyer cannot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters <a href="/legal-services/are-all-the-legal-services-free/">here</a>.
+(a) Pay your assessed contribution on time. Your lawyer cannot commence work on your case unless you pay your first contribution. You can find out more about contribution and payment matters <a href="/legal-services/are-all-the-legal-services-free/">here</a>{:target="_blank"}.
 
 (b) Remain contactable so that we can provide you with updates on your case, ask you for more information, and take your instructions. Please update LAB if you change your address and/or contact details. 
 

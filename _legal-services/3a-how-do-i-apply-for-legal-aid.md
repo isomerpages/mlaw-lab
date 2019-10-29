@@ -69,11 +69,9 @@ For legal aid to be granted to you, you will still need to pass both the full Me
 
 **6. What happens during the Means Test?**<br>
 
-The Means Test is an assessment of whether you are financially eligible for legal aid. 
+The Means Test assesses your financial circumstances to determine if you have limited means.  
 
 During the Means Test, you must make full and frank disclosure of your means. Failure to do so is a criminal offence punishable by a fine of up to $5,000 or with imprisonment of up to 6 months, or both. 
-
-*There will be changes to the Means Test, pursuant to the Legal Aid and Advice (Amendment) Bill, and this website will be updated accordingly when the changes are in force. 
 
 If you pass the Means Test, then you will be given an appointment for Statement Taking.
 
@@ -83,46 +81,26 @@ If you pass the Means Test, then you will be given an appointment for Statement 
 You will be interviewed by a Legal Executive from LAB during the Statement Taking who will ask you questions about your case. You should provide LAB with the full facts of your case as well as all the relevant documents/evidence. This helps LAB to investigate your case and assess whether legal aid should be granted to you. 
 
 
-**8. What documents should I bring for the Means Test and Statement Taking?**<br>
+**8. What documents should I bring when I apply for legal aid?**<br>
 
-  Please ensure that you have an active SingPass and bring the following documents to enable us to process your case expeditiously:<br>
-      1. Your identity card (IC)<br>
-      2. Valid Passport if you are a Permanent Resident (PR)<br>
-      3. Your CPF Contribution History for the past 12 months<br>
-      4. Spouse's CPF Contribution History for the past 12 months<br>
-      5. Your pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
-      6. Spouse's pay slip or letter from employer showing income for the past 12 months if he/she works but does not pay contribution to CPF<br>
-      7. Your Latest Income Tax Assessment/ (IR8A form)<br>
-      8. Spouse's Latest Income Tax Assessment/ (IR8A form)<br>
-      9. Personal and Joint Updated Bank Books, Bank Statements, Fixed Deposits Receipts and any other Bank Investment Products Information<br>
-      10. Tenancy/Rental Agreement<br>
-      11. Employment contract/agreement<br>
-      12. Any Insurance Policies and their Surrender Values<br>
-      13. Central Depository (CDP) Account Statement (if any)<br>
-      14. Marriage Certificate* (Original or Certified Copy)<br>
-      15. Photocopy of Birth Certificate* (Children/Sibling/Parent)<br>
-      16. Motor Vehicle Log Book or Purchase Invoice<br>
-      17. For Letters of Administration and Probate cases:<br>
-        (i) Death Certificate/Certificate of Extract From Register of Deaths (of the deceased person)*<br>
-        (ii) Inheritance Certificate (for Muslim deceased persons)<br>
-      18. Police Report(s)<br>
-      19. Medical Report(s)<br>
-      20. Court Orders (eg: Divorce/Maintenance (MSS)/Personal Protection Order (PPO)/etc)<br>
-      21. Any other documents which may be relevant to your case.<br>
-        
- The List of Documents to bring can be downloaded here:<br>
- [List of Documents in English & Chinese](/files/Documents-To-Bring-Eng-and-Mandarin.pdf)<br>
- [List of Documents in English & Malay](/files/Docs-to-Bring-Eng-and-Malay.pdf)
-   
- *Please ensure that you have a copy of these documents translated in English if they are in any other language.
+  Please bring the following documents with you on the day you come to apply for legal aid:<br>
+      a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
+      b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
+      c. Your latest Central Depository (CDP) Account Statement (if any); and<br>
+      d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
  
- 
+ If you do not have Singpass, please also bring the following documents:
+      e. Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
+      f. Your latest Income Tax Assessment/IR8A form; and<br>
+      g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
+     
+     
  
 **9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?**<br>
 
-No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. This assessment ("the Merits Test") is done by the Legal Aid Board.
+No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. LAB will assess if you have reasonable grounds for bringing or defending a case in Court ("the Merits Test"), after we get a thorough understanding of your case. 
 
-You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a> here. 
+You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a>{:target="_blank"} here. 
 
 You will be informed of the Board's decision on whether you have been granted legal aid once the decision has been made. 
 

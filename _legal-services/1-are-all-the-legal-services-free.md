@@ -9,10 +9,10 @@ collection_name: legal-services
 Are LAB's services free?
 ---
 
-**1. Is legal aid free?**<br>
-Legal aid is not free. Most legally-aided persons will be required to pay a sum of money (i.e. a contribution) for the work done in their respective cases. 
+**1. Do I have to pay for legal aid?**<br>
+You do not have to pay for legal advice.
 
-The contribution payable is assessed having regard to your financial means, the nature of your case, the amount of work done and the amount of money recovered for you.
+You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends on your income and assets, the complexity of the case, and the type of work done. 
 
 **2. How much contribution will I be required to pay?**<br>
 The total contribution usually does not exceed S$1,500, but it may be more in certain exceptional cases. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
@@ -29,6 +29,8 @@ You are also required to pay for:
 You can make payment online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}or you can come down in person to LAB to pay either by cash or by NETS.
 
 For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf){:target="_blank"}(205KB) and send it to us.
+
+For more information on the methods of payment, please refer to this link on [How to Make First Payment](https://lab.mlaw.gov.sg/legal-services/how-to-make-first-payment/){:target="_blank"}.
 
 **6. Will I have to pay the costs of the opposing party if I lose the case?**<br>
 "Costs" of a case in Court include fees, charges, and other expenses of the winning party. Examples of expenses include hearing fees, filing fees for court papers, and photocopying charges.
