@@ -30,7 +30,7 @@ You can make payment online at [https://www.mlaw.gov.sg/eservices/labesvc/](http
 
 For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf){:target="_blank"}(205KB) and send it to us.
 
-For more information on the methods of payment, please refer to this link on [How to Make First Payment](https://lab.mlaw.gov.sg/legal-services/how-to-make-first-payment/){:target="_blank"}.
+For more information on the methods of payment, please refer to this link on [How do I make payment to LAB](https://lab.mlaw.gov.sg/legal-services/how-do-I-pay-my-contribution-or-other-charges-to-LAB/){:target="_blank"}.
 
 **6. Will I have to pay the costs of the opposing party if I lose the case?**<br>
 "Costs" of a case in Court include fees, charges, and other expenses of the winning party. Examples of expenses include hearing fees, filing fees for court papers, and photocopying charges.
