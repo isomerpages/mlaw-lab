@@ -17,6 +17,7 @@ The Means Test assesses your financial circumstances to determine if you have li
 From 16 October 2019, applicants for legal aid must meet the following criteria:
 
 (a) The average Per Capita Gross Monthly Household Income (PCHI) must be $950 or lower for the last 12 months prior to the application;<br>
+
 (b) The Annual Value of applicant’s place of residence owned by the applicant must be $13,000 or lower; and<br>
 
 (c) The applicant’s savings and non-CPF investments must be $10,000 or lower, if he is younger than 60 years old. Applicants aged 60 and above are allowed to have savings and non-CPF investments of $40,000 or lower.<br>
@@ -45,8 +46,11 @@ Example:
 **3. How are savings and non-CPF investments calculated?**<br>
 
 This is done by adding up the value of the following assets that you own in your name:<br>
+
 a)	Bank accounts savings (personal or joint);<br>
+
 b)	Overall value of shares in your Central Depository (CDP) account; and<br>
+
 c)	Any other financial/investment products with a cash value, such as fixed deposit accounts at financial institutions, and shares, bonds and exchange traded funds aside from those in your CDP account. <br>
 
 
