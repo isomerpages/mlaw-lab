@@ -84,12 +84,14 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring when I apply for legal aid?**<br>
 
   Please bring the following documents with you on the day you come to apply for legal aid:<br>
+  
       a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
       b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
       c. Your latest Central Depository (CDP) Account Statement (if any); and<br>
       d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
  
- If you do not have Singpass, please also bring the following documents:
+ If you do not have Singpass, please also bring the following documents:<br>
+ 
       e. Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
       f. Your latest Income Tax Assessment/IR8A form; and<br>
       g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
@@ -100,7 +102,7 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. LAB will assess if you have reasonable grounds for bringing or defending a case in Court ("the Merits Test"), after we get a thorough understanding of your case. 
 
-You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a>{:target="_blank"} here. 
+You can find out more about the <a href="/legal-services/taking-the-merits-test/">Merits Test</a> here. 
 
 You will be informed of the Board's decision on whether you have been granted legal aid once the decision has been made. 
 
