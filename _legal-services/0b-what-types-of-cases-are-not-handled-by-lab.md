@@ -26,7 +26,7 @@ LAB also does not handle certain civil proceedings including, but not limited to
 * Proceedings before the Small Claims Tribunal and the Tribunal for the Maintenance of Parents
 * Mediation at the Tripartite Alliance for Dispute Management and proceedings before the Employment Claims Tribunal
 
-Generally, LAB also does not handle proceedings in the Family Court for Maintenance and Personal Protection Orders where the opposing party is not legally represented, unless there are exceptional circumstances (for example the applicant is a vulnerable person (e.g. disabled, bedridden)
+Generally, LAB also does not handle proceedings in the Family Court for Maintenance and Personal Protection Orders where the opposing party is not legally represented, unless there are exceptional circumstances, for example the applicant is a vulnerable person (e.g. disabled, bedridden)
 
 **Proceedings involving Foreign Law or Foreign Subject Matter**<br>
 
