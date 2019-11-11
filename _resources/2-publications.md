@@ -57,4 +57,12 @@ collection_name: resources
 
 {:start="8"} 
 8. Law Gazette Article (October 2018) <br>
-[NUS Law @ LAB - Clinical Legal Education in Singapore](/files/4-NUS-CLE.pdf)(1.87MB)
+[NUS Law @ LAB - Clinical Legal Education in Singapore](/files/4-NUS-CLE.pdf)(1.87MB)<br><br>
+
+
+
+<div class="image"><img src="/images/NewMeansTest.jpg" alt="New Legal Aid Means Test" title="New Legal Aid Means Test"></div><br>
+
+{:start="9"} 
+9. Law Gazette Article (October 2019) <br>
+[New Legal Aid Means Test - More Starightforward, More Efficient, More Flexible](/files/NewMeansTest.pdf)(147KB)
