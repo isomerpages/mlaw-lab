@@ -68,6 +68,7 @@ collection_name: resources
 
 
 <div class="image"><img src="/images/LAAR.jpg" alt="Strengthening Access to Justice" title="Strengthening Access to Justice"></div><br>
+
 {:start="10"} 
 10. Law Gazette Article (May 2019) <br>
 [Strengthening Access to Justice - Key Amendments to the Legal Aid and Advice Act](/files/LAAR_Amendments.pdf)
