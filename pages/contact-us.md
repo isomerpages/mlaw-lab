@@ -72,7 +72,7 @@ Closed on Weekends & Public Holidays<br>
   </div>
 </div>
 
-Enquiry Line Operating Hours<br>
+Enquiry Line Operating Hours.<br>
 
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
