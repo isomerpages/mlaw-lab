@@ -16,7 +16,7 @@ Have questions?<br>
 
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" title="email" alt="email"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
@@ -37,12 +37,12 @@ You can send us your feedback and enquiries on the following issues:<br>
 
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" title="contactus" alt="contactus" style="width: 300px; float: left;"></a>
+  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="contactus" alt="contactus" style="width: 300px; float: left;"></a>
 </div><br>
 
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/"  title="location" alt="location"></a>
    <div class="content-heading">
    <h3> Location</h3>
@@ -65,7 +65,7 @@ Closed on Weekends & Public Holidays<br>
 
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/call.png/" title="call" alt="call"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
