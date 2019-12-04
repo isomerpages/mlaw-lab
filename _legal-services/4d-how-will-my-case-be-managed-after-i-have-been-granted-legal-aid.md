@@ -12,9 +12,9 @@ After Aid is Granted
 
 **1. Who should I contact if I have any questions about my case?**<br>
 
-If you already have a registered case, you can log on to the e-Services Portal at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"} to check the status of your case, submit electronic copies of your documents, track your appointments or update your personal details. You will need your SingPass to log in.
+If you already have a registered case, you can log on to the e-Services Portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/){:target="_blank"} to check the status of your case, submit electronic copies of your documents, track your appointments or update your personal details. You will need your SingPass to log in.
 
-For further enquiries, please submit via our online enquiry form at [https://www.mlaw.gov.sg/eservices/enquiry/](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
+For further enquiries, please submit via our online enquiry form at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}
 
 Alternatively, you may call LAB at 1800 225 5529.
 

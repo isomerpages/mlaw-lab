@@ -27,7 +27,7 @@ Please see (11) below for further information.
 
 If you require legal aid, assistance, or advice, you can either*:
 
-(a) Register your case online at [https://www.mlaw.gov.sg/eservices/labesvc/](https://www.mlaw.gov.sg/eservices/labesvc/){:target="_blank"}
+(a) Register your case online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/){:target="_blank"}
 
 Once you have registered successfully, you will be required to attend at LAB **within 3 working days after the date of registration**.
 

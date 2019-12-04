@@ -9,7 +9,7 @@ second_nav_title: "What happens After I Apply?"
 Cancellation of Legal Aid
 ---
 
-In addition to the Director of Legal Aid's discretion to refuse legal aid,* the [Legal Aid Board](/legal-services/grant-of-aid-by-the-legal-aid-board/) may cancel the legal aid which has been granted to you, for various reasons, for example: 
+In addition to the Director of Legal Aid's discretion to refuse legal aid,* the [Legal Aid Board](https://lab.mlaw.gov.sg/legal-services/grant-of-aid/) may cancel the legal aid which has been granted to you, for various reasons, for example: 
 
 * Where you have failed to pay your assessed contribution or any payment due to LAB for more than 30 days after the time you were supposed to pay
 * Where LAB finds out new information, or your circumstances change, and this new information/the changed circumstances means that you are no longer financially eligible for legal aid
