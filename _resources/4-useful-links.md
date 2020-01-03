@@ -8,6 +8,6 @@ collection_name: resources
 Useful Links
 ---
 
-[List of Legal Clinics](/files/LAB_list_of_legal_clinics.pdf){:target="_blank"}(270kb)
+[List of Legal Clinics](/files/LAB_list_of_legal_clinics.pdf){:target="_blank"} (270kb)
 
 
