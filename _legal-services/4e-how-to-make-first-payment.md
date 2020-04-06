@@ -18,5 +18,5 @@ You can make payment through the following methods:
 
 3. Pay online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/){:target="_blank"}. Select “For Applicant” and log in to the ePortal using your Singpass. Click on “Check My Payment”.
 
-**4. Please note that with effect from 7 April 2020, MinLaw Customer Service Centre will no longer accept cash payments and only payments by NETS can be made at our Self Service Payment Kiosks. <br> Please make any payment online via our e-services portal where possible.**
+4. **Please note that with effect from 7 April 2020, MinLaw Customer Service Centre will no longer accept cash payments and only payments by NETS can be made at our Self Service Payment Kiosks. <br> Please make any payment online via our e-services portal where possible.**
 
