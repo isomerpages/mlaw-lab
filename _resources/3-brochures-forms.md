@@ -8,7 +8,7 @@ collection_name: resources
 Brochures and Forms
 ---
 
-[Applicants' Portal User Guide](/files/Applicants-Portal-User-Guide.pdf){:target="_blank"}(1.32MB) <br>
+[Guide to the Legal Aid Scheme](/files/GuideToTheLegalAidSchemeBrochure-23Dec19.pdf){:target="_blank"}(370KB) <br>
 
  
 
@@ -21,5 +21,6 @@ Brochures and Forms
  
 
 [Direct Credit Authorisation Form](/files/DCA-Form.pdf){:target="_blank"}(76.3KB)<br>
+
 [Giro Form](/files/Giro-form.pdf){:target="_blank"}(280KB)<br>
 
