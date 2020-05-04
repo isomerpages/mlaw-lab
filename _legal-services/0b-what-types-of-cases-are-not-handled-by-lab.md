@@ -14,7 +14,7 @@ What types of cases are not handled by LAB?
 
 LAB does not handle criminal proceedings.
 
-If you require legal advice or representation in criminal proceedings, you may approach the Law Society of Singapore which administers the Criminal Legal Aid Scheme ("CLAS").
+If you require legal advice or representation in criminal proceedings, you may approach the Law Society Pro Bono Services (Singapore) which administers the Criminal Legal Aid Scheme ("CLAS").
 
 You can find out more about CLAS at [http://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx](http://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx){:target="_blank"} and CLAS can be contacted at 6534 1564.
 

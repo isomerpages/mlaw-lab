@@ -76,4 +76,5 @@ Enquiry Line Operating Hours<br>
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
 Monday to Friday: 8:30am to 5:00pm<br>
+(Closed on Tuesdays and Thursday w.e.f. 11 May 2020)<br>
 (Closed on Weekends & Public Holidays)<br>
