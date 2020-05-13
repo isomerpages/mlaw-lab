@@ -7,5 +7,5 @@ collection_name: about-us
 ---
 Statistics
 ---
-Our published statistics can be found [here](https://data.gov.sg/){:target=_blank}<br>
+Our published statistics can be found [here](https://data.gov.sg/).<br>
 ---
