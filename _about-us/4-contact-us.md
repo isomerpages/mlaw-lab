@@ -58,6 +58,7 @@ Singapore 069118<br>
 **Counter Operating Hours:**
 
 Monday to Friday: 8:30am to 5:00pm<br>
+Closed on every Tuesday and Thursday w.e.f. 11 May 2020 to 1 June 2020<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)<br>
 
@@ -76,5 +77,5 @@ Enquiry Line Operating Hours<br>
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
 Monday to Friday: 8:30am to 5:00pm<br>
-(Closed on Tuesdays and Thursday w.e.f. 11 May 2020)<br>
+(Closed on every Tuesday and Thursday w.e.f. 11 May 2020 to 1 June 2020)<br>
 (Closed on Weekends & Public Holidays)<br>
