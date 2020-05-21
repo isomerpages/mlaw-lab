@@ -26,11 +26,13 @@ You are also required to pay for:
 - other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
-You can make payment online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/){:target="_blank"}or you can come down in person to LAB to pay either by cash or by NETS.
+You can make payment online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) or you can come down in person to the Minlaw Services Centre to pay by NETS. You do not need to take a Queue number to make payment.
 
-For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf){:target="_blank"}(205KB) and send it to us.
+For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf) and send it to us.
 
-For more information on the methods of payment, please refer to this link on [How do I make payment to LAB](https://lab.mlaw.gov.sg/legal-services/how-do-I-pay-my-contribution-or-other-charges-to-LAB/){:target="_blank"}.
+Please note that with effect from 7 April 2020, the Minlaw Services Centre will no longer accept cash payments. All payments are strictly by NETS. You are encouraged to make payment online via our e-services portal.
+
+For more information on the methods of payment, please refer to this link on [How do I make payment to LAB](https://lab.mlaw.gov.sg/legal-services/how-do-I-pay-my-contribution-or-other-charges-to-LAB/).
 
 **6. Will I have to pay the costs of the opposing party if I lose the case?**<br>
 "Costs" of a case in Court include fees, charges, and other expenses of the winning party. Examples of expenses include hearing fees, filing fees for court papers, and photocopying charges.
