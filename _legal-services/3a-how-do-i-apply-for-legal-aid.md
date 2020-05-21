@@ -27,20 +27,20 @@ Please see (11) below for further information.
 
 If you require legal aid, assistance, or advice, you can either*:
 
-(a) Register your case online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/){:target="_blank"}
+(a) Register your case online [here](https://eservices.mlaw.gov.sg/labesvc/).
 
 Once you have registered successfully, you will be required to attend at LAB **within 3 working days after the date of registration**.
 
 Or
 
-(b) Come to LAB during office hours (8.30 am to 5.00 pm) on weekdays to make an application. Please note that LAB is closed on weekends and public holidays.
+(b) Come to the Minlaw Services Centre. Please refer to our opening hours [here](https://lab.mlaw.gov.sg/about-us/contact-us/).
 
 *If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.  
 
 
 **3. What are the benefits of registering online?**<br>
 
-If you register online, you will be immediately placed in the queue to see the Duty Lawyer for your matter. You will not need to tell our staff about the facts of your case or answer questions about your financial situation (“preliminary means test”).
+If you register online, you will save time. Click [here](https://youtu.be/PwYQJi9aCns) to see how our Applicant Portal helps you save time. You will not need to tell our staff about the facts of your case or answer questions about your financial situation (“preliminary means test”) if you do it online successfully.
 
 
 **4. What happens when I attend at LAB?**<br>
