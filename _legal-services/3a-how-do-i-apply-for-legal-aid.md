@@ -40,7 +40,7 @@ Or
 
 **3. What are the benefits of registering online?**<br>
 
-If you register online, you will save time. Click [here](https://youtu.be/PwYQJi9aCns) to see how our Applicant Portal helps you save time. You will not need to tell our staff about the facts of your case or answer questions about your financial situation (“preliminary means test”) if you do it online successfully.
+If you register online, you will save time. Click [here](https://youtu.be/PwYQJi9aCns) to see how our Applicant Portal helps you save time. You will save yourself time to inform us about the facts of your case or answer questions about your financial situation (“preliminary means test”) if you can complete the relevant forms online successfully.
 
 
 **4. What happens when I attend at LAB?**<br>
