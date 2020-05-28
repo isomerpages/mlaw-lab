@@ -58,9 +58,11 @@ Singapore 069118<br>
 **Counter Operating Hours:**
 
 Monday to Friday: 8:30am to 5:00pm<br>
-Closed on every Tuesday and Thursday with effect from 11 May 2020<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)<br>
+In line with the safe-distancing measures, we will limit the number of people entering the Ministry of Law Services Centre:
+- Please come down ALONE.
+- Exceptions will only be made for the elderly, those with special needs, and / or those who require assistance with mobility.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8229405858337!2d103.84294531475398!3d1.2798659990665142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1912c3f8f9a1%3A0x1300f7ac70e55bda!2sSingapore+069118!5e0!3m2!1sen!2ssg!4v1563259237607!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" title="Google Map" alt="Google Map" allowfullscreen></iframe>
 
@@ -77,5 +79,7 @@ Enquiry Line Operating Hours<br>
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
 Monday to Friday: 8:30am to 5:00pm<br>
-(Closed on every Tuesday and Thursday with effect from 11 May 2020)<br>
 (Closed on Weekends & Public Holidays)<br>
+In line with the safe-distancing measures, we will limit the number of people entering the Ministry of Law Services Centre:
+- Please come down ALONE.
+- Exceptions will only be made for the elderly, those with special needs, and / or those who require assistance with mobility.
