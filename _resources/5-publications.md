@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Publications
 permalink: /resources/publications/
 breadcrumb: Publications
-collection_name: resources
+
 ---
+
 <style>
 .image{width:298px; height:163px;}
   
