@@ -1,72 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-- title: About Us
-  url: /about-us/our-mission-core-values/
-  sub-links:
-  - title: Our mission and core values
-    url: /about-us/our-mission-core-values/
-  - title: Organisation structure
-    url: /about-us/organisation-structure/
-  - title: History
-    url: /about-us/history/
-  - title: Corporate Video
-    url: /about-us/corporate-video/
-  - title: Contact Us
-    url: /about-us/contact-us/
-  - title: Statistics
-    url: /about-us/statistics/
-  - title: Help with a Heart
-    url: /about-us/help-with-a-heart/
-- title: Legal Services
-  url: /legal-services/type-of-services/
-  sub-links:
-  - title: What services does LAB provide?
-    url: /legal-services/type-of-services/
-  - title: Are all the legal services free?
-    url: /legal-services/are-all-the-legal-services-free/
-  - title: Do I qualify?
-    url: /legal-services/do-i-qualify/
-  - title: How do I apply?
-    url: /legal-services/how-do-i-apply-for-legal-aid/
-  - title: What happens after I apply?
-    url: /legal-services/taking-the-means-test/
-- title: Resources
-  url: /resources/legal-aid-advice-act-regulations/
-  sub-links:
-  - title: Legal Aid and Advice Act & Regulations
-    url: /resources/legal-aid-advice-act-regulations/
-  - title: Mental Capacity Act Applications
-    url: /resources/mental-capacity-act-applications/
-  - title: Commencing Divorce in the Syariah Court
-    url: /resources/Commencing-Divorce-in-the-Syariah-Court/
-  - title: Publications
-    url: /resources/publications/
-  - title: Brochures and Forms
-    url: /resources/brochures-forms/
-  - title: Useful Links
-    url: /resources/useful-links/
-  - title: Guide to iLAB
-    url: /resources/guide-to-ilab/
-- title: LAB Volunteer Schemes
-  url: /lab-volunteer-schemes/assigned-solicitors-scheme/
-  sub-links:
-  - title: Assigned Solicitors Scheme
-    url: /lab-volunteer-schemes/assigned-solicitors-scheme/
-  - title: Volunteer Lawyers Scheme
-    url: /lab-volunteer-schemes/volunteer-lawyers-scheme/
-- title: Login to e-Services
-  url: https://eservices.mlaw.gov.sg/labesvc/
-  sub-links:
-  - title: Login to Applicant Portal
-    url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
-  - title: Login to Assigned Solicitor Portal
-    url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=4
-  - title: Register as an Intern
-    url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=2
-  - title: Register as an LAB Volunteer
-    url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1
-  - title: Register SingPass Account
-    url: https://www.singpass.gov.sg/singpass/register/instructions
+logo: /images/mlaw-logo.png
+links:
+    -
+        title: 'About Us'
+        url: /about-us/our-mission-core-values/
+        collection: about-us
+    -
+        title: 'Legal Services'
+        url: /legal-services/type-of-services/
+        collection: legal-services
+    -
+        title: Resources
+        url: /resources/legal-aid-advice-act-regulations/
+        collection: resources
+    -
+        title: 'LAB Volunteer Schemes'
+        url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+        collection: lab-volunteer-schemes
+    -
+        title: 'Login to e-Services'
+        url: 'https://eservices.mlaw.gov.sg/labesvc/'
+        collection: login-to-e-services
