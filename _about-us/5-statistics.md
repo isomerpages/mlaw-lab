@@ -5,4 +5,6 @@ breadcrumb: Statistics
 
 ---
 
-Statistics
+## Statistics
+
+Our published statistics can be found [here](https://data.gov.sg/).<br>
