@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Types of Services
+title: 'Types of Services'
 permalink: /legal-services/type-of-services/
-breadcrumb: Type of Services
-collection_name: legal-services
-second_nav_title: What services does LAB provide?
+breadcrumb: 'Type of Services'
+third_nav_title: 'What services does LAB provide?'
+
 ---
 
-What services does LAB provide?
----
+## What services does LAB provide?
 
 LAB provides the following services:
 
@@ -28,5 +26,3 @@ LAB can help you draft the following:
 **Legal Aid**<br>
 
 LAB lawyers or a lawyer assigned by LAB can represent you in many kinds of civil proceedings, as set out in the Legal Aid and Advice Act. These include proceedings before the Court of Appeal, the High Court, District Courts, Magistrates’ Courts, the Family Courts, the Syariah Court and the Syariah Court Appeal Board, and the Commissioner of Labour under the Work Injury Compensation Act.
-
-

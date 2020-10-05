@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Our mission and core values
+title: 'Our mission and core values'
 permalink: /about-us/our-mission-core-values/
-breadcrumb: Our mission and core values
-collection_name: about-us
+breadcrumb: 'Our mission and core values'
 
 ---
 
-Our mission and core values
----
+## Our mission and core values
+
 ##### **Vision**<br>
 A Trusted Legal System; A Trusted Singapore.<br>
 

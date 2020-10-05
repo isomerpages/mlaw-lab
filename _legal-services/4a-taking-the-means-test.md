@@ -1,15 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Taking the Means Test
+title: 'Taking the Means Test'
 permalink: /legal-services/taking-the-means-test/
-breadcrumb: Taking the Means Test
-collection_name: legal-services
-second_nav_title: "What happens After I Apply?"
+breadcrumb: 'Taking the Means Test'
+third_nav_title: 'What happens After I Apply?'
 
 ---
 
-Taking the Means Test
----
+
+## Taking the Means Test
 
 **1. What is the Means Test?**<br>
 The Means Test assesses your financial circumstances to determine if you have limited means.
@@ -57,6 +55,3 @@ c)	Any other financial/investment products with a cash value, such as fixed depo
 **4. What happens if I fail the means test but I really cannot afford to pay for a private lawyer?**
 
 If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance. 
-
-
-

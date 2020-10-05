@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Taking the Merits Test
+title: 'Taking the Merits Test'
 permalink: /legal-services/taking-the-merits-test/
-breadcrumb: Taking the Merits Test
-collection_name: legal-services
-second_nav_title: "What happens After I Apply?"
+breadcrumb: 'Taking the Merits Test'
+third_nav_title: 'What happens After I Apply?'
+
 ---
 
-Taking the Merits Test
----
+
+## Taking the Merits Test
 
 The Merits Test assesses whether you have reasonable grounds for bringing or defending a case in Court. 
 

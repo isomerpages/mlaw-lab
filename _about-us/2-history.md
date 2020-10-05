@@ -1,14 +1,11 @@
 ---
-layout: leftnav-page-content
 title: History
 permalink: /about-us/history/
 breadcrumb: History
-collection_name: about-us
 
 ---
 
-History
----
+## History
 
 <div class="image">
     <br><img src="/images/1399988168555.jpg" title="History" alt="History">

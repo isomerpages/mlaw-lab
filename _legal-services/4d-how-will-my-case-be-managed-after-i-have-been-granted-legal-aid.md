@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: After Aid is Granted
+title: 'After Aid is Granted'
 permalink: /legal-services/after-aid-is-granted/
-breadcrumb: After Aid is Granted
-collection_name: legal-services
-second_nav_title: "What happens After I Apply?"
+breadcrumb: 'After Aid is Granted'
+third_nav_title: 'What happens After I Apply?'
+
 ---
 
-After Aid is Granted
----
+
+## After Aid is Granted
 
 **1. Who should I contact if I have any questions about my case?**<br>
 

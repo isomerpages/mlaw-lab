@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: What types of cases are not handled by LAB?
+title: 'What types of cases are not handled by LAB?'
 permalink: /legal-services/what-types-of-cases-are-not-handled-by-lab/
-breadcrumb: What types of cases are not handled by LAB?
-collection_name: legal-services
-second_nav_title: What services does LAB provide?
+breadcrumb: 'What types of cases are not handled by LAB?'
+third_nav_title: 'What services does LAB provide?'
+
 ---
 
-What types of cases are not handled by LAB?
----
+## What types of cases are not handled by LAB?
 
 **Criminal Proceedings**<br>
 

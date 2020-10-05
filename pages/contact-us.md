@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Contact Us
+title: 'Contact Us'
 permalink: /contact-us/
-breadcrumb: Contact Us
+breadcrumb: 'Contact Us'
+
 ---
 
-FAQs
----
+
+## FAQs
 
 Have questions?<br>
 

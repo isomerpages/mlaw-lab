@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Commencing Divorce in the Syariah Court
+title: 'Commencing Divorce in the Syariah Court'
 permalink: /resources/Commencing-Divorce-in-the-Syariah-Court/
-breadcrumb: Commencing Divorce in the Syariah Court
-collection_name: resources
+breadcrumb: 'Commencing Divorce in the Syariah Court'
+
 ---
-Commencing Divorce in the Syariah Court
----
+
+## Commencing Divorce in the Syariah Court
 
 1.	The LAB Syariah Court Practice Group (LAB SCPG) has prepared a set of materials relating to Muslim Family Law Procedure in Singapore.
 
@@ -25,4 +24,3 @@ Useful links: <br>
 (b)	[Annex (Description of forms to be filed in a divorce in the Syariah Court)](/files/Annex-Description-of-Forms-to-be-filed-in-divorce-in-the-Syariah-Court.docx) (36kb) <br>
 (c)	[List of relevant cases and legislation relating to a divorce in the Syariah Court](/files/List-of-Relevant-Cases-and-Legislation-relating-to-divorce-in-the-Syariah-Court.docx) (2114kb) <br>
 (d)	[Sample Pre-Trial Conference (PTC) Checklist which may be used when preparing for a PTC in the Syariah Court](/files/Sample-Syariah-Court-PTC-Checklist.docx) (33kb) <br>
-

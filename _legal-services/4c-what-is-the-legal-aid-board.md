@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Grant of Aid
+title: 'Grant of Aid'
 permalink: /legal-services/grant-of-aid/
-breadcrumb: Grant of Aid
-collection_name: legal-services
-second_nav_title: "What happens After I Apply?"
+breadcrumb: 'Grant of Aid'
+third_nav_title: 'What happens After I Apply?'
+
 ---
 
-Grant of Aid
----
+
+## Grant of Aid
 
 The Legal Aid Board comprises the Director of Legal Aid and at least two independent solicitors who are on LAB's Panel of Assigned Solicitors.
 
@@ -24,5 +23,3 @@ With effect from 16 October 2019, the Director for Legal Aid can, without refere
 All decisions of the Legal Aid Board and/or the Director of Legal Aid in respect of applications for legal aid are final.
 
 *For the full list of prescribed classes of proceedings, you may refer to the 2nd Schedule to the [Legal Aid and Advice Regulations](/files/LAAR-Amended.pdf){:target="_blank"}. 
-
-

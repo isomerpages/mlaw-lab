@@ -1,6 +1,7 @@
 ---
-layout: simple-page
-title: Join Us
+title: 'Join Us'
 permalink: /join-us/
-breadcrumb: Join Us
+breadcrumb: 'Join Us'
+
 ---
+

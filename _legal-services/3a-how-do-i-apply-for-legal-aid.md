@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: How do I apply for legal aid?
+title: 'How do I apply for legal aid?'
 permalink: /legal-services/how-do-i-apply-for-legal-aid/
-breadcrumb: How do I apply for LAB's services?
-collection_name: legal-services
-second_nav_title: "How do I Apply?"
+breadcrumb: 'How do I apply for LAB''s services?'
+third_nav_title: 'How do I Apply?'
+
 ---
 
-How do I apply for LAB's Services?
----
+
+## How do I apply for LAB's Services?
 
 **1. Overview of LAB's Application Process for Legal Aid and Assistance**<br>
 
@@ -46,7 +45,7 @@ If you register online, you will save time. Click [here](https://youtu.be/PwYQJi
 **4. What happens when I attend at LAB?**<br>
 
 **If you are registering in-person at LAB**, you will be asked some basic questions about the facts of your case and your financial situation (“preliminary means test”), to determine your eligibility for legal aid.
-  
+
 If your matter is within LAB’s scope of work and you pass the preliminary means test, then:
 
 (a) If you only need legal advice, you will be able to consult the Duty Lawyer.
@@ -56,8 +55,8 @@ If your matter is within LAB’s scope of work and you pass the preliminary mean
 (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
 
 **If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
-  
-  
+
+
 **5. What happens when I see the Duty Lawyer?**<br>
 
 The Duty Lawyer will give you oral advice on questions relating to Singapore law and suggest practical steps you may take in your case. He may ask you for more information and documents, in order to advise you properly. If necessary, the lawyer will also assess if your matter is one LAB can help to represent you in Court for. If it is, then the lawyer will direct the counter staff to open a file for you and give you an appointment for the full Means Test.
@@ -84,20 +83,20 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring when I apply for legal aid?**<br>
 
   Please bring the following documents with you on the day you come to apply for legal aid:<br>
-  
+
       a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
       b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
       c. Your latest Central Depository (CDP) Account Statement (if any); and<br>
       d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
- 
+
  If you do not have Singpass, please also bring the following documents:<br>
- 
+
       e. Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
       f. Your latest Income Tax Assessment/IR8A form; and<br>
       g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
-     
-     
- 
+
+
+
 **9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?**<br>
 
 No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/">Means Test</a>, before the Statement Taking. After your statement is taken, LAB will need to investigate your case and assess if legal aid should be granted to you. LAB will assess if you have reasonable grounds for bringing or defending a case in Court ("the Merits Test"), after we get a thorough understanding of your case. 
@@ -124,8 +123,5 @@ If you are not a resident in Singapore or if your child has been removed from Si
 For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx){:target="_blank"}
 
 If you are resident in Singapore, please come to LAB personally during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
-
-
-
 
 

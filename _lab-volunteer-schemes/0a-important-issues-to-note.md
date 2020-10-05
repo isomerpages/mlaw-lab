@@ -1,16 +1,15 @@
 ---
-layout: leftnav-page-content
-title: Important Issues to Note
+title: 'Important Issues to Note'
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/important-issues-to-note/
-breadcrumb: Important Issues to Note
-collection_name: lab-volunteer-schemes
-second_nav_title: Assigned Solicitor Scheme
+breadcrumb: 'Important Issues to Note'
+third_nav_title: 'Assigned Solicitor Scheme'
+
 ---
-Important Issues to Note
----
+
+## Important Issues to Note
+
 <b><u>Do I have to accept all cases assigned to me?</u></b> <br>
 No. If you are unable to accept a particular case assigned to you for any reason, you may decline it. <br>
-
 
 <b><u>What should I do when a case is assigned to me?</u></b> <br>
 * Generally, you should handle an assigned case the same way as you would handle your own private cases. Additionally, you should keep LAB informed of the progress of the case at least once in 3 months. You should also regularly inform the applicant on the progress of the case, as you would your own private clients. 
@@ -20,8 +19,8 @@ No. If you are unable to accept a particular case assigned to you for any reason
 * If it is a case in which aid has already been granted,you do not need to prepare a fresh legal opinion. Instead, a grant of aid ("GA") will be issued and you should proceed to deal with the case. 
 
 * For e-Litigation matters, you should reference the PGA/GA under party details. For non e-Litigation matters, you will need to file the PGA/GA manually. You should also file  your Notice of Appointment/Change of Solicitors. The PGA/GA, as the case may be, must be served on all relevant parties to the proceedings. <br>
- 
- 
+
+
 <b><u>Am I allowed to discharge myself from acting for an Applicant?</u></b> <br>
 Under s15(2) of the Legal Aid and Advice Act, you must inform the Director of Legal Aid of the reasons you wish to discharge yourself and seek the Director's leave. Regulation 12(7) of the Legal Aid and Advice Regulations states that you have the right to discharge yourself from acting for an applicant "for a good reason". Please get in touch with LAB's officers if you encounter this scenario. 
 
@@ -38,4 +37,3 @@ If there are still ongoing court proceedings after the Director of Legal Aid has
 No. Regulation 12(9) of the Legal Aid and Advice Regulations states that no Assigned Solicitor should entrust conduct of any part of the case assigned to him to any other person. <br>
 
 [The Assigned Solicitor’s Guide (1MB)](/files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"} <br>
-

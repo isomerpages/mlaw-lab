@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Assigned Solicitors
+title: 'Assigned Solicitors'
 permalink: /lab-volunteer-schemes/assigned-solicitors-scheme/
-breadcrumb: Assigned Solicitor Scheme
-collection_name: lab-volunteer-schemes
-second_nav_title: Assigned Solicitor Scheme
+breadcrumb: 'Assigned Solicitor Scheme'
+third_nav_title: 'Assigned Solicitor Scheme'
+
 ---
-Assigned Solicitors 
----
+
+## Assigned Solicitors 
 
 <b> <u>What is an Assigned Solicitor? </u> </b> <br>
 An Assigned Solicitor is a private lawyer who has volunteered and been appointed by the Legal Aid Bureau (LAB) to help in its work. A significant proportion of LAB's work is handled by Assigned Solicitors, who are a key pillar of the Legal Aid Scheme. <br>

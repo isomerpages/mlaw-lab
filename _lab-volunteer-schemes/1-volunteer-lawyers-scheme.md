@@ -1,13 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Volunteer Lawyers Scheme
+title: 'Volunteer Lawyers Scheme'
 permalink: /lab-volunteer-schemes/volunteer-lawyers-scheme/
-breadcrumb: Volunteer Lawyers Scheme
-collection_name: lab-volunteer-schemes
+breadcrumb: 'Volunteer Lawyers Scheme'
+
 ---
 
-Volunteer Lawyers 
----
+## Volunteer Lawyers 
 
 The LAB Volunteer Lawyers Scheme was launched in 2008 to provide an opportunity for lawyers without practicing certificates to assist the less privileged.
 
@@ -18,6 +16,6 @@ Suitable candidates for this scheme include lawyers who have retired from full-t
 * Previously called to the Singapore Bar (you will need to submit the necessary documentation); and 
 * Able to commit to work for not less than 1/2 a day a week for at least 3 months during office hours. <br>
 
- 
+
 <b> <u>How do I sign up? </u> </b> <br>
 To sign up as a Volunteer Lawyer, please visit our e-services page to "Register as an LAB Volunteer".

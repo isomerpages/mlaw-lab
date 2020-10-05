@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Are all the legal services free?
+title: 'Are all the legal services free?'
 permalink: /legal-services/are-all-the-legal-services-free/
-breadcrumb: Are all the legal services free?
-collection_name: legal-services
+breadcrumb: 'Are all the legal services free?'
+
 ---
 
-Are LAB's services free?
----
+
+## Are LAB's services free?
 
 **1. Do I have to pay for legal aid?**<br>
 You do not have to pay for legal advice.
