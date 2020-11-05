@@ -28,4 +28,4 @@ Generally, LAB also does not handle proceedings in the Family Court for Maintena
 
 **Proceedings involving Foreign Law or Foreign Subject Matter**<br>
 
-LAB is only authorised to give legal advice on Singapore law, and to provide aid for civil proceedings in the Singapore courts. Is is therefore unlikely to be able to assist in cases clearly involving foreign law or a foreign subject matter e.g. property outside of Singapore.
+LAB is only authorised to give legal advice on Singapore law, and to provide aid for civil proceedings in the Singapore courts. It is therefore unlikely to be able to assist in cases clearly involving foreign law or a foreign subject matter e.g. property outside of Singapore.
