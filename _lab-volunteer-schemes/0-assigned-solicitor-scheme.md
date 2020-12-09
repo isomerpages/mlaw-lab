@@ -20,7 +20,7 @@ Assigned Solicitors assist LAB by:
 <b> <u>What qualifications are needed to apply to  be an Assigned Solicitor? </u> </b> <br>
 You need to have a valid practicing certificate in order to apply to be an Assigned Solicitor.
 
-If you are a lawyer who wishes to volunteer but no longer have a valid practicing certificate, you may apply to be a volunteer under the Volunteer Lawyers Scheme. You may similarly visit our e-services page and click on the link "Register as an LAB Volunteer" to sign up.  <br>
+If you are a lawyer who wishes to volunteer but no longer have a valid practicing certificate, you may apply to be a volunteer under the Volunteer Lawyers Scheme by clicking on this [link here](https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1) to register as an LAB Volunteer. <br>
 
 <b> <u>How do I sign up? </u> </b> <br>
-To sign up as an Assigned Solicitor, please visit our e-services page and click on the link "Register as an LAB Volunteer".
+To sign up as an Assigned Solicitor, please register as an LAB Volunteer by click on this [link here](https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1).
