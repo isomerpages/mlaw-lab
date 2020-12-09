@@ -23,4 +23,4 @@ You need to have a valid practicing certificate in order to apply to be an Assig
 If you are a lawyer who wishes to volunteer but no longer have a valid practicing certificate, you may apply to be a volunteer under the Volunteer Lawyers Scheme by clicking on this [link here](https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1) to register as an LAB Volunteer. <br>
 
 <b> <u>How do I sign up? </u> </b> <br>
-To sign up as an Assigned Solicitor, please register as an LAB Volunteer by click on this [link here](https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1).
+To sign up as an Assigned Solicitor, please register as an LAB Volunteer by clicking on this [link here](https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1).
