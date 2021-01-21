@@ -54,7 +54,7 @@ Singapore 069118<br>
 
 **Counter Operating Hours:**
 
-Monday to Friday: 8:30am to 5:00pm<br>
+Monday to Friday: 8:30am to 5:00pm (Last queue ticket will be issued at 4.30pm)<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)<br>
 In line with the safe-distancing measures, we will limit the number of people entering the Ministry of Law Services Centre:
@@ -75,7 +75,7 @@ Enquiry Line Operating Hours<br>
 
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
-Monday to Friday: 8:30am to 5:00pm<br>
+Monday to Friday: 8:30am to 5:00pm (Last queue ticket will be issued at 4.30pm)<br>
 (Closed on Weekends & Public Holidays)<br>
 In line with the safe-distancing measures, we will limit the number of people entering the Ministry of Law Services Centre:
 - Please come down ALONE.
