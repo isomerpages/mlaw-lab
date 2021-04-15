@@ -10,7 +10,7 @@ sections:
   - hero:
       title: 'LEGAL AID BUREAU'
       subtitle: 'Advancing access to justice, the rule of law, the economy and society through policy, law and services.'
-      background: '/images/Hero Banner 2021 v5 aligned.jpg'
+      background: '/images/Hero Banner 2021 v2 aligned.jpg'
       button: 'Contact Us'
       url: /about-us/contact-us/
       key_highlights:
