@@ -17,7 +17,7 @@ Please note that this is a general overview of the LAB's application process for
 
 For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.
 
-Upon registering an application with us, we will ask you for your consent to share the data that we will be collecting from you during the course of your application. Data collected will be kept strictly confidential. Sharing your data enables us to better facilitate and tailor the legal services provided to you. Please click [here](/files/Data_Consent_Form_(Legal_Aid_Bureau).pdf) for full details on our terms & conditions of data collection/sharing.
+Upon registering an application with us, we will ask you for your consent to share the data that we will be collecting from you during the course of your application. Data collected will be kept strictly confidential. Sharing your data enables us to better facilitate and tailor the legal services provided to you. Please click [here](/files/Data_Consent_Form(Legal_Aid_Bureau).pdf) for full details on our terms & conditions of data collection/sharing.
 
 *This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
 
