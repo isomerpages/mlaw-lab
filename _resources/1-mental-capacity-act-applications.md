@@ -20,5 +20,6 @@ breadcrumb: 'Mental Capacity Act Applications'
 5. [Medical Report - Sample of a Completed Medical Report](/files/Sample-filled-in-MR.pdf)(302MB) <br>
 
 6. Click here to access the quick reference guide to ["Filing a Simplified Track Mental Capacity Application using iFAMs"](https://www.familyjusticecourts.gov.sg/docs/default-source/resources/reports-and-publications/brochures/quickreferenceguide_simplifiedtrackfordeputyship.pdf) and click here to access [iFAMs](https://ifams.gov.sg/sop/process/IFAMS/McaHome#iFAMS).<br>
-Please refer to this [guide](/files/Guide_to_submitting_MCA_Application_on_iFAMS_(for_Assigned_Solicitors).docx) for more information on how to submit an application on iFAMS.  A doctor who wishes to submit the medical report directly for a Patient on iFAMs can do so by using his/her on SingPass.
+A doctor who wishes to submit the medical report directly for a Patient on iFAMs can do so by using his/her on SingPass. <br>
+For Legal Aid Bureau's Assigned Solicitors - Please refer to this [guide](/files/Guide_to_submitting_MCA_Application_on_iFAMS_(for_Assigned_Solicitors).docx) for more information on how to submit an application on iFAMS.
 
