@@ -28,7 +28,7 @@ Please see (11) below for further information.
 
 If you require legal aid, assistance, or advice, you can either*:
 
-(a) Register your case online [here](https://eservices.mlaw.gov.sg/labesvc/). A step by step guide to apply online via our Applicant Portal is available [here](/files/Guide-to-apply-online-via-the-Applicant-Portal.pdf).
+(a) Register your case online [here](https://eservices.mlaw.gov.sg/labesvc/). A step by step guide to apply online via our Applicant Portal is available [here](/files/Guide-to-apply-online-via-the-Applicant-Portal-v2.pdf).
 
 Once you have registered successfully, you will be required to attend at LAB **within 3 working days after the date of registration**.<br>
 
@@ -85,18 +85,15 @@ You will be interviewed by a Legal Executive from LAB during the Statement Takin
 **8. What documents should I bring when I apply for legal aid?**<br>
 
   Please bring the following documents with you on the day you come to apply for legal aid:<br>
-
-      a. Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
-      b. Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
-      c. Your latest Central Depository (CDP) Account Statement (if any); and<br>
-      d. Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
+    (a) Your identity card (IC) or Valid Passport if you are a Permanent Resident (PR);<br>
+    (b) Updated Personal and/or Joint Account Bank Books or Statements, Fixed Deposit Receipts and/or any other Bank-related investment information;<br>
+    (c) Your latest Central Depository (CDP) Account Statement (if any); and<br>
+    (d) Any other documents relevant to your application such as Court Orders or Persoanl Protection Applications.<br>
 
  If you do not have Singpass, please also bring the following documents:<br>
-
-      e. Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
-      f. Your latest Income Tax Assessment/IR8A form; and<br>
-      g. Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
-
+    (e) Your CPF Contribution History for the past 12 months, **or** if you are 65 years and above, your CPF Transaction History for the past 12 months;<br>
+    (f) Your latest Income Tax Assessment/IR8A form; and<br>
+    (g) Any property notices or letters in your IRAS MyTax Portal that shows the Annual Value of the property you own, if it is not an HDB flat.<br>
 
 
 **9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?**<br>
