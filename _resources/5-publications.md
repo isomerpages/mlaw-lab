@@ -72,3 +72,10 @@ breadcrumb: Publications
 {:start="10"} 
 10. Law Gazette Article (May 2019) <br>
 [Strengthening Access to Justice - Key Amendments to the Legal Aid and Advice Act](/files/LAAR_Amendments.pdf)<br><br>
+
+
+<div class="image"><img src="/images/AccidentsPIClaims.PNG" alt="Accident & Personal Injury Claims" title="Accident & Personal Injury Claim"></div><br>
+
+{:start="11"} 
+11. Accident & Personal Injury Claims (October 2021) <br>
+[Accident & Personal Injury Claims](/files/Chapter1-Accident-Personal-Injury-Claims.pdf)<br><br>
