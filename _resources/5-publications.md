@@ -78,4 +78,4 @@ breadcrumb: Publications
 
 {:start="11"} 
 11. LAB Practitioner's Guide to Accident & Personal Injury Claims (October 2021) <br>
-[Accident & Personal Injury Claims](/files/Chapter1-Accident-Personal-Injury-Claims.pdf)<br><br>
+[LAB Practitioner's Guide to Accident & Personal Injury Claims](/files/Chapter1-Accident-Personal-Injury-Claims.pdf)<br><br>
