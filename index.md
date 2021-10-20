@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Legal Aid Bureau'
 permalink: /
-notification: <u>Temporary Office Closure</u><br>As part of COVID-19 Safe Management Measures, the Ministry of Law Services Centre will be closed for deep cleaning from 15 October 2021 to 19 October 2021.<br>During this period, legal advice sessions are unavailable. We will resume services on 20 October 2021.<br>You can still register for cases online via our Applicants’ <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a>.<br>We apologise for any inconvenience caused.<br>Members of the public are therefore encouraged to use our e-services, our Applicants' <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us at 1800-2255 529.
+notification: In line with the current safe distancing measures, we will limit the number of visitors to our Ministry of Law Services Centre. <br> All our services remain accessible to the public, with digital and call services as the primary modes of working. <br> As we will be working on reduced staff strength, longer waiting time is expected at the Services Centre. <br> If you and/or accompanying persons are unwell with flu-like symptoms, please refrain from visiting the Ministry of Law Services Centre.<br>>Members of the public are therefore encouraged to use our e-services, our Applicants' <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us at 1800-2255 529.
 sections:
   - hero:
       title: 'LEGAL AID BUREAU'
