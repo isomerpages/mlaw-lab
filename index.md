@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Legal Aid Bureau'
 permalink: /
-notification: In line with the current safe distancing measures, we will limit the number of visitors to our Ministry of Law Services Centre. <br> All our services remain accessible to the public, with digital and call services as the primary modes of working. <br> As we will be working on reduced staff strength, longer waiting time is expected at the Services Centre. <br> If you and/or accompanying persons are unwell with flu-like symptoms, please refrain from visiting the Ministry of Law Services Centre.<br>>Members of the public are therefore encouraged to use our e-services, our Applicants' <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us at 1800-2255 529.
+notification: In line with the current safe distancing measures, we will limit the number of visitors to our Ministry of Law Services Centre. <br>All our services remain accessible to the public, with digital and call services as the primary modes of working. <br>As we will be working on reduced staff strength, longer waiting time is expected at the Services Centre. <br>If you and/or accompanying persons are unwell with flu-like symptoms, please refrain from visiting the Ministry of Law Services Centre.<br>Members of the public are therefore encouraged to use our e-services, our Applicants' <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us at 1800-2255 529.
 sections:
   - hero:
       title: 'LEGAL AID BUREAU'
