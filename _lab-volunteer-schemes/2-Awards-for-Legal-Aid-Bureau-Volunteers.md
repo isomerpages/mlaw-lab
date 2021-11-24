@@ -2,7 +2,6 @@
 title: 'Awards for Legal Aid Bureau's Volunteers'
 permalink: /lab-volunteer-schemes/Awards-for-Legal-Aid-Bureau-Volunteers/
 breadcrumb: 'Awards for Legal Aid Bureau's Volunteers'
-third_nav_title: 'Awards for Legal Aid Bureau's Volunteers'
 
 ---
 
