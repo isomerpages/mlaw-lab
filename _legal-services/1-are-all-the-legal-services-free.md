@@ -14,7 +14,7 @@ You do not have to pay for legal advice.
 You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends on your income and assets, the complexity of the case, and the type of work done. 
 
 **2. How much contribution will I be required to pay?**<br>
-The total contribution usually does not exceed S$1,500, but it may be more in certain exceptional cases. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
+The total contribution usually does not exceed S$1,650, but it may be more in certain exceptional cases. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
 
 **3. What should I do if I am unable to pay the contribution?**<br>
 If you are unable to pay your contribution in full, you must inform us immediately. You may request to pay your contribution in instalments.
