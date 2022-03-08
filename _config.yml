@@ -3,32 +3,24 @@ description: Description
 url: 'https://lab.mlaw.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-collections:
-    about-us:
-        output: true
-    legal-services:
-        output: true
-    resources:
-        output: true
-    lab-volunteer-schemes:
-        output: true
-    e-services:
-        output: true
 favicon: /images/favicon-minlaw.ico
 google-analytics: UA-10405444-12
 permalink: none
 baseurl: ""
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: page
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+staging: https://mlaw-lab-staging.netlify.com/
+prod: https://mlaw-lab-prod.netlify.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
