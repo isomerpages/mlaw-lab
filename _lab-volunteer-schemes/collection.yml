@@ -1,0 +1,9 @@
+collections:
+  lab-volunteer-schemes:
+    output: true
+    order:
+      - Assigned Solicitor Scheme/.keep
+      - Assigned Solicitor Scheme/assigned-solicitors.md
+      - Assigned Solicitor Scheme/important-issues-to-note.md
+      - volunteer-lawyers-scheme.md
+      - awards-for-legal-aid-bureau-volunteers.md
