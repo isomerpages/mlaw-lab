@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - our-mission-and-core-values.md
+      - organisation-structure.md
+      - history.md
+      - corporate-video.md
+      - contact-us.md
+      - statistics.md
+      - help-with-a-heart.md
