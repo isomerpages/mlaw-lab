@@ -1,11 +1,11 @@
 ---
-title: 'Divorce Aide - LAB matrimonial asset estimator'
-permalink: /resources/Divorce-Aide-LAB-matrimonial-asset-estimator/
-breadcrumb: 'Divorce Aide - LAB matrimonial asset estimator'
+title: 'Divorce Aide - LAB matrimonial asset division estimator'
+permalink: /resources/Divorce-Aide-LAB-matrimonial-asset-division-estimator/
+breadcrumb: 'Divorce Aide - LAB matrimonial asset division estimator'
 
 ---
 
-## Divorce Aide - LAB's matrimonial asset estimator
+## Divorce Aide - LAB's matrimonial asset division estimator
 
-* [Divorce Aide - LAB's matrimonial asset estimator](https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do)
+* [Divorce Aide - LAB's matrimonial asset division estimator](https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do)
 
