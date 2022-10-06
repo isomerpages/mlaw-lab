@@ -14,9 +14,9 @@ sections:
         - title: 'Apply for Legal Aid'
           description: 'Our processes and other info'
           url: /legal-services/how-do-i-apply-for-legal-aid/
-        - title: Internship
-          description: 'Our internship schemes'
-          url: 'https://eservices.mlaw.gov.sg/labesvc/?tabIndex=2'
+        - title: 'Divorce AIDE'
+          description: 'Information on matrimonial asset division upon divorce'
+          url: 'https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do'
         - title: 'Assigned Solicitor'
           description: 'Info on pro-bono work'
           url: /lab-volunteer-schemes/assigned-solicitors-scheme/
