@@ -10,11 +10,11 @@ third_nav_title: 'What services does LAB provide?'
 
 **Criminal Proceedings**<br>
 
-LAB does not handle criminal proceedings.
+LAB does not handle criminal proceedings. 
 
-If you require legal advice or representation in criminal proceedings, you may approach the Law Society Pro Bono Services (Singapore) which administers the Criminal Legal Aid Scheme ("CLAS").
+If you require legal representation for your criminal proceedings, you may check if you qualify for criminal defence aid under the Public Defender's Office (PDO).
 
-You can find out more about CLAS at [http://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx](http://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx){:target="_blank"} and CLAS can be contacted at 6534 1564.
+You can find out more about criminal defence aid on [https://pdo.mlaw.gov.sg](http://pdo.mlaw.gov.sg).
 
 **Certain Civil Proceedings**<br>
 
