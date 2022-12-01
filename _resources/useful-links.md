@@ -9,4 +9,4 @@ breadcrumb: 'Useful Links'
 
 [List of Community Touchpoints](/files/List_of_Community_Touchpoints.pdf){:target="_blank"}
 
-[Law Society's List of Legal Clinics](https://www.lawsocprobono.org/Pages/Legal-Clinic-Locator.aspx){:target="_blank"}
+[Law Society Pro Bono SG's List of Legal Clinics](https://www.lawsocprobono.org/Pages/Legal-Clinic-Locator.aspx){:target="_blank"}
