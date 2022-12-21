@@ -25,11 +25,9 @@ You are also required to pay for:
 - other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
-You can make payment online at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) or you can come down in person to the Minlaw Services Centre to pay by NETS. You do not need to take a Queue number to make payment.
+We will inform you on the various prevailing means on how to make payment in our letter to you. You are encouraged to make payment online via our e-services portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/). Please note that with effect from 7 April 2020, the Minlaw Services Centre will no longer accept cash payments.
 
 For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf) and send it to us.
-
-Please note that with effect from 7 April 2020, the Minlaw Services Centre will no longer accept cash payments. All payments are strictly by NETS. You are encouraged to make payment online via our e-services portal.
 
 For more information on the methods of payment, please refer to this link on [How do I make payment to LAB](https://lab.mlaw.gov.sg/legal-services/how-do-I-pay-my-contribution-or-other-charges-to-LAB/).
 
