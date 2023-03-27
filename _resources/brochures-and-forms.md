@@ -11,6 +11,10 @@ breadcrumb: 'Brochures and Forms'
 
 
 
+[Legal Aid Bureau's Applicant Portal Guide](/files/Legal_Aid_Bureau_Applicant_Portal_Guide.pdf){:target="_blank"}(9MB) <br>
+
+
+
 [Assigned Solicitors' Portal Guide](/files/AS-Portal-Guide.pdf){:target="_blank"}(904KB) <br>
 
 
@@ -20,5 +24,7 @@ breadcrumb: 'Brochures and Forms'
 
 
 [Direct Credit Authorisation Form](/files/DCA-Form.pdf){:target="_blank"}(76.3KB)<br>
+
+
 
 [Giro Form](/files/Giro-form.pdf){:target="_blank"}(280KB)<br>
