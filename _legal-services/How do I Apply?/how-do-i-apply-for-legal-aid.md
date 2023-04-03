@@ -56,7 +56,7 @@ If your matter is within LAB’s scope of work and you pass the preliminary mean
 
 (c) If you need legal representation in court proceedings, a file will be opened for you for straightforward cases. If your matter is complex or if you require legal advice, you will be able to consult the Duty Lawyer first, who will assess whether a file should be opened for your matter. 
 
-**If you have registered online**, please inform us that you have registered a case online and provide us with your case reference number. You will not need to tell our staff about the facts of your case or do the preliminary means test. You will immediately be placed in the queue to see the Duty Lawyer. 
+**If you have registered online**, when you come down to LAB, please indicate at the self-help kiosk that you have registered via the AP Portal. You will be registered and attended to by the Duty Lawyer in priority to individuals who walk-in to register for legal advice.
 
 
 **5. What happens when I see the Duty Lawyer?**<br>
