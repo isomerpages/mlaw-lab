@@ -9,18 +9,18 @@ breadcrumb: 'Contact Us'
 Click below to contact us!<br>
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/">
-    <img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;" title="contactus" alt="contactus"></a>
+    <img src="/images/mlaw-contactus.png" style="width: 300px; float: left;" title="contactus" alt="contactus"></a>
 </div><br>
 
 ## FAQs<br>
 Have questions?<br>
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="FAQ" alt="FAQ" style="width: 300px; float: left;"></a>
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png" title="FAQ" alt="FAQ" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/loc.png/" title="location" alt="location"></a>
+   <img style="float:left; width: 40px;" src="/images/loc.png" title="location" alt="location"></a>
    <div class="content-heading">
    <h3> Location</h3>
   </div>
@@ -35,7 +35,7 @@ Please visit [Ministry of Law's website](https://www.mlaw.gov.sg/about-us/contac
 <br>
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/call.png/" title="call" alt="call"></a>
+   <img style="float:left; width: 40px;" src="/images/call.png" title="call" alt="call"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
   </div>
