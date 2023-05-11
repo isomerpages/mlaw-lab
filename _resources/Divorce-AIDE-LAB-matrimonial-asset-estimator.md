@@ -1,6 +1,6 @@
 ---
 title: 'Divorce Aide - LAB matrimonial asset division estimator'
-permalink: /resources/Divorce-Aide-LAB-matrimonial-asset-division-estimator/
+permalink: /resources/divorce-aide-lab-matrimonial-asset-division-estimator/
 breadcrumb: 'Divorce Aide - LAB matrimonial asset division estimator'
 
 ---

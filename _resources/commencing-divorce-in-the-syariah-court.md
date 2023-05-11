@@ -1,6 +1,6 @@
 ---
 title: 'Commencing Divorce in the Syariah Court'
-permalink: /resources/Commencing-Divorce-in-the-Syariah-Court/
+permalink: /resources/commencing-divorce-in-the-syariah-court/
 breadcrumb: 'Commencing Divorce in the Syariah Court'
 
 ---

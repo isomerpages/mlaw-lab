@@ -60,14 +60,14 @@ breadcrumb: Publications
 [NUS Law @ LAB - Clinical Legal Education in Singapore](/files/4-NUS-CLE.pdf)(1.87MB)<br><br>
 
 
-<div class="image"><img src="/images/NewMeansTest.jpg" alt="New Legal Aid Means Test" title="New Legal Aid Means Test"></div><br>
+<div class="image"><img src="/images/NewMeansTest.JPG" alt="New Legal Aid Means Test" title="New Legal Aid Means Test"></div><br>
 
 {:start="9"} 
 9. Law Gazette Article (October 2019) <br>
 [New Legal Aid Means Test - More Starightforward, More Efficient, More Flexible](/files/NewMeansTest.pdf)(147KB)<br><br>
 
 
-<div class="image"><img src="/images/LAAR.jpg" alt="Strengthening Access to Justice" title="Strengthening Access to Justice"></div><br>
+<div class="image"><img src="/images/LAAR.JPG" alt="Strengthening Access to Justice" title="Strengthening Access to Justice"></div><br>
 
 {:start="10"} 
 10. Law Gazette Article (May 2019) <br>

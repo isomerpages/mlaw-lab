@@ -1,6 +1,6 @@
 ---
 title: 'Awards for Legal Aid Bureau Volunteers'
-permalink: /lab-volunteer-schemes/Awards-for-Legal-Aid-Bureau-Volunteers/
+permalink: /lab-volunteer-schemes/awards-for-legal-aid-bureau-volunteers/
 breadcrumb: 'Awards for Legal Aid Bureau Volunteers'
 
 ---
