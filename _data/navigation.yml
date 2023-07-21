@@ -1,14 +1,14 @@
 logo: /images/mlaw-logo.png
 links:
-  - title: 'About Us'
+  - title: About Us
     collection: about-us
-  - title: 'Legal Services'
+  - title: Legal Services
     collection: legal-services
   - title: Resources
     collection: resources
-  - title: 'LAB Volunteer Schemes'
+  - title: LAB Volunteer Schemes
     collection: lab-volunteer-schemes
-  - title: 'Login to e-Services'
+  - title: Login to e-Services
     url: https://eservices.mlaw.gov.sg/labesvc/
     sublinks:
       - title: Login to Applicant Portal
@@ -20,4 +20,4 @@ links:
       - title: Register as an LAB Volunteer
         url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1
       - title: Register SingPass Account
-        url: https://www.singpass.gov.sg/singpass/register/instructions
+        url: https://www.singpass.gov.sg/home/ui/register/instructions
