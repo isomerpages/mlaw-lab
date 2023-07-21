@@ -1,12 +1,9 @@
 ---
-title: 'How do I apply for legal aid?'
+title: How do I apply for legal aid?
 permalink: /legal-services/how-do-i-apply-for-legal-aid/
-breadcrumb: 'How do I apply for LAB''s services?'
-third_nav_title: 'How do I Apply?'
-
+breadcrumb: How do I apply for LAB's services?
+third_nav_title: How do I Apply?
 ---
-
-
 ## How do I apply for LAB's Services?
 
 **1. Overview of LAB's Application Process for Legal Aid and Assistance**<br>
@@ -17,7 +14,7 @@ Please note that this is a general overview of the LAB's application process for
 
 For legal advice matters, you need to register and attend at LAB to see the Duty Lawyer. Other than the preliminary means test, there are no other processes such as statement taking, merits test, etc.
 
-Upon registering an application with us, we will ask you for your consent to share the data that we will be collecting from you during the course of your application. Data collected will be kept strictly confidential. Sharing your data enables us to better facilitate and tailor the legal services provided to you. Please click [here](/files/Data_Consent_Form(Legal_Aid_Bureau).pdf) for full details on our terms & conditions of data collection/sharing.
+Upon registering an application with us, we will ask you for your consent to share the data that we will be collecting from you during the course of your application. Data collected will be kept strictly confidential. Sharing your data enables us to better facilitate and tailor the legal services provided to you. Please click [here](/files/Data_Consent_Form(Legal_Aid_Bureau).pdf) for full details on our terms &amp; conditions of data collection/sharing.
 
 *This process may be different if your case involves an application for legal aid where a child has been removed/abducted from Singapore or removed/abducted to Singapore under the Hague Convention on the Civil Aspects of International Child Abduction.
 
@@ -28,7 +25,7 @@ Please see (11) below for further information.
 
 If you require legal aid, assistance, or advice, you can either*:
 
-(a) Register your case online [here](https://eservices.mlaw.gov.sg/labesvc/). A step by step guide to apply online via our Applicant Portal is available [here](/files/Guide-to-apply-online-via-the-Applicant-Portal-v2.pdf).
+(a) Register your case online [here](https://eservices.mlaw.gov.sg/labesvc/). A step by step guide to apply online via our Applicant Portal is available [here](/files/lab-ap-portal-guide-(register-online).pdf).
 
 Once you have registered successfully, you will be required to attend at LAB **within 3 working days after the date of registration**.<br>
 
@@ -121,6 +118,4 @@ If you are not a resident in Singapore or if your child has been removed from Si
 
 For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: [https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Application-Process.aspx){:target="_blank"}
 
-If you are resident in Singapore, please come to LAB personally during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice. 
-
-
+If you are resident in Singapore, please come to LAB personally during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice.
