@@ -1,18 +1,15 @@
 ---
-title: 'Do I qualify?'
+title: Do I qualify?
 permalink: /legal-services/do-i-qualify/
-breadcrumb: 'Do I qualify?'
-
+breadcrumb: Do I qualify?
 ---
-
-
 ## Do I qualify for legal aid?
 
 Legal Aid is available to:
 
 (a) Singapore citizens and permanent residents who are residing in Singapore;
 
-(b) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website [here](https://www.msf.gov.sg/Singapore-Central-Authority/Pages/Hague-Convention-on-the-Civil-Aspects-of-International-Child-Abduction.aspx){:target="_blank"}.
+(b) Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority's website [here](https://www.msf.gov.sg/what-we-do/Singapore-Central-Authority/about){:target="_blank"}.
 
 If you are below the age of 21, your parent or guardian must apply for legal aid on your behalf.
 
@@ -25,5 +22,3 @@ In addition:
 (b) For Legal Aid, you must pass both the Means and <a href="/legal-services/taking-the-merits-test/">Merits Test</a>.
 
 NOTE: The Director of Legal Aid may refuse legal aid, even if the applicant has passed the Means and Merits tests, if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case, for example if there is a third party whose interests are aligned with the applicant's, who could afford to fund the litigation, and who would also benefit from the litigation.
-
-
