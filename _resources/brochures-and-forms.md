@@ -1,10 +1,8 @@
 ---
-title: 'Brochures and Forms'
+title: Brochures and Forms
 permalink: /resources/brochures-forms/
-breadcrumb: 'Brochures and Forms'
-
+breadcrumb: Brochures and Forms
 ---
-
 ## Brochures and Forms
 
 [Guide to the Legal Aid Scheme](/files/GuideToTheLegalAidSchemeBrochure-23Dec19.pdf){:target="_blank"}(370KB) <br>
@@ -28,3 +26,11 @@ breadcrumb: 'Brochures and Forms'
 
 
 [Giro Form](/files/Giro-form.pdf){:target="_blank"}(280KB)<br>
+
+
+
+[Application for Instalment Payment Plan](/files/Application_for_Instalment_Payment_Plan.pdf){:target="_blank"}(231KB)<br>
+
+
+
+[Application for Reduction or Waiver of Contribution](/files/Application_for_Reduction_or_Waiver_of_Contribution.pdf){:target="_blank"}(297KB)<br>
