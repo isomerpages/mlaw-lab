@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - LAB Reels.md
       - our-mission-and-core-values.md
       - organisation-structure.md
       - history.md
