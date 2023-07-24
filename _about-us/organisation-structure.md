@@ -5,5 +5,5 @@ breadcrumb: Organisation structure
 ---
 ## Organisation structure
 <div class="image">
-    <br><img src="/images/lab-organisation-structure-2023.JPG" title="Organisation Structure" alt="Organisation Structure">
+    <br><img src="/images/lab-organisation-structure-2023.jpg" title="Organisation Structure" alt="Organisation Structure">
 </div>
