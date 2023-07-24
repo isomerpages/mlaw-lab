@@ -29,7 +29,7 @@ breadcrumb: Brochures and Forms
 
 
 
-[Application for Instalment Payment Plan](/files/application_for_Instalment_payment_plan.pdf){:target="_blank"}(231KB)<br>
+[Application for Instalment Payment Plan](/files/application_for_instalment_payment_plan.pdf){:target="_blank"}(231KB)<br>
 
 
 
