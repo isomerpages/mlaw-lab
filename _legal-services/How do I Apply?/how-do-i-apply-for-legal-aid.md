@@ -41,7 +41,7 @@ From 1 August 2023, the Legal Aid Bureau (LAB), a department of the Ministry of 
 
 Apart from being able to choose your preferred Assigned Solicitor, your application process for legal aid will be more streamlined as you will no longer need to provide a statement on your legal issue to LAB first. Less time will also be required to assign an Assigned Solicitor to take on your case. 
 
-Click [here](/files/Choose_Your_Own_Assigned_Solicitor.pdf) to find out more about the pilot programme and the list of our participating Assigned Solicitors.
+Click [here](/files/choose_your_own_assigned_solicitor.pdf) to find out more about the pilot programme and the list of our participating Assigned Solicitors.
 
 
 **3. What are the benefits of registering online?**<br>
