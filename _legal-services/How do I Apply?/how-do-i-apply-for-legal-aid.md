@@ -35,6 +35,14 @@ Or
 
 *If you are a minor (i.e. a person below 21 years of age), your parent or guardian must apply on your behalf.  
 
+**'Choose your own Assigned Solicitor' Pilot Programme**<br>
+
+From 1 August 2023, the Legal Aid Bureau (LAB), a department of the Ministry of Law, is running a pilot programme which allows applicants of legal aid to choose their preferred Assigned Solicitors. The pilot programme is open to applicants who wish to initiate divorce proceedings, and have not commenced proceedings yet.
+
+Apart from being able to choose your preferred Assigned Solicitor, your application process for legal aid will be more streamlined as you will no longer need to provide a statement on your legal issue to LAB first. Less time will also be required to assign an Assigned Solicitor to take on your case. 
+
+Click [here](/files/Choose_Your_Own_Assigned_Solicitor.pdf) to find out more about the pilot programme and the list of our participating Assigned Solicitors.
+
 
 **3. What are the benefits of registering online?**<br>
 
