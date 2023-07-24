@@ -29,8 +29,8 @@ breadcrumb: Brochures and Forms
 
 
 
-[Application for Instalment Payment Plan](/files/Application_for_Instalment_Payment_Plan.pdf){:target="_blank"}(231KB)<br>
+[Application for Instalment Payment Plan](/files/application_for_Instalment_payment_plan.pdf){:target="_blank"}(231KB)<br>
 
 
 
-[Application for Reduction or Waiver of Contribution](/files/Application_for_Reduction_or_Waiver_of_Contribution.pdf){:target="_blank"}(297KB)<br>
+[Application for Reduction or Waiver of Contribution](/files/application_for_reduction_or_waiver_of_contribution.pdf){:target="_blank"}(297KB)<br>
