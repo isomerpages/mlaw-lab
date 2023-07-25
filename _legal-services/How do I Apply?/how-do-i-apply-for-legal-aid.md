@@ -124,7 +124,6 @@ You must inform us if Court proceedings have been commenced in your case, whethe
 
 If you are not a resident in Singapore or if your child has been removed from Singapore, please approach the Singapore Central Authority to assist you. You will be required to complete "Form 1-Application for Legal Aid for matters relating to the HCCAICA" and submit it to the said Authority.
 
-For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website: 
-[https://www.msf.gov.sg/what-we-do/Singapore-Central-Authority/about]{:target="_blank"}
+For more information on the Singapore Central Authority and the application process for the return of abducted children under the Hague Convention on the Civil Aspects of International Child Abduction, you may refer to the Ministry of Social and Family Development's website [here](https://www.msf.gov.sg/what-we-do/Singapore-Central-Authority/about){:target="_blank"}
 
 If you are resident in Singapore, please come to LAB personally during office hours (8.30 am to 5.00 pm) on weekdays to make an application for legal aid or advice.
