@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - LAB Reels.md
       - our-mission-and-core-values.md
       - organisation-structure.md
       - history.md
       - corporate-video.md
       - contact-us.md
       - help-with-a-heart.md
+      - LAB Reels.md
