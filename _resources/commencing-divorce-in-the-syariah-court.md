@@ -20,5 +20,5 @@ breadcrumb: Commencing Divorce in the Syariah Court
 Useful links: <br>
 (a)	[An overview of the Muslim Family Law Procedure in Singapore](/files/An-Overview-of-the-Muslim-Family-Law-Procedures-in-Singapore.pdf) (1155KB) <br>
 (b)	[Annex (Description of forms to be filed in a divorce in the Syariah Court)](/files/Annex-Description-of-Forms-to-be-filed-in-divorce-in-the-Syariah-Court.docx) (36kb) <br>
-(c)	[List of relevant cases and legislation relating to a divorce in the Syariah Court](/syc-divorce-cases-legislation) (10,668kb) <br>
+(c)	[List of relevant cases and legislation relating to a divorce in the Syariah Court](/https://file.go.gov.sg/syc-divorce-cases-legislation.docx) (10,668kb) <br>
 (d)	[Sample Pre-Trial Conference (PTC) Checklist which may be used when preparing for a PTC in the Syariah Court](/files/Sample-Syariah-Court-PTC-Checklist.docx) (33kb) <br>
