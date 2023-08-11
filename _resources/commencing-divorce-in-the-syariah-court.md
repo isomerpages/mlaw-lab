@@ -7,7 +7,7 @@ breadcrumb: Commencing Divorce in the Syariah Court
 
 1.	The LAB Syariah Court Practice Group (LAB SCPG) has prepared a set of materials relating to Muslim Family Law Procedure in Singapore.
 
-2.	The information contained in these materials are accurate as of 24 August 2020.
+2.	The information contained in these materials are accurate as of 4 August 2023.
 
 3.	The materials provide a useful starting point for those who wish to commence divorce proceedings in the Syariah Court (Singapore) or are representing clients in such proceedings.
 
