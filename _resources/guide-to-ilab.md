@@ -13,15 +13,17 @@ To access iLAB, click on this icon below, at the bottom right corner of the Lega
 
 
 
+
+
 <br>**What types of legal issues does iLAB cover?**<br>
 
 iLAB provides information on:
 
-(a)	Divorce and related matters (e.g. custody of children, maintenance of wife and children, and division of assets in a divorce);
+(a)	Civil and Syariah divorce and related matters (e.g. custody / guardianship of children, maintenance of wife and children, family violence and division of assets in a divorce);
 
-(b)	Family violence issues; and
+(b)	Civil cases (including employment matters); and
 
-(c)	COVID-19-related legal issues faced by individuals, such as employment issues, business-related issues, and issues with the purchase of residential property.
+(c)	Other matters (e.g. deputyship applications under the Mental Capacity Act).
 
 
 <br>**What are the benefits of using iLAB?**<br>
