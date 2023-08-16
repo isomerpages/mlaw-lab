@@ -11,6 +11,9 @@ iLAB is the Intelligent Legal Assistance Bot. It identifies your legal issues an
 
 To access iLAB, click on this icon below, at the bottom right corner of the Legal Aid's Bureau website.
 
+<div class="image">
+    <br><img src="/images/ilab-pic.png" title="iLAB" alt="iLAB">
+</div>
 
 
 
