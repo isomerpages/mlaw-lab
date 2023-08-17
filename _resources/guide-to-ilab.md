@@ -5,14 +5,13 @@ breadcrumb: Guide to iLAB
 ---
 ## **Guide to iLAB**
 
-**What is iLAB and what can it do?**
+<br>**What is iLAB and what can it do?**<br>
 
 iLAB is the Intelligent Legal Assistance Bot. It identifies your legal issues and provides you with relevant legal information to help you address them. iLAB will help you check if you are eligible for legal aid, and where you can get legal advice from a lawyer.
 
 To access iLAB, click on this icon below, at the bottom right corner of the Legal Aid's Bureau website.
 
-<div class="image"><img src="/images/ilab-pic.png" alt="iLAB" title="iLAB"></div><br>
-
+<div class="image"><img src="/images/ilabpic.jpg" alt="iLAB" title="iLAB"></div><br>
 
 
 
