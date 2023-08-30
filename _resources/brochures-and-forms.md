@@ -9,7 +9,7 @@ breadcrumb: Brochures and Forms
 
 
 
-[Legal Aid Bureau's Applicant Portal Guide](/files/Legal_Aid_Bureau_Applicant_Portal_Guide.pdf){:target="_blank"}(9MB) <br>
+[Legal Aid Bureau's Applicant Portal Guide](/files/LAB_AP_Portal_Guide.pdf){:target="_blank"}(10MB) <br>
 
 
 
