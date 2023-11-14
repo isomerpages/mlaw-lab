@@ -11,4 +11,3 @@ description: ""
 eBantu is a Syariah Court Divorce Form-Filling guidance tool. It provides you with information on how to fill in originating documents in the Syariah Court.
 
 To access, click here* [eBantu](https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.co) for the link
-
