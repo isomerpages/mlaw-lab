@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Guide to eBantu.md
       - legal-aid-and-advice-act-regulations.md
       - mental-capacity-act-applications.md
       - commencing-divorce-in-the-syariah-court.md
