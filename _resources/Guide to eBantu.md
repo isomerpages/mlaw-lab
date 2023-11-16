@@ -4,7 +4,7 @@ permalink: /resources/guide-to-ebantu/
 variant: markdown
 description: ""
 ---
-## **Guide to eBantu**
+## **eBantu - Syariah Court Originating Documents Guidance Tool**
 
 <br>**What is eBantu?**<br>
 
