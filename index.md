@@ -25,9 +25,9 @@ sections:
         - title: Divorce AIDE
           description: Information on matrimonial asset division upon divorce
           url: https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do
-        - title: Assigned Solicitor
-          description: Info on pro-bono work
-          url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+        - title: e-Bantu
+          description: Syariah Court Guidance Tool
+          url: https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.do
         - title: Login to Applicant Portal
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
