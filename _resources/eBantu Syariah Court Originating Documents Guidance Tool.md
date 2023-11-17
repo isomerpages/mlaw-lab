@@ -1,6 +1,6 @@
 ---
-title: Guide to eBantu
-permalink: /resources/guide-to-ebantu/
+title: eBantu Syariah Court Originating Documents Guidance Tool
+permalink: /resources/ebantu-syariah-court-originating-documents-guidance-tool/
 variant: markdown
 description: ""
 ---
