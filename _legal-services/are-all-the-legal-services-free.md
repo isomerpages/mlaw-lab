@@ -18,11 +18,11 @@ If you are unable to pay your contribution in full, you must inform us immediate
 
 **4. What other charges might I be required to pay?**<br>
 You are also required to pay for:
-- obtaining and/or preparing various essential documents, such as medical reports and opinions from experts
+- obtaining and/or preparing various essential documents, such as medical reports, police reports and opinions from experts
 - other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
-We will inform you on the various prevailing means on how to make payment in our letter to you. You are encouraged to make payment online via our e-services portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/). Please note that with effect from 7 April 2020, the Minlaw Services Centre will no longer accept cash payments.
+We will inform you on the various prevailing means on how to make payment in our letter to you. You are encouraged to make payment online via our e-services portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/). Please note that our Minlaw Services Centre do not accept cash payments.
 
 For on-going payments, GIRO deductions can be arranged. Please fill up [this form](/files/Giroform.pdf) and send it to us.
 
