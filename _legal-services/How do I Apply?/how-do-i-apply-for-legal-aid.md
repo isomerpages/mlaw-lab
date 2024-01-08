@@ -3,6 +3,7 @@ title: How do I apply for legal aid?
 permalink: /legal-services/how-do-i-apply-for-legal-aid/
 breadcrumb: How do I apply for LAB's services?
 third_nav_title: How do I Apply?
+variant: markdown
 ---
 ## How do I apply for LAB's Services?
 
@@ -41,7 +42,9 @@ From 1 August 2023, the Legal Aid Bureau (LAB), a department of the Ministry of 
 
 Apart from being able to choose your preferred Assigned Solicitor, your application process for legal aid will be more streamlined as you will no longer need to provide a statement on your legal issue to LAB first. Less time will also be required to assign an Assigned Solicitor to take on your case. 
 
-Click [here](/files/Choose_Your_Own_LAB_Assigned_Solicitor.pdf) to find out more about the pilot programme and the list of our participating Assigned Solicitors.
+Click [here](/files/Choose_Your_Own_Assigned_Solicitor_combined.pdf) to find out more about the pilot programme and the list of our participating Assigned Solicitors. For other queries, please refer to our FAQs [here]((/files/Choose_Your_Own_Assigned_Solicitor_FAQ.pdf).
+
+If your spouse has started divorce proceedings against you, you cannot participate in this pilot programme. Please file your Memorandum of Appearance (MOA) at Crimsonlogic within 8 days from the day you were served the court documents. Thereafter, please come to the Legal Aid Bureau to apply for aid. 
 
 
 **3. What are the benefits of registering online?**<br>
