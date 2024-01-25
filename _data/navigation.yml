@@ -1,0 +1,23 @@
+logo: /images/mlaw-logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Legal Services
+    collection: legal-services
+  - title: Resources
+    collection: resources
+  - title: LAB Volunteer Schemes
+    collection: lab-volunteer-schemes
+  - title: Login to e-Services
+    url: https://eservices.mlaw.gov.sg/labesvc/
+    sublinks:
+      - title: Login to Applicant Portal
+        url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
+      - title: Login to Assigned Solicitor Portal
+        url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=4
+      - title: Register as an Intern
+        url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=2
+      - title: Register as an LAB Volunteer
+        url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=1
+      - title: Register SingPass Account
+        url: https://www.singpass.gov.sg/home/ui/register/instructions
