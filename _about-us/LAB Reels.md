@@ -2,6 +2,7 @@
 title: LAB Reels
 permalink: /about-us/permalink/
 description: ""
+variant: markdown
 ---
 ## LAB's 65th Anniversary
 
@@ -19,3 +20,13 @@ Rebecca, is a passionate and compassionate lawyer who goes the extra mile for he
 Watch the video to find out more about this good-hearted and adventurous lawyer!<br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Pro Bono Passion - Rebecca Vathanasin" src="https://www.youtube.com/embed/eSNzayWqxsA" height="315" width="560"></iframe>
+
+## Pro Bono Passion Series, featuring Assigned Solicitor, Mr Jevan Li
+
+In the 1st half of 2024, we have featured the Legal Aid Bureau's Assigned Solicitor Mr. Jevan Li of BC Lim &amp; Lau LLC.
+
+Jevan, a recipient of the LAB Novo 2023 award, feels that helping those in need of legal aid is like savouring a bowl of Tom Yum Goong - sweet, sour, spicy and ultimately satisfying.
+
+Watch the video to find out more about Jevan!<br>
+
+<iframe allowfullscreen="" frameborder="0" title="Jevan final video full" src="https://www.youtube.com/embed/BjwYZj0tS5U" height="383" width="681"></iframe>
