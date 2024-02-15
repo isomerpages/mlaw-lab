@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 ---
 <h2>Family Law Cases</h2>
-<p>*[LAB Family Case Digest (2023)](</p>
+<p>*[LAB Family Case Digest 2023(/files/LAB_Family_Case_Digest_2023.pdf)</p>
 <p></p>
