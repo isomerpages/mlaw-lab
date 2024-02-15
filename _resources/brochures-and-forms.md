@@ -2,6 +2,7 @@
 title: Brochures and Forms
 permalink: /resources/brochures-forms/
 breadcrumb: Brochures and Forms
+variant: markdown
 ---
 ## Brochures and Forms
 
@@ -11,10 +12,10 @@ breadcrumb: Brochures and Forms
 
 [Legal Aid Bureau's Applicant Portal Guide](/files/LAB_AP_Portal_Guide.pdf){:target="_blank"}(10MB) <br>
 
+[Guide to Online Statement](/files/Guide_to_Online_Statement.pdf){:target="_blank"}(1,041KB) 
 
-
-[Assigned Solicitors' Portal Guide](/files/AS-Portal-Guide.pdf){:target="_blank"}(904KB) <br>
-
+[Assigned Solicitors' Portal Guide](/files/AS-Portal-Guide.pdf){:target="_blank"}(904KB) 
+<br>
 
 
 [The Assigned Solicitor's Guide](/files/The-Assigned-Solicitor-Guide.pdf){:target="_blank"}(1MB) <br>
