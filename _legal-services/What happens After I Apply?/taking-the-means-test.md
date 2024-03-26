@@ -1,22 +1,20 @@
 ---
-title: 'Taking the Means Test'
+title: Taking the Means Test
 permalink: /legal-services/taking-the-means-test/
-breadcrumb: 'Taking the Means Test'
-third_nav_title: 'What happens After I Apply?'
-
+breadcrumb: Taking the Means Test
+third_nav_title: What happens After I Apply?
+variant: markdown
 ---
-
-
 ## Taking the Means Test
 
 **1. What is the Means Test?**<br>
 The Means Test assesses your financial circumstances to determine if you have limited means.
 
-From 16 October 2019, applicants for legal aid must meet the following criteria:
+From 1 April 2024, applicants for legal aid must meet the following criteria:
 
-(a) The average Per Capita Gross Monthly Household Income (PCHI) must be $950 or lower for the last 12 months prior to the application;<br>
+(a) The average Per Capita Gross Monthly Household Income (PCHI) must be $1,050 or lower for the last 12 months prior to the application;<br>
 
-(b) The Annual Value of applicant’s place of residence owned by the applicant must be $13,000 or lower; and<br>
+(b) The Annual Value of the applicant’s place of residence owned by the applicant must be $21,000 or lower; and<br>
 
 (c) The applicant’s savings and non-CPF investments must be $10,000 or lower, if he is younger than 60 years old. Applicants aged 60 and above are allowed to have savings and non-CPF investments of $40,000 or lower.<br>
 
@@ -54,4 +52,4 @@ c)	Any other financial/investment products with a cash value, such as fixed depo
 
 **4. What happens if I fail the means test but I really cannot afford to pay for a private lawyer?**
 
-If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance. 
+If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance.
