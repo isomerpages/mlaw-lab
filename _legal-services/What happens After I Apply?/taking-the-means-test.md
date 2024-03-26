@@ -36,7 +36,7 @@ The MinLaw Services Centre will calculate the PCHI as part of the means test, ba
 
 Example:
 
-![Example:](/images/Example_of_PCHI.JPG)
+![](/images/Example_of_PCHI_updated.jpg)
 
 
 **3. How are savings and non-CPF investments calculated?**<br>
