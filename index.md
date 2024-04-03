@@ -31,4 +31,6 @@ sections:
         - title: Login to Applicant Portal
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
+description: Description
+image: /images/isomer-logo.svg
 ---
