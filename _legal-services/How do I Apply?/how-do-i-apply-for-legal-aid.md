@@ -6,7 +6,7 @@ third_nav_title: How do I Apply?
 variant: tiptap
 ---
 <h2>How do I apply for LAB's Services?</h2>
-<p><strong>1. Overview of LAB's Application Process for Legal Aid and Assistance</strong>
+<p><strong>1. Overview of LAB's Application Process for Legal Aid and Assistance</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -29,7 +29,7 @@ legal aid where a child has been removed/abducted from Singapore or removed/abdu
 to Singapore under the Hague Convention on the Civil Aspects of International
 Child Abduction.</p>
 <p>Please see (11) below for further information.</p>
-<p><strong>2. How do I register for LAB's services?</strong>
+<p><strong>2. How do I register for LAB's services?</strong> 
 <br>
 </p>
 <p>If you require legal aid, assistance, or advice, you can either*:</p>
@@ -44,7 +44,7 @@ at LAB <strong>within 3 working days after the date of registration</strong>.
 <a href="https://lab.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>*If you are a minor (i.e. a person below 21 years of age), your parent
 or guardian must apply on your behalf.</p>
-<p><strong>'Choose your own Assigned Solicitor' Pilot Programme</strong>
+<p><strong>'Choose your own Assigned Solicitor' Pilot Programme</strong> 
 <br>
 </p>
 <p>From 1 August 2023, the Legal Aid Bureau (LAB), a department of the Ministry
@@ -65,14 +65,14 @@ participate in this pilot programme. Please file your Memorandum of Appearance
 (MOA) at Crimsonlogic within 8 days from the day you were served the court
 documents. Thereafter, please come to the Legal Aid Bureau to apply for
 aid.</p>
-<p><strong>3. What are the benefits of registering online?</strong>
+<p><strong>3. What are the benefits of registering online?</strong> 
 <br>
 </p>
 <p>If you register online, you will save time. Click <a href="https://youtu.be/PwYQJi9aCns" rel="noopener noreferrer nofollow" target="_blank">here</a> to see how our Applicant Portal
 helps you save time. You will save yourself time to inform us about the
 facts of your case or answer questions about your financial situation (“preliminary
 means test”) if you can complete the relevant forms online successfully.</p>
-<p><strong>4. What happens when I attend at LAB?</strong>
+<p><strong>4. What happens when I attend at LAB?</strong> 
 <br>
 </p>
 <p><strong>If you are registering in-person at LAB</strong>, you will be
@@ -93,7 +93,7 @@ first, who will assess whether a file should be opened for your matter.</p>
 LAB, please indicate at the self-help kiosk that you have registered via
 the AP Portal. You will be registered and attended to by the Duty Lawyer
 in priority to individuals who walk-in to register for legal advice.</p>
-<p><strong>5. What happens when I see the Duty Lawyer?</strong>
+<p><strong>5. What happens when I see the Duty Lawyer?</strong> 
 <br>
 </p>
 <p>The Duty Lawyer will give you oral advice on questions relating to Singapore
@@ -109,7 +109,7 @@ has been or will be granted to you.</p>
 full Means Test (which assesses your financial eligibility for legal aid)
 and the Merits Test (which assesses whether you have a reasonable case
 to bring or defend in court).</p>
-<p><strong>6. What happens during the Means Test?</strong>
+<p><strong>6. What happens during the Means Test?</strong> 
 <br>
 </p>
 <p>The Means Test assesses your financial circumstances to determine if you
@@ -119,7 +119,7 @@ means. Failure to do so is a criminal offence punishable by a fine of up
 to $5,000 or with imprisonment of up to 6 months, or both.</p>
 <p>If you pass the Means Test, then you will be given an appointment for
 Statement Taking.</p>
-<p><strong>7. What happens during the Statement Taking?</strong>
+<p><strong>7. What happens during the Statement Taking?</strong> 
 <br>
 </p>
 <p>You will be interviewed by a Legal Executive from LAB during the Statement
@@ -127,7 +127,7 @@ Taking who will ask you questions about your case. You should provide LAB
 with the full facts of your case as well as all the relevant documents/evidence.
 This helps LAB to investigate your case and assess whether legal aid should
 be granted to you.</p>
-<p><strong>8. What documents should I bring when I apply for legal aid?</strong>
+<p><strong>8. What documents should I bring when I apply for legal aid?</strong> 
 <br>
 </p>
 <p>Please bring the following documents with you on the day you come to apply
@@ -150,7 +150,7 @@ months;
 the Annual Value of the property you own, if it is not an HDB flat.
 <br>
 </p>
-<p><strong>9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?</strong>
+<p><strong>9. Will LAB represent me immediately after I have applied for legal aid or after Statement Taking?</strong> 
 <br>
 </p>
 <p>No. After your legal aid application, you will need to pass the <a href="/legal-services/taking-the-means-test/" rel="noopener noreferrer nofollow" target="_blank">Means Test</a>,
@@ -168,7 +168,7 @@ you have passed the Merits Test. This PGA will continue/be renewed until
 the Board makes a decision for your case.
 <br>
 </p>
-<p><strong>10. How long do I have to wait from the Statement Taking to the decision on whether I have been granted aid?</strong>
+<p><strong>10. How long do I have to wait from the Statement Taking to the decision on whether I have been granted aid?</strong> 
 <br>
 </p>
 <p>This depends on the complexity of your case and the amount of time needed
@@ -179,7 +179,7 @@ whether by yourself or against you, and/or whether your case requires urgent
 attention (for any other reason). This is so that, if necessary, we can
 give you help even before the decision is made on whether to grant you
 aid.</p>
-<p><strong>11. My child has been removed from Singapore or removed/abducted to Singapore. How can I apply for legal aid?</strong>
+<p><strong>11. My child has been removed from Singapore or removed/abducted to Singapore. How can I apply for legal aid?</strong> 
 <br>
 </p>
 <p>If you are not a resident in Singapore or if your child has been removed
