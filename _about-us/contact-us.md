@@ -7,20 +7,14 @@ variant: tiptap
 <h2>The Legal Aid Bureau operates under the Ministry of Law<br></h2>
 <p>Click below to contact us!
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
 <p>
 <br>
 </p>
 <h2>FAQs<br></h2>
 <p>Have questions?
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
 <p>
 <br>
 </p>
@@ -47,7 +41,7 @@ for more information on our counter operating hours.
 </div>
 <h3>Call Us</h3>
 <p>Tel: 1800-CALL-LAW (1800 2255 529)*</p>
-<p><sup>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers.</sup>
+<p><sup>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers.</sup> 
 <br>For overseas callers, please dial +65 62255 529.
 <br>Enquiry Line Operating Hours - Monday to Friday: 8:30am to 5:00pm
 <br>(Closed on Weekends &amp; Public Holidays)
