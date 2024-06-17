@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
+      - Legal Technology/.keep
+      - Legal Technology/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
       - Legal Technology/eBantu Syariah Court Originating Documents Guidance
         Tool.md
       - Legal Technology/guide-to-ilab.md
-      - Legal Technology/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
-      - Legal Technology/.keep
       - Family Law Cases.md
       - legal-aid-and-advice-act-regulations.md
       - mental-capacity-act-applications.md
