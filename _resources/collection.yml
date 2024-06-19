@@ -2,13 +2,16 @@ collections:
   resources:
     output: true
     order:
-      - Family Law Cases.md
+      - Notable Reported Cases/A glimpse into some notable cases handled by the
+        Bureau through the decades….md
+      - Notable Reported Cases/Family Law Cases.md
+      - Notable Reported Cases/.keep
+      - guide-to-ilab.md
+      - eBantu Syariah Court Originating Documents Guidance Tool.md
+      - Divorce-AIDE-LAB-matrimonial-asset-estimator.md
       - legal-aid-and-advice-act-regulations.md
       - mental-capacity-act-applications.md
       - commencing-divorce-in-the-syariah-court.md
-      - Divorce-AIDE-LAB-matrimonial-asset-estimator.md
-      - eBantu Syariah Court Originating Documents Guidance Tool.md
-      - guide-to-ilab.md
       - brochures-and-forms.md
       - publications.md
       - useful-links.md
