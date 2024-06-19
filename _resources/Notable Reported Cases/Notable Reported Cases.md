@@ -1,13 +1,13 @@
 ---
-title: A glimpse into some notable cases handled by the Bureau through the decades…
-permalink: /a-glimpse-into-some-notable-cases-handled-by-the-bureau-through-the-decades/
+title: Notable Reported Cases
+permalink: /notable-reported-cases/
 variant: tiptap
 description: ""
 third_nav_title: Notable Reported Cases
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1960s: Hoo Yan Meng v Esah [1969] SGHC 13</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Hoo_Yan_Meng.pdf" rel="noopener noreferrer nofollow" target="_blank">1960s: Hoo Yan Meng v Esah [1969] SGHC 13</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped the daughter of a deceased statutory tenant from being
@@ -19,7 +19,7 @@ the rights of such tenants under s 16(c) of the then-Control of Rent Ordinance
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>1970s: Tan Evelyn v Tan Lim Tai [1973] SGHC 19</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Tan_Evelyn.pdf" rel="noopener noreferrer nofollow" target="_blank">1970s: Tan Evelyn v Tan Lim Tai [1973] SGHC 19</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped a “simple, thrifty, homely and uncomplaining kind of
@@ -31,7 +31,7 @@ her whole pay packet to him for years.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>1980s: Ng Weng Cheong v Soh Oh Loo and another [1993] SGCA 22</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Ng_Weng_Cheong.pdf" rel="noopener noreferrer nofollow" target="_blank">1980s: Ng Weng Cheong v Soh Oh Loo and another [1993] SGCA 22</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped a carpenter obtain some compensation after being hit
@@ -43,7 +43,7 @@ in such circumstances.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>1990s: Salijah bte Ab Latef v Mohd Irwan Abdullah [1996] 1 SLR 63</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Salijah.pdf" rel="noopener noreferrer nofollow" target="_blank">1990s: Salijah bte Ab Latef v Mohd Irwan Abdullah [1996] 1 SLR 63</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped a wife who divorced in the Syariah Court get a court
@@ -56,7 +56,7 @@ the Syariah Court to execute such documents on behalf of defaulting parties.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2000s: Ong Tean Hoe v Hong Kong Industrial Company Pte Ltd [2001] SGHC 303</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Ong_Tean_Hoe.pdf" rel="noopener noreferrer nofollow" target="_blank">2000s: Ong Tean Hoe v Hong Kong Industrial Company Pte Ltd [2001] SGHC 303</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped an industrial machine operator, whose hands were crushed
@@ -66,7 +66,7 @@ by a machine at work, to claim compensation (over $700,000) from her employer.</
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2010s: Chan Tin Sun v Fang Quay Sim [2015]</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Chan_Tin_Sun.pdf" rel="noopener noreferrer nofollow" target="_blank">2010s: Chan Tin Sun v Fang Quay Sim [2015]</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped a wife who poisoned her husband (and went to prison
@@ -79,7 +79,7 @@ get nothing.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2020s: Dai Yi Ting v Chuang Fu Yuan [2022] SGHC 253</strong>
+<summary><a href="https://lab.mlaw.gov.sg/files/Dai_Yi_Ting.pdf" rel="noopener noreferrer nofollow" target="_blank">2020s: Dai Yi Ting v Chuang Fu Yuan [2022] SGHC 253</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped an e-scooter rider who was sued by his pillion rider
