@@ -19,7 +19,7 @@ the rights of such tenants under s 16(c) of the then-Control of Rent Ordinance
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>1970s</strong>: <strong>Tan Evelyn v Tan Lim Tai [1973] SGHC 19</strong>
+<summary><strong>1970s: Tan Evelyn v Tan Lim Tai [1973] SGHC 19</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Bureau helped a “simple, thrifty, homely and uncomplaining kind of
