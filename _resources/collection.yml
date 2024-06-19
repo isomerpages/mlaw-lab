@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - Notable Reported Cases/A glimpse into some notable cases handled by the
+        Bureau through the decades….md
       - Notable Reported Cases/Family Law Cases.md
       - Notable Reported Cases/.keep
       - guide-to-ilab.md
