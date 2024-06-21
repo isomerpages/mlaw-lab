@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Useful Documents/.keep
       - Legal Information/commencing-divorce-in-the-syariah-court.md
       - Legal Information/mental-capacity-act-applications.md
       - Legal Information/.keep
