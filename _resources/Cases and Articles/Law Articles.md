@@ -1,10 +1,11 @@
 ---
-title: Publications
-permalink: /resources/publications/
+title: Law Articles
+permalink: /resources/law-articles/
 breadcrumb: Publications
-
+third_nav_title: Cases and Articles
+variant: tiptap
+description: ""
 ---
-
 <style>
 .image{width:298px; height:163px;}
   
@@ -21,7 +22,7 @@ breadcrumb: Publications
 
 
 3. Singapore Medical Journal Review Article (December 2016) <br>
-[Legal Medicine: Assessing the Mental Capacity & Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)(213KB)<br><br>
+[Legal Medicine: Assessing the Mental Capacity &amp; Writing Medical Reports for Deputy Applications](/files/Assessing-mental-capacity-and-writing-medical-reports-for-deputy-applications.pdf)(213KB)<br><br>
 
 
 
@@ -74,8 +75,8 @@ breadcrumb: Publications
 [Strengthening Access to Justice - Key Amendments to the Legal Aid and Advice Act](/files/LAAR_Amendments.pdf)<br><br>
 
 
-<div class="image"><img src="/images/AccidentsPIClaims.PNG" alt="LAB Practitioner's Guide to Accident & Personal Injury Claims" title="LAB Practitioner's Guide to Accident & Personal Injury Claim"></div><br>
+<div class="image"><img src="/images/AccidentsPIClaims.PNG" alt="LAB Practitioner's Guide to Accident &amp; Personal Injury Claims" title="LAB Practitioner's Guide to Accident &amp; Personal Injury Claim"></div><br>
 
 {:start="11"} 
-11. LAB Practitioner's Guide to Accident & Personal Injury Claims (October 2021) <br>
-[LAB Practitioner's Guide to Accident & Personal Injury Claims](/files/Accident-Personal-Injury-Publication.pdf)<br><br>
+11. LAB Practitioner's Guide to Accident &amp; Personal Injury Claims (October 2021) <br>
+[LAB Practitioner's Guide to Accident &amp; Personal Injury Claims](/files/Accident-Personal-Injury-Publication.pdf)<br><br>

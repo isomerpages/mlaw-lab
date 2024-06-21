@@ -2,6 +2,7 @@
 title: Legal Aid and Advice Act & Regulations
 permalink: /resources/legal-aid-advice-act-regulations/
 breadcrumb: Legal Aid and Advice Act & Regulations
+third_nav_title: Info on LAB and Legislation
 ---
 ## Legal Aid and Advice Act &amp; Regulations
 

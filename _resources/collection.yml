@@ -2,15 +2,21 @@ collections:
   resources:
     output: true
     order:
-      - Notable Reported Cases/Notable Reported Cases.md
-      - Notable Reported Cases/Family Law Cases.md
-      - Notable Reported Cases/.keep
-      - guide-to-ilab.md
-      - eBantu Syariah Court Originating Documents Guidance Tool.md
-      - Divorce-AIDE-LAB-matrimonial-asset-estimator.md
-      - legal-aid-and-advice-act-regulations.md
-      - mental-capacity-act-applications.md
-      - commencing-divorce-in-the-syariah-court.md
-      - brochures-and-forms.md
-      - publications.md
-      - useful-links.md
+      - Info on LAB and Legislation/.keep
+      - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
+      - LAB Tech Tools/.keep
+      - LAB Tech Tools/guide-to-ilab.md
+      - LAB Tech Tools/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
+      - LAB Tech Tools/eBantu Syariah Court Originating Documents Guidance
+        Tool.md
+      - Legal Information/.keep
+      - Legal Information/commencing-divorce-in-the-syariah-court.md
+      - Legal Information/mental-capacity-act-applications.md
+      - Cases and Articles/.keep
+      - Cases and Articles/Family Law Cases.md
+      - Cases and Articles/Notable Cases (66th LAB Anniversary Newsletter).md
+      - Cases and Articles/Law Articles.md
+      - Useful Documents/.keep
+      - Useful Documents/Guides and Forms.md
+      - Useful Documents/Pro Bono SG's List of Legal Clinics and Community
+        Touchpoints.md

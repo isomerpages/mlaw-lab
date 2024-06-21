@@ -2,6 +2,7 @@
 title: Guide to iLAB
 permalink: /resources/guide-to-ilab/
 breadcrumb: Guide to iLAB
+third_nav_title: LAB Tech Tools
 ---
 ## **Guide to iLAB**
 

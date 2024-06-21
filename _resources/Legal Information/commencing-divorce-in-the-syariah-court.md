@@ -2,6 +2,7 @@
 title: Commencing Divorce in the Syariah Court
 permalink: /resources/commencing-divorce-in-the-syariah-court/
 breadcrumb: Commencing Divorce in the Syariah Court
+third_nav_title: Legal Information
 ---
 ## Commencing Divorce in the Syariah Court
 

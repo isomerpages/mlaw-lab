@@ -3,6 +3,7 @@ title: eBantu Syariah Court Originating Documents Guidance Tool
 permalink: /resources/ebantu-syariah-court-originating-documents-guidance-tool/
 variant: markdown
 description: ""
+third_nav_title: LAB Tech Tools
 ---
 ## **eBantu - Syariah Court Originating Documents Guidance Tool**
 

@@ -1,10 +1,12 @@
 ---
-title: Brochures and Forms
-permalink: /resources/brochures-forms/
+title: Guides and Forms
+permalink: /resources/guides-forms/
 breadcrumb: Brochures and Forms
 variant: tiptap
+third_nav_title: Useful Documents
+description: ""
 ---
-<h2>Brochures and Forms</h2>
+<p></p>
 <p><a href="/files/LAB_AP_Portal_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Legal Aid Bureau's Applicant Portal Guide</a>
 <br>
 </p>

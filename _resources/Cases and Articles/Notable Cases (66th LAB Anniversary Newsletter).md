@@ -1,9 +1,9 @@
 ---
-title: Notable Reported Cases
-permalink: /notable-reported-cases/
+title: Notable Cases (66th LAB Anniversary Newsletter)
+permalink: /notable-reported-cases-66th-lab-anniversary-newsletter/
 variant: tiptap
 description: ""
-third_nav_title: Notable Reported Cases
+third_nav_title: Cases and Articles
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
