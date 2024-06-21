@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Info on LAB and Legislation/.keep
       - Notable Reported Cases/Notable Reported Cases.md
       - Notable Reported Cases/Family Law Cases.md
       - Notable Reported Cases/.keep
