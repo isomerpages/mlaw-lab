@@ -2,20 +2,20 @@ collections:
   resources:
     output: true
     order:
-      - Useful Documents/useful-links.md
-      - Useful Documents/brochures-and-forms.md
-      - Useful Documents/.keep
-      - Legal Information/commencing-divorce-in-the-syariah-court.md
-      - Legal Information/mental-capacity-act-applications.md
-      - Legal Information/.keep
+      - Info on LAB and Legislation/.keep
+      - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
+      - LAB Tech Tools/.keep
       - LAB Tech Tools/eBantu Syariah Court Originating Documents Guidance
         Tool.md
       - LAB Tech Tools/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
       - LAB Tech Tools/guide-to-ilab.md
-      - LAB Tech Tools/.keep
-      - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
-      - Info on LAB and Legislation/.keep
-      - Cases and Articles/publications.md
+      - Legal Information/.keep
+      - Legal Information/commencing-divorce-in-the-syariah-court.md
+      - Legal Information/mental-capacity-act-applications.md
       - Cases and Articles/.keep
+      - Cases and Articles/publications.md
       - Cases and Articles/Family Law Cases.md
       - Cases and Articles/Notable Cases (66th LAB Anniversary Newsletter).md
+      - Useful Documents/.keep
+      - Useful Documents/useful-links.md
+      - Useful Documents/brochures-and-forms.md
