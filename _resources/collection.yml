@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Legal Information/.keep
       - LAB Tech Tools/eBantu Syariah Court Originating Documents Guidance
         Tool.md
       - LAB Tech Tools/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
