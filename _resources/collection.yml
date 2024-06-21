@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Useful Documents/useful-links.md
       - Useful Documents/brochures-and-forms.md
       - Useful Documents/.keep
       - Legal Information/commencing-divorce-in-the-syariah-court.md
