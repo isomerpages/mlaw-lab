@@ -4,7 +4,7 @@ permalink: /overview-of-resources/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://lab.mlaw.gov.sg/resources/legal-aid-advice-act-regulations/" rel="noopener noreferrer nofollow" target="_blank">Info on LAB and Legislation</a>
+<p><a href="https://lab.mlaw.gov.sg/resources/legal-aid-advice-act-regulations/" rel="noopener noreferrer nofollow" target="_blank">Information on LAB and Legislation - Legal Aid and Advice Act Regulations</a>
 </p>
 <hr>
 <p><a href="https://lab.mlaw.gov.sg/resources/guide-to-ilab/" rel="noopener noreferrer nofollow" target="_blank">LAB Tech Tools - Guide to iLAB</a>
