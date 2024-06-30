@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - LAB's 66th Anniversary Commemorative Publication.md
       - our-mission-and-core-values.md
       - organisation-structure.md
       - history.md
       - corporate-video.md
       - contact-us.md
-      - LAB's 66th Anniversary Commemorative Publication.md
       - help-with-a-heart.md
       - LAB Reels.md
