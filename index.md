@@ -32,11 +32,11 @@ sections:
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
   - announcements:
-      title: Announcements
+      title: LAB celebrates its 66th anniversary!
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: LAB celebrates its 66th anniversary!
+        - title: 66 years of providing access to justice.
           date: 01 July 2024
           announcement: This year, LAB is commemorating its 66th anniversary! We invite
             you to celebrate this milestone by reading and sharing our
