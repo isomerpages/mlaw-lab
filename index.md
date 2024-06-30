@@ -34,14 +34,13 @@ sections:
   - announcements:
       title: LAB celebrates its 66th anniversary!
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: 66 years of providing access to justice.
           date: 01 July 2024
           announcement: This year, LAB is commemorating its 66th anniversary! We invite
             you to celebrate this milestone by reading and sharing our
             Commemorative Publication.
-          link_text: LAB's 66th Anniversary Commemorative Publication
+          link_text: Click here to read "LAB's 66th Anniversary Commemorative Publication"
           link_url: https://go.gov.sg/ur8520
 description: Description
 image: /images/isomer-logo.svg
