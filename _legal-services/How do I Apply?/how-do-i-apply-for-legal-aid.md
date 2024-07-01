@@ -138,7 +138,7 @@ for legal aid:
 Deposit Receipts and/or any other Bank-related investment information;
 <br>(c) Your latest Central Depository (CDP) Account Statement (if any); and
 <br>(d) Any other documents relevant to your application such as Court Orders
-or Persoanl Protection Applications.
+or Personal Protection Applications.
 <br>
 </p>
 <p>If you do not have Singpass, please also bring the following documents:
