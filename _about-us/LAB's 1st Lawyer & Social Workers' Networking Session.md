@@ -29,6 +29,6 @@ and laughter, as everyone got to know each other better. At the close of
 the session, participants shared that they enjoyed making new friends and
 learning new things. There were also some interesting ideas on how both
 professions could collaborate more closely in future – so watch this space!</p>
-<p>The 2<sup>nd</sup> of the two sessions will be held on 20 August 2024.
-<a href="https://go.gov.sg/lab66thmixer1" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>The 2<sup>nd</sup> of the two sessions will be held on 20 August 2024.</p>
+<p>A highlight of 9 July 2024's event can be accessed <a href="https://go.gov.sg/lab66thmixer1" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
