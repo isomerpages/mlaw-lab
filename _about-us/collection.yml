@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - LAB's 1st Lawyer & Social Workers' Networking Session.md
       - LAB's 66th Anniversary Commemorative Publication.md
       - our-mission-and-core-values.md
       - organisation-structure.md
