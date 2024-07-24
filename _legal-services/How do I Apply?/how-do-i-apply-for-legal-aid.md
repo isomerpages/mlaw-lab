@@ -5,7 +5,7 @@ breadcrumb: How do I apply for LAB's services?
 third_nav_title: How do I Apply?
 variant: tiptap
 ---
-<h2> How do I apply for LAB's Services?</h2>
+<h2>How do I apply for LAB's Services?</h2>
 <p><strong>1. Overview of LAB's Application Process for Legal Aid and Assistance</strong> 
 <br>
 </p>
@@ -34,7 +34,7 @@ Child Abduction.</p>
 <br>
 </p>
 <p>If you require legal aid, assistance, or advice, you can either*:</p>
-<p>(a) Register your case online <a href="https://eservices.mlaw.gov.sg/labesvc/" rel="noopener noreferrer nofollow" target="_blank">here</a>. A step by step
+<p>(a) Register your case online <a href="https://eservices.mlaw.gov.sg/labesvc/" rel="noopener noreferrer nofollow" target="_blank">here</a>. A step-by-step
 guide to apply online via our Applicant Portal is available <a href="/files/lab-ap-portal-guide-(register-online).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Once you have registered successfully, you will be required to attend
 at LAB <strong>within 3 working days after the date of registration</strong>.
@@ -45,7 +45,7 @@ at LAB <strong>within 3 working days after the date of registration</strong>.
 <a href="https://lab.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>*If you are a minor (i.e. a person below 21 years of age), your parent
 or guardian must apply on your behalf.</p>
-<p><strong>'Choose your own Assigned Solicitor' Pilot Programme</strong> 
+<p><strong>'Choose your own Assigned Solicitor' Programme</strong> 
 <br>
 </p>
 <p>The Legal Aid Bureau (LAB), a department of the Ministry of Law, is running
@@ -59,7 +59,7 @@ Less time will also be required to assign an Assigned Solicitor to take
 on your case.</p>
 <p>Click <a href="/files/19_Jul_2024_Information_sheet_and_list_of_AS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the programme and the list of our participating Assigned
-Solicitors. For other queries, please refer to our FAQs <a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> 
+Solicitors. For other queries, please refer to our FAQs <a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>If your spouse has started divorce proceedings against you, you cannot
 participate in this programme. Please file your Memorandum of Appearance
@@ -97,7 +97,7 @@ LAB, please indicate at the self-help kiosk that you have registered via
 the AP Portal. You will be registered and attended to by the Duty Lawyer
 in priority to individuals who walk-in to register for legal advice.</p>
 <p></p>
-<p><strong>5. What happens when I see the Duty Lawyer?</strong> 
+<p><strong>5. What happens when I see the Duty Lawyer?</strong>
 </p>
 <p>The Duty Lawyer will give you oral advice on questions relating to Singapore
 law and suggest practical steps you may take in your case. He may ask you
