@@ -5,7 +5,7 @@ breadcrumb: How do I apply for LAB's services?
 third_nav_title: How do I Apply?
 variant: tiptap
 ---
-<h2>How do I apply for LAB's Services?</h2>
+<h2> How do I apply for LAB's Services?</h2>
 <p><strong>1. Overview of LAB's Application Process for Legal Aid and Assistance</strong> 
 <br>
 </p>
@@ -29,6 +29,7 @@ legal aid where a child has been removed/abducted from Singapore or removed/abdu
 to Singapore under the Hague Convention on the Civil Aspects of International
 Child Abduction.</p>
 <p>Please see (11) below for further information.</p>
+<p></p>
 <p><strong>2. How do I register for LAB's services?</strong> 
 <br>
 </p>
@@ -47,24 +48,25 @@ or guardian must apply on your behalf.</p>
 <p><strong>'Choose your own Assigned Solicitor' Pilot Programme</strong> 
 <br>
 </p>
-<p>From 1 August 2023, the Legal Aid Bureau (LAB), a department of the Ministry
-of Law, is running a pilot programme which allows applicants of legal aid
-to choose their preferred Assigned Solicitors. The pilot programme is open
-to applicants who wish to initiate divorce proceedings, and have not commenced
-proceedings yet.</p>
+<p>The Legal Aid Bureau (LAB), a department of the Ministry of Law, is running
+a programme which allows applicants of legal aid to choose their preferred
+Assigned Solicitors. The programme is open to applicants who wish to initiate
+divorce proceedings and have not commenced proceedings yet.</p>
 <p>Apart from being able to choose your preferred Assigned Solicitor, your
 application process for legal aid will be more streamlined as you will
 no longer need to provide a statement on your legal issue to LAB first.
 Less time will also be required to assign an Assigned Solicitor to take
 on your case.</p>
-<p>Click <a href="/files/11_Apr_2024__Information_sheet_and_list_of_AS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about the pilot programme and the list of our participating
-Assigned Solicitors. For other queries, please refer to our FAQs <a href="/files/Choose_Your_Own_Assigned_Solicitor_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="/files/19_Jul_2024_Information_sheet_and_list_of_AS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the programme and the list of our participating Assigned
+Solicitors. For other queries, please refer to our FAQs <a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> 
+</p>
 <p>If your spouse has started divorce proceedings against you, you cannot
-participate in this pilot programme. Please file your Memorandum of Appearance
+participate in this programme. Please file your Memorandum of Appearance
 (MOA) at Crimsonlogic within 8 days from the day you were served the court
 documents. Thereafter, please come to the Legal Aid Bureau to apply for
 aid.</p>
+<p></p>
 <p><strong>3. What are the benefits of registering online?</strong> 
 <br>
 </p>
@@ -72,6 +74,7 @@ aid.</p>
 helps you save time. You will save yourself time to inform us about the
 facts of your case or answer questions about your financial situation (“preliminary
 means test”) if you can complete the relevant forms online successfully.</p>
+<p></p>
 <p><strong>4. What happens when I attend at LAB?</strong> 
 <br>
 </p>
@@ -93,8 +96,8 @@ first, who will assess whether a file should be opened for your matter.</p>
 LAB, please indicate at the self-help kiosk that you have registered via
 the AP Portal. You will be registered and attended to by the Duty Lawyer
 in priority to individuals who walk-in to register for legal advice.</p>
+<p></p>
 <p><strong>5. What happens when I see the Duty Lawyer?</strong> 
-<br>
 </p>
 <p>The Duty Lawyer will give you oral advice on questions relating to Singapore
 law and suggest practical steps you may take in your case. He may ask you
@@ -189,7 +192,8 @@ for matters relating to the HCCAICA" and submit it to the said Authority.</p>
 <p>For more information on the Singapore Central Authority and the application
 process for the return of abducted children under the Hague Convention
 on the Civil Aspects of International Child Abduction, you may refer to
-the Ministry of Social and Family Development's website <a href="https://www.msf.gov.sg/what-we-do/Singapore-Central-Authority/about" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"}</p>
+the Ministry of Social and Family Development's website <a href="https://www.msf.gov.sg/what-we-do/Singapore-Central-Authority/about" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p>If you are resident in Singapore, please come to LAB personally during
 office hours (8.30 am to 5.00 pm) on weekdays to make an application for
 legal aid or advice.</p>
