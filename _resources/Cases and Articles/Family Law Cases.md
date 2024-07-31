@@ -10,3 +10,5 @@ third_nav_title: Cases and Articles
 </p>
 <p><a href="/files/Compiled_LAB_Case_Digest__2024_Q1_.pdf" rel="noopener noreferrer nofollow" target="_blank">LAB Family Case Digest (Q1, 2024)</a>
 </p>
+<p><a href="/files/LAB_Family_Case_Digest__Q2_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">LAB Family Case Digest (Q2, 2024)</a>
+</p>
