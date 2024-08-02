@@ -30,3 +30,10 @@ Jevan, a recipient of the LAB Novo 2023 award, feels that helping those in need 
 Watch the video to find out more about Jevan!<br>
 
 <iframe allowfullscreen="" frameborder="0" title="Jevan final video full" src="https://www.youtube.com/embed/BjwYZj0tS5U" height="383" width="681"></iframe>
+
+## LAB's Officers Through Their Children's Eyes
+At work, our identities are “Legal Officers” and Legal Executives”. How do we explain our work identities to our children? Do our children see how hard we work, to support our Applicants?   
+ 
+This video highlights the work done by LAB officers from the point of view of their children. 
+ 
+Heartwarming and amusing - watch the video to find out more about what the children think their parents do!
