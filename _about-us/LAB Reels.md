@@ -37,3 +37,4 @@ At work, our identities are “Legal Officers” and Legal Executives”. How do
 This video highlights the work done by LAB officers from the point of view of their children. 
  
 Heartwarming and amusing - watch the video to find out more about what the children think their parents do!
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LAB officers through their children’s eyes" src="https://www.youtube.com/embed/m7U6tBokQRo" height="524" width="931"></iframe>
