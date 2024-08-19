@@ -1,0 +1,8 @@
+collections:
+  post-application:
+    output: false
+    order:
+      - legal-aid-board.md
+      - how-will-my-case-be-managed-after-i-have-been-granted-legal-aid.md
+      - when-legal-aid-be-cancelled-by-the-legal-aid-board.md
+      - subject-to-third-party-casino-exclusion.md

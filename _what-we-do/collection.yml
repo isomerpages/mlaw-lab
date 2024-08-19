@@ -1,0 +1,8 @@
+collections:
+  what-we-do:
+    output: false
+    order:
+      - services-lab-provide.md
+      - types-of-cases-handled-by-lab.md
+      - types-of-cases-not-handled-by-lab.md
+      - legal-aid.md
