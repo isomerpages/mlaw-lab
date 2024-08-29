@@ -22,6 +22,6 @@ social work professionals got to meet and chat with each other.</p>
 had exciting ideas on how they could collaborate more closely in future.
 The common sentiment was that they would like to see more of these mixers
 happening in future.</p>
-<p>&nbsp;We shall regroup and take a breather first. 😊 And then…. we will
-heed the voices of the people….so...</p>
+<p>We shall regroup and take a breather first. 😊 And then…. we will heed
+the voices of the people….so...</p>
 <p>watch this space!</p>
