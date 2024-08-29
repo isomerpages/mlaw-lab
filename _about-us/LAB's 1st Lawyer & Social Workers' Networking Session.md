@@ -1,7 +1,7 @@
 ---
 title: LAB's 1st Lawyer & Social Workers' Networking Session
 permalink: /lab-1st-lawyer-social-workers-networking-session/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Family lawyers and social service professionals often have the same clients
@@ -30,5 +30,5 @@ the session, participants shared that they enjoyed making new friends and
 learning new things. There were also some interesting ideas on how both
 professions could collaborate more closely in future – so watch this space!</p>
 <p>The 2<sup>nd</sup> of the two sessions will be held on 20 August 2024.</p>
-<p>A highlight of 9 July 2024's event can be accessed <a href="https://go.gov.sg/lab66thmixer1" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>A highlight of 9 July 2024's event can be accessed <a href="https://go.gov.sg/legalaidbureaumixer1" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
