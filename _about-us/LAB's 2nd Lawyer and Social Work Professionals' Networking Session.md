@@ -25,7 +25,7 @@ happening in future.</p>
 <p>We shall regroup and take a breather first. 😊 And then…. we will heed
 the voices of the people….so...</p>
 <p>Watch this space!</p>
-<p><a href="https://go.gov.sg/legalaidbureaumixer2" rel="noopener nofollow" target="_blank">Highlights from 2nd Mixer!</a>
+<p><a href="https://go.gov.sg/labmixer2" rel="noopener nofollow" target="_blank">Highlights from 2nd Mixer!</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
