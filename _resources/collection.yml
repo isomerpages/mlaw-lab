@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview of Resources.md
+      - Useful External Links.md
       - Info on LAB and Legislation/.keep
       - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
       - LAB Tech Tools/.keep
@@ -21,4 +22,3 @@ collections:
       - Useful Documents/Guides and Forms.md
       - Useful Documents/Pro Bono SG's List of Legal Clinics and Community
         Touchpoints.md
-      - Useful External Links.md
