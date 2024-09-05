@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Useful external links/.keep
       - Useful External Links.md
       - Overview of Resources.md
       - Info on LAB and Legislation/.keep
