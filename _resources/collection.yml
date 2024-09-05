@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview of Resources.md
+      - Useful External Links.md
       - Info on LAB and Legislation/.keep
       - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
       - LAB Tech Tools/.keep
