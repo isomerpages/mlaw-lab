@@ -28,5 +28,9 @@ description: ""
 <br>
 </p>
 <p><a href="/files/application_for_reduction_or_waiver_of_contribution.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Reduction or Waiver of Contribution</a>
-<br>
 </p>
+<p>
+<br><a href="/files/Settlement_Agreement_Template__general_Personal_Injury_cases_.pdf" rel="noopener nofollow" target="_blank">Settlement Agreement Template (for general Personal Injury cases)</a>
+</p>
+<p></p>
+<p></p>
