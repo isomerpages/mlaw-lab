@@ -5,21 +5,21 @@ variant: tiptap
 description: ""
 ---
 <h4>Civil Matters</h4>
-<p><a href="www.judiciary.gov.sg/" rel="noopener nofollow" target="_blank">Singapore courts, including self-help guides on civil matters</a>
+<p><a href="https://www.judiciary.gov.sg" rel="noopener nofollow" target="_blank">Singapore courts, including self-help guides on civil matters</a>
 </p>
 <p><a href="https://cjc.org.sg" rel="noopener nofollow" target="_blank">Community Justice Centre – provides services to help self-represented persons accessing the court system</a>
 </p>
 <p><a href="https://io.mlaw.gov.sg" rel="noopener nofollow" target="_blank">Insolvency issues – Insolvency and Public Trustee’s Office</a>
 </p>
-<p><a href="www.tal.sg/tadm" rel="noopener nofollow" target="_blank">Resolving employment disputes with help from TADM (Tripartite Alliance for Dispute Management)</a>
+<p><a href="https://www.tal.sg/tadm" rel="noopener nofollow" target="_blank">Resolving employment disputes with help from TADM (Tripartite Alliance for Dispute Management)</a>
 </p>
-<p><a href="www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation" rel="noopener nofollow" target="_blank">Work injury compensation issues – Ministry of Manpower </a>
+<p><a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation" rel="noopener nofollow" target="_blank">Work injury compensation issues – Ministry of Manpower</a>
 </p>
-<p><a href="www.mibos.com.sg/" rel="noopener nofollow" target="_blank">Motor Insurance Bureau – assists with compensation for those injured in road accidents caused by negligent untraced or uninsured motorists</a>
+<p><a href="https://www.mibos.com.sg/" rel="noopener nofollow" target="_blank">Motor Insurance Bureau – assists with compensation for those injured in road accidents caused by negligent untraced or uninsured motorists</a>
 </p>
 <hr>
 <h4>Family Matters</h4>
-<p><a href="www.judiciary.gov.sg/family" rel="noopener nofollow" target="_blank">Family Justice Courts, including self-help guides on family matters </a>
+<p><a href="https://www.judiciary.gov.sg/family" rel="noopener nofollow" target="_blank">Family Justice Courts, including self-help guides on family matters</a>
 </p>
 <p><a href="https://familyassist.msf.gov.sg" rel="noopener nofollow" target="_blank">MSF (Ministry of Social and Family Development) Family Assist tool –support and services for marriage and divorce issues</a>
 </p>
@@ -41,19 +41,19 @@ description: ""
 </p>
 <hr>
 <h4>Finding other lawyers</h4>
-<p><a href="https://www.probono.sg" rel="noopener nofollow" target="_blank">Probono SG </a>
+<p><a href="https://www.probono.sg" rel="noopener nofollow" target="_blank">Probono SG</a>
 </p>
 <p><a href="https://lawsociety.org.sg/find-a-lawyer-2024/" rel="noopener nofollow" target="_blank">Law Society – Find a lawyer</a>
 </p>
 <hr>
 <h4>Social Services</h4>
-<p><a href="www.adullam.org.sg" rel="noopener nofollow" target="_blank">Adullam Life Counselling (Financial Debt)</a>
+<p><a href="https://www.adullam.org.sg" rel="noopener nofollow" target="_blank">Adullam Life Counselling (Financial Debt)</a>
 </p>
 <p><a href="https://www.aic.sg" rel="noopener nofollow" target="_blank">Agency for Integrated Pte Ltd (financial assistance, care and other services for seniors and vulnerable persons)</a>
 </p>
-<p><a href="www.scwo.org.sg" rel="noopener nofollow" target="_blank">Singapore Council of Women’s Organisations (SCWO) – runs a shelter for family violence survivors, support and legal help for spousal/child maintenance payment issues</a>
+<p><a href="https://www.scwo.org.sg" rel="noopener nofollow" target="_blank">Singapore Council of Women’s Organisations (SCWO) – runs a shelter for family violence survivors, support and legal help for spousal/child maintenance payment issues</a>
 </p>
-<p><a href="www.pave.org.sg" rel="noopener nofollow" target="_blank">PAVE – help and support for family violence survivors</a>
+<p><a href="https://www.pave.org.sg" rel="noopener nofollow" target="_blank">PAVE – help and support for family violence survivors</a>
 </p>
 <p><a href="https://familyassist.msf.gov.sg/content/resources/where-can-i-attend-counselling-and-programmes/our-agencies/" rel="noopener nofollow" target="_blank">Counselling services for marital and/or family concerns</a>
 </p>
