@@ -2,7 +2,7 @@
 title: LAB Reels
 permalink: /about-us/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>LAB's 65th Anniversary</h2>
 <p>1 July 2023 - A celebration of Legal Aid Bureau's 65 years of service,
@@ -56,4 +56,7 @@ life expectancy is 85.2 years old. So, how old is the Legal Aid Bureau's
 oldest applicant? And why did she need out help?</p>
 <p>Watch this video to find out!</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="411" width="731" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4n5dPBJYELg"></iframe>
+</div>
 <p></p>
