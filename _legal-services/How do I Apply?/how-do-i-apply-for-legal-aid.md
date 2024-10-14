@@ -57,7 +57,7 @@ application process for legal aid will be more streamlined as you will
 no longer need to provide a statement on your legal issue to LAB first.
 Less time will also be required to assign an Assigned Solicitor to take
 on your case.</p>
-<p>Click <a href="/files/19_Jul_2024_Information_sheet_and_list_of_AS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/11Oct2024_Information_sheet_and_list_of_AS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the programme and the list of our participating Assigned
 Solicitors. For other queries, please refer to our FAQs <a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
