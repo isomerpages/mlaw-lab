@@ -10,5 +10,5 @@ description: ""
 <p></p>
 <p><a href="https://www.probono.sg/get-legal-help/legal-guidance/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG's List of Legal Clinics</a>
 </p>
-<p><a href="/files/List_of_Community_Touchpoints__as_at_1_August_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Community Touchpoints</a>
+<p><a href="/files/List_of_Community_Touchpoints_29Oct2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Community Touchpoints</a>
 </p>
