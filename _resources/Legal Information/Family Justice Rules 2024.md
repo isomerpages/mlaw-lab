@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Legal Information
 ---
-<h4><strong><u>Family Justices Rules 2024 Quiz</u></strong></h4>
+<h4><strong><u>LAB's Family Justices Rules 2024 Quiz</u></strong></h4>
 <p>1. The LAB Family Law Practice Group (LAB FLPG) has prepared a set of
 questions, in the format of a quiz, relating to the Family Justice Rules
 2024.</p>
