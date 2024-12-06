@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Legal Information
 ---
-<h4><strong><u>LAB's Family Justices Rules 2024 Quiz</u></strong></h4>
-<p>1. The LAB Family Law Practice Group (LAB FLPG) has prepared a set of
-questions, in the format of a quiz, relating to the Family Justice Rules
-2024.</p>
+<h4><strong><u>Family Justices Rules 2024 &amp; Adoption of Children Act 2022</u></strong></h4>
+<p>LAB has prepared a deck of slides which offers an overview of the Family
+Justice Rules 2024 ("<strong>FJR 2024</strong>") and Adoption of Children
+Act 2022 ("<strong>ACA 2022</strong>") which were implemented on 15 October
+2024. The slides can be access</p>
 <p>2. The information contained in these materials are accurate as of 6 December
 2024.</p>
 <p><a href="https://go.gov.sg/fjr2024-quiz" rel="noopener nofollow" target="_blank">Link to LAB's Family Justice Rules 2024 Quiz - https://go.gov.sg/fjr2024-quiz</a>
