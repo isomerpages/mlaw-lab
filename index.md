@@ -4,9 +4,8 @@ title: Legal Aid Bureau
 permalink: /
 notification: Please use our digital and call services to contact us wherever
   possible. This will save you time, and be more convenient for you than to come
-  down personally to our office.<br>In particular, if you are feeling unwell,
-  with flu-like symptoms, then for public health reasons, please refrain from
-  coming to our office. <br> Contact us through our digital services, our
+  down personally to our office.<br> If you are feeling unwell, please refrain
+  from coming to our office. <br> Contact us through our digital services, our
   Applicants' <a
   href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us
   at 1800-2255 529 instead.
