@@ -20,7 +20,7 @@ sections:
       url: /about-us/contact-us/
       key_highlights:
         - title: Apply for Legal Aid
-          description: Our processes and other info
+          description: The processes and related info
           url: /legal-services/how-do-i-apply-for-legal-aid/
         - title: Divorce AIDE
           description: Information on matrimonial asset division upon divorce
