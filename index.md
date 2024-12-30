@@ -32,16 +32,15 @@ sections:
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
   - announcements:
-      title: LAB celebrates its 66th anniversary!
       id: announcements
       announcement_items:
-        - title: 66 years of providing access to justice.
-          date: 01 July 2024
-          announcement: This year, LAB is commemorating its 66th anniversary! We invite
-            you to celebrate this milestone by reading and sharing our
-            Commemorative Publication.
-          link_text: Click here to read "LAB's 66th Anniversary Commemorative Publication"
-          link_url: https://go.gov.sg/ur8520
+        - title: Apply for Telephone Legal Advice
+          date: 01 January 2025
+          announcement: Telephone legal advice is now available for a trial period. Click
+            the link below if you would like to make an appointment for
+            telephone legal advice.
+          link_text: Telephone legal advice
+          link_url: go.gov.sg/labphonelegaladvice
 description: Description
 image: /images/isomer-logo.svg
 ---
