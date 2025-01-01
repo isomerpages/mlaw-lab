@@ -4,10 +4,9 @@ title: Legal Aid Bureau
 permalink: /
 notification: Please use our digital and call services to contact us wherever
   possible. This will save you time, and be more convenient for you than to come
-  down personally to our office.<br>In particular, if you are feeling unwell,
-  with flu-like symptoms, then for public health reasons, please refrain from
-  coming to our office. <br> Contact us through our digital services, our
-  Applicants' <a
+  down personally to our office.<br> If you are feeling unwell, please refrain
+  from coming to our service center. <br> Contact us through our digital
+  services, our Applicants' <a
   href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us
   at 1800-2255 529 instead.
 sections:
@@ -20,7 +19,7 @@ sections:
       url: /about-us/contact-us/
       key_highlights:
         - title: Apply for Legal Aid
-          description: Our processes and other info
+          description: The processes and related info
           url: /legal-services/how-do-i-apply-for-legal-aid/
         - title: Divorce AIDE
           description: Information on matrimonial asset division upon divorce
@@ -32,16 +31,15 @@ sections:
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
   - announcements:
-      title: LAB celebrates its 66th anniversary!
       id: announcements
       announcement_items:
-        - title: 66 years of providing access to justice.
-          date: 01 July 2024
-          announcement: This year, LAB is commemorating its 66th anniversary! We invite
-            you to celebrate this milestone by reading and sharing our
-            Commemorative Publication.
-          link_text: Click here to read "LAB's 66th Anniversary Commemorative Publication"
-          link_url: https://go.gov.sg/ur8520
+        - title: Apply for Telephone Legal Advice
+          date: 01 January 2025
+          announcement: Telephone legal advice is now available for a trial period. Click
+            the link below if you would like to make an appointment for
+            telephone legal advice.
+          link_text: Telephone legal advice
+          link_url: go.gov.sg/labphonelegaladvice
 description: Description
 image: /images/isomer-logo.svg
 ---
