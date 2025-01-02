@@ -49,6 +49,13 @@ sections:
       button: Telephone Legal Advice
       url: go.gov.sg/labphonelegaladvice
       alt: Image alt text
+  - infobar:
+      id: infobar
+      description: Telephone legal advice is now available for a trial period. Click
+        the link below if you would like to make an appointment for telephone
+        legal advice.
+      button: Apply for phone legal advice
+      url: go.gov.sg/labphonelegaladvice
 description: Description
 image: /images/isomer-logo.svg
 ---
