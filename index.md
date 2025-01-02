@@ -30,32 +30,13 @@ sections:
         - title: Login to Applicant Portal
           description: Register and get case updates. Our online portal helps you save time.
           url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
-  - announcements:
-      id: announcements
-      announcement_items:
-        - title: Apply for Telephone Legal Advice
-          date: 01 January 2025
-          announcement: Telephone legal advice is now available for a trial period. Click
-            the link below if you would like to make an appointment for
-            telephone legal advice.
-          link_text: Telephone legal advice
-          link_url: go.gov.sg/labphonelegaladvice
-  - infopic:
-      subtitle: Apply for Phone Legal Advice
-      id: infopic
-      description: Telephone legal advice is now available for a trial period. Click
-        the link below if you would like to make an appointment for telephone
-        legal advice.
-      button: Telephone Legal Advice
-      url: go.gov.sg/labphonelegaladvice
-      alt: Image alt text
   - infobar:
       id: infobar
       description: Telephone legal advice is now available for a trial period. Click
         the link below if you would like to make an appointment for telephone
         legal advice.
       button: Apply for phone legal advice
-      url: go.gov.sg/labphonelegaladvice
+      url: https://go.gov.sg/labphonelegaladvice
 description: Description
 image: /images/isomer-logo.svg
 ---
