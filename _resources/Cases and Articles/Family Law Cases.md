@@ -14,3 +14,5 @@ third_nav_title: Cases and Articles
 </p>
 <p><a href="https://go.gov.sg/labq3casedigest" rel="noopener nofollow" target="_blank">LAB Family Case Digest (Q3, 2024)</a>
 </p>
+<p><a href="/files/Final__2024_Q4_Case_Digest__Oct___Dec_.pdf" rel="noopener nofollow" target="_blank">LAB Family Case Digest (Q4,2024)</a>
+</p>
