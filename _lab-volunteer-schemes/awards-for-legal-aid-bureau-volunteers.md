@@ -14,3 +14,4 @@ Every year, the Legal Aid Bureau review the assistance rendered by all the volun
 
 [List of Legal Aid Bureau Award Recipients 2023](/files/List_of_AS_Award_Winners_2023.pdf)<br>
 
+[List of Legal Aid Bureau Award Recipients 2024](/files/List_of_LAB_Awards_Recipients_2024.pdf)<br>
