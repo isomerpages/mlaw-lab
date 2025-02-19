@@ -10,5 +10,7 @@ description: ""
 <p></p>
 <p><a href="https://www.probono.sg/get-legal-help/legal-guidance/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG's List of Legal Clinics</a>
 </p>
+<p><a href="https://pbc.smu.edu.sg/mediation-clinic/resolving-disputes-with-us" rel="noopener nofollow" target="_blank">SMU Pro Bono Centre's Free Mediation Clinic</a>
+</p>
 <p><a href="/files/List_of_Community_Touchpoints_8_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Community Touchpoints</a>
 </p>
