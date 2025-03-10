@@ -12,5 +12,5 @@ description: ""
 </p>
 <p><a href="https://pbc.smu.edu.sg/mediation-clinic/resolving-disputes-with-us" rel="noopener nofollow" target="_blank">SMU Pro Bono Centre's Free Mediation Clinic</a>
 </p>
-<p><a href="/files/List_of_Community_Touchpoints_8_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Community Touchpoints</a>
+<p><a href="/files/List_of_Community_Touchpoints_6Mar2025.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Community Touchpoints</a>
 </p>
