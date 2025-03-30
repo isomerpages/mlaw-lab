@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Info on LAB and Legislation
 ---
-<h3><strong>Supporting Volunteers for Mentally Incapacitated Persons</strong></h3>
+<h3><strong>Introducing Section 6A - Supporting Volunteers for Mentally Incapacitated Persons</strong></h3>
 <p>We are excited to share a significant update to the Legal Aid and Advice
 Act ("LAAA") with the introduction of Section 6A! This amendment marks
 a step forward in enhancing&nbsp;access to justice&nbsp;and empowering
 professionals to step in when vulnerable individuals need assistance the
 most.</p>
-<p><strong>What's New? </strong>
+<p><strong>What's New?</strong>
 </p>
 <p>The new Section 6A exempts volunteers (social workers, professional deputies)
 from means testing when helping mentally incapacitated persons with legal
@@ -24,7 +24,7 @@ hyperlink to the updated LAAA]</p>
 can support vulnerable individuals without incurring additional legal costs.
 <br>•&nbsp;<strong>Means test applies to the person lacking capacity</strong>:
 Volunteers will not be subject to the usual means test.</p>
-<p>&nbsp;<strong>How to apply? </strong>
+<p>&nbsp;<strong>How to apply?</strong>
 </p>
 <p>Volunteer deputies may send in their names, e-mail addresses and contact
 numbers to <a href="mailto:labssr_mailbox@lab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">labssr_mailbox@lab.gov.sg</a>
