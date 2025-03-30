@@ -39,7 +39,6 @@ sections:
       url: https://go.gov.sg/labphonelegaladvice
   - announcements:
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Waiver of Legal Aid Means Test Requirements for Volunteer Deputies w.e.f.
             1 April 2025
@@ -51,6 +50,7 @@ sections:
             financial barriers for volunteers.
           link_text: ""
           link_url: ""
+      title: Announcements
 description: Description
 image: /images/isomer-logo.svg
 ---
