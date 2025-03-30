@@ -48,8 +48,8 @@ sections:
             incapacitated persons with legal aid. This applies when the person
             qualifies and has no suitable family members as deputies, removing
             financial barriers for volunteers.
-          link_text: ""
-          link_url: ""
+          link_text: Click here to find out more!
+          link_url: https://lab.mlaw.gov.sg/important-amendments-to-the-legal-aid-and-advice-act/
       title: Announcements
 description: Description
 image: /images/isomer-logo.svg
