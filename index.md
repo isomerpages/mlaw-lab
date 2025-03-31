@@ -37,6 +37,20 @@ sections:
         legal advice.
       button: Apply for phone legal advice
       url: https://go.gov.sg/labphonelegaladvice
+  - announcements:
+      id: announcements
+      announcement_items:
+        - title: Waiver of Legal Aid Means Test Requirements for Volunteer Deputies w.e.f.
+            1 April 2025
+          date: 01 April 2025
+          announcement: LAAA's new Section 6A exempts volunteers (social workers,
+            professional deputies) from means testing when helping mentally
+            incapacitated persons with legal aid. This applies when the person
+            qualifies and has no suitable family members as deputies, removing
+            financial barriers for volunteers.
+          link_text: Click here to find out more!
+          link_url: https://lab.mlaw.gov.sg/important-amendments-to-the-legal-aid-and-advice-act/
+      title: Announcements
 description: Description
 image: /images/isomer-logo.svg
 ---
