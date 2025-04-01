@@ -13,7 +13,7 @@ professionals to step in when vulnerable individuals need assistance the
 most.</p>
 <p><strong>What's New?</strong>
 </p>
-<p>The <a href="https://sso.agc.gov.sg/Act/LAAA1995?ProvIds=P12-#pr6-" rel="noopener nofollow" target="_blank">new Section 6A</a> exempts
+<p>The <a href="https://sso.agc.gov.sg/Act/LAAA1995?ProvIds=P12-#pr6A-" rel="noopener nofollow" target="_blank">new Section 6A</a> exempts
 volunteers (social workers, professional deputies) from means testing when
 helping mentally incapacitated persons with legal aid. This applies when
 the person qualifies and has no suitable family members as deputies, removing
