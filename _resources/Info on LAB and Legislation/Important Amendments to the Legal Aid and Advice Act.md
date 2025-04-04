@@ -31,7 +31,7 @@ numbers to <a href="mailto:labssr_mailbox@lab.gov.sg" rel="noopener noreferrer n
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAB_Section_6A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAB_Section_6A_edited.jpg">
 </div>
 <p>
 <br>
