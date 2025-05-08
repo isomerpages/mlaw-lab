@@ -30,5 +30,7 @@ description: ""
 </p>
 <p><a href="https://lab.mlaw.gov.sg/resources/pro-bono-sg-list-of-legal-clinics-and-community-touchpoints/" rel="noopener noreferrer nofollow" target="_blank">Useful documents - Pro Bono SG's List of Legal Clinics and Community Touchpoints</a>
 </p>
-<p><a href="https://lab.mlaw.gov.sg/settlement-agreement-template-for-general-personal-injury-cases/" rel="noopener nofollow" target="_blank">Useful documents - Settlement Agreement Template for Personal Injury Cases</a>
+<p><a href="/files/settlement_agreement_template_for_personal_injury_cases_8_may_2025.pdf" rel="noopener nofollow" target="_blank">Useful documents - Settlement Agreement Template for Personal Injury Cases</a>
 </p>
+<p></p>
+<p></p>
