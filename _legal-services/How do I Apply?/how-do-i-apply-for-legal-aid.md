@@ -22,8 +22,8 @@ processes such as statement taking, merits test, etc.</p>
 to share the data that we will be collecting from you during the course
 of your application. Data collected will be kept strictly confidential.
 Sharing your data enables us to better facilitate and tailor the legal
-services provided to you. Please click <a href="/files/Data_Consent_Form_271224.pdf" rel="noopener nofollow" target="_blank">here</a> for full details on
-our terms &amp; conditions of data collection/sharing.</p>
+services provided to you. Please click <a href="/files/Data_consent_form_for_LAB_website_14May25.pdf" rel="noopener nofollow" target="_blank">here</a> for
+full details on our terms &amp; conditions of data collection/sharing.</p>
 <p>*This process may be different if your case involves an application for
 legal aid where a child has been removed/abducted from Singapore or removed/abducted
 to Singapore under the Hague Convention on the Civil Aspects of International
