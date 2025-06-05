@@ -4,6 +4,10 @@ permalink: /useful-external-links/
 variant: tiptap
 description: ""
 ---
+<h4>First Stop for Legal Information and Resources</h4>
+<p><a href="https://www.lawgowhere.sg/" rel="noopener nofollow" target="_blank">LawGoWhere</a>
+</p>
+<hr>
 <h4>Civil Matters</h4>
 <p><a href="https://www.judiciary.gov.sg" rel="noopener nofollow" target="_blank">Singapore courts, including self-help guides on civil matters</a>
 </p>
