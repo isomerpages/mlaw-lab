@@ -2,13 +2,10 @@
 layout: homepage
 title: Legal Aid Bureau
 permalink: /
-notification: Please use our digital and call services to contact us wherever
-  possible. This will save you time, and be more convenient for you than to come
-  down personally to our office.<br> If you are feeling unwell, please refrain
-  from coming to our service center. <br> Contact us through our digital
-  services, our Applicants' <a
-  href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us
-  at 1800-2255 529 instead.
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit www.scamshield.gov.sg.
 sections:
   - hero:
       title: LEGAL AID BUREAU
