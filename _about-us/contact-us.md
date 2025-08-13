@@ -27,7 +27,10 @@ variant: tiptap
 <br>#07-11 The URA Centre (East Wing)
 <br>Singapore 069118
 <br>Please visit [Ministry of Law's website](https://www.mlaw.gov.sg/about-us/contact-us/)
-for more information on our counter operating hours.
+for more information on our counter operating hours.</p>
+<p>For a smoother experience, please make an appointment via the OneMinLaw
+Portal at (<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a>)
+before visiting us. This will help to reduce waiting time.
 <br>
 </p>
 <div class="iframe-wrapper">
