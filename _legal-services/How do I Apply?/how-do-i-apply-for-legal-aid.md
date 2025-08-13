@@ -15,9 +15,11 @@ variant: tiptap
 <p>Please note that this is a general overview of the LAB's application process
 for legal aid and assistance. Your application may be processed differently,
 depending on the facts of your case.</p>
-<p>For legal advice matters, you need to register and attend at LAB to see
-the Duty Lawyer. Other than the preliminary means test, there are no other
-processes such as statement taking, merits test, etc.</p>
+<p>For legal advice matters, please make an appointment via the OneMinLaw
+Portal at (<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a>)
+before visiting LAB to see the Duty Lawyer. Other than the preliminary
+means test, there are no other processes such as statement taking, merits
+test, etc.</p>
 <p>Upon registering an application with us, we will ask you for your consent
 to share the data that we will be collecting from you during the course
 of your application. Data collected will be kept strictly confidential.
@@ -36,13 +38,16 @@ Child Abduction.</p>
 <p>If you require legal aid, assistance, or advice, you can either*:</p>
 <p>(a) Register your case online <a href="https://eservices.mlaw.gov.sg/labesvc/" rel="noopener noreferrer nofollow" target="_blank">here</a>. A step-by-step
 guide to apply online via our Applicant Portal is available <a href="/files/lab-ap-portal-guide-(register-online).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Once you have registered successfully, you will be required to attend
-at LAB <strong>within 3 working days after the date of registration</strong>.
+<p>Once you have registered successfully, you will be required to make an
+appointment <strong>within 3 working days after the date of registration</strong> via
+<a href="https://eservices.mlaw.gov.sg/OMP" rel="noopener nofollow" target="_blank">OneMinLaw Portal</a>
 <br>
 </p>
 <p>Or</p>
-<p>(b) Come to the Minlaw Services Centre. Please refer to our opening hours
-<a href="https://lab.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>(b) <strong>Make an appointment to speak with a MinLaw/LAB officer</strong> via
+the OneMinLaw Portal at (<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a>) <strong>before</strong> visiting
+the Minlaw Services Centre. Do NOT come to the Centre without making an
+appointment. Please refer to our opening hours <a href="https://lab.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>*If you are a minor (i.e. a person below 21 years of age), your parent
 or guardian must apply on your behalf.</p>
 <p><strong>'Choose your own Assigned Solicitor' Programme</strong> 
@@ -78,10 +83,11 @@ means test”) if you can complete the relevant forms online successfully.</p>
 <p><strong>4. What happens when I attend at LAB?</strong> 
 <br>
 </p>
-<p><strong>If you are registering in-person at LAB</strong>, you will be
-asked some basic questions about the facts of your case and your financial
-situation (“preliminary means test”), to determine your eligibility for
-legal aid.</p>
+<p><strong>After you have made an appointment via the OneMinLaw Portal at (go.gov.sg/omp)</strong>,
+you will be required to attend at LAB on your appointed date and time.
+During your appointment at LAB, you will be asked some basic questions
+about the facts of your case and your financial situation (“preliminary
+means test”), to determine your eligibility for legal aid.</p>
 <p>If your matter is within LAB’s scope of work and you pass the preliminary
 means test, then:</p>
 <p>(a) If you only need legal advice, you will be able to consult the Duty
@@ -92,10 +98,13 @@ a file will be opened for you.</p>
 be opened for you for straightforward cases. If your matter is complex
 or if you require legal advice, you will be able to consult the Duty Lawyer
 first, who will assess whether a file should be opened for your matter.</p>
-<p><strong>If you have registered online</strong>, when you come down to
-LAB, please indicate at the self-help kiosk that you have registered via
-the AP Portal. You will be registered and attended to by the Duty Lawyer
-in priority to individuals who walk-in to register for legal advice.</p>
+<p><strong>If you have registered a case online</strong>, please make an
+appointment via the OneMinLaw Portal at (<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a>) within 3 working days after
+the date of registration and attend at LAB on your appointed date and time.
+When you come down to LAB, please indicate at the self-help kiosk that
+you have registered via the AP Portal. You will be registered and attended
+to by the Duty Lawyer in priority to individuals who walk-in to register
+for legal advice.</p>
 <p></p>
 <p><strong>5. What happens when I see the Duty Lawyer?</strong>
 </p>
