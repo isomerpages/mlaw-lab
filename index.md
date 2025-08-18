@@ -34,8 +34,8 @@ sections:
         - title: Book an appointment via OneMinLaw Portal
           date: 14 August 2025
           announcement: To reduce waiting time for a smoother experience, please make an
-            appointment via the OneMinLaw Portal at (go.gov.sg/omp) before
-            visiting us.
+            appointment via the OneMinLaw Portal at (https://go.gov.sg/omp)
+            before visiting us.
           link_text: OneMinLaw Portal
           link_url: https://go.gov.sg/omp
         - title: Waiver of Legal Aid Means Test Requirements for Volunteer Deputies w.e.f.
