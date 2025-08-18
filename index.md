@@ -33,11 +33,10 @@ sections:
       announcement_items:
         - title: Book an appointment via OneMinLaw Portal
           date: 14 August 2025
-          announcement: Legal Aid Bureau (and all other MinLaw units) will no longer
-            accept walk-in appointments. Please make an appointment via
-            the OneMinLaw Portal at (go.gov.sg/omp) before visiting us. This
-            will help to reduce waiting time.
-          link_text: OneMinLawPortal
+          announcement: To reduce waiting time for a smoother experience, please make an
+            appointment via the OneMinLaw Portal at (go.gov.sg/omp) before
+            visiting us.
+          link_text: OneMinLaw Portal
           link_url: https://go.gov.sg/omp
         - title: Waiver of Legal Aid Means Test Requirements for Volunteer Deputies w.e.f.
             1 April 2025
