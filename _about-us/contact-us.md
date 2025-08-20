@@ -5,13 +5,18 @@ breadcrumb: Contact Us
 variant: tiptap
 ---
 <h2>The Legal Aid Bureau operates under the Ministry of Law<br></h2>
-<p>Click below to contact us!
-<br>
-</p><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
+<h4><strong><u>Our Live Chat Agents are available from:</u></strong><br></h4>
+<p>Monday to Friday
+<br>08:30 AM to 11:30 AM
+<br>01:30 PM to 04:30 PM</p>
+<p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener nofollow" target="_blank">here</a> to
+chat with us.</p>
+<p></p>
+<h4><strong><u>Click below to write to us! </u></strong><br></h4><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
 <p>
 <br>
 </p>
-<h2>FAQs<br></h2>
+<h4><u>FAQs</u><br></h4>
 <p>Have questions?
 <br>
 </p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
@@ -21,7 +26,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="location" alt="location" src="/images/loc.png">
 </div>
-<h3>Location</h3>
+<h4><u>Location</u></h4>
 <p>**Ministry of Law Services Centre**
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
@@ -42,7 +47,7 @@ before visiting us. This will help to reduce waiting time.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="call" alt="call" src="/images/call.png">
 </div>
-<h3>Call Us</h3>
+<h4><u>Call Us</u></h4>
 <p>Tel: 1800-CALL-LAW (1800 2255 529)*</p>
 <p><sup>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers.</sup> 
 <br>For overseas callers, please dial +65 62255 529.
