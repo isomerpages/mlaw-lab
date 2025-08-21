@@ -13,13 +13,6 @@ variant: tiptap
 chat with us.</p>
 <hr>
 <h4><strong><u>Click below to write to us! </u></strong><br></h4><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
-<p>
-<br>
-</p>
-<hr>
-<h4><strong><u>FAQs</u></strong><br></h4><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
-<p></p>
-<p></p>
 <p></p>
 <hr>
 <h4><strong><u>Location</u></strong></h4>
