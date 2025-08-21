@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h2>The Legal Aid Bureau operates under the Ministry of Law<br></h2>
 <hr>
+<p></p>
 <blockquote>
 <p><strong><u>Chat with Us</u></strong>
 </p>
@@ -19,7 +20,7 @@ chat with us.</p>
 <hr>
 <p></p>
 <blockquote>
-<h4><strong><u>Write to Us </u></strong></h4>
+<h4><strong><u>Write to Us</u></strong></h4>
 </blockquote>
 <p>Submit your enquiries and feedback <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
