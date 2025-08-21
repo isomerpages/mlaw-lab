@@ -21,6 +21,7 @@ chat with us.</p>
 <p></p>
 <p></p>
 <p></p>
+<hr>
 <h4><strong><u>Location</u></strong></h4>
 <p><em>Ministry of Law Services Centre</em>
 <br>45 Maxwell Road
