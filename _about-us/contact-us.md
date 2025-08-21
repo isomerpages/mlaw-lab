@@ -16,13 +16,15 @@ chat with us.</p>
 <p>
 <br>
 </p>
-<h4><u>FAQs</u><br></h4>
+<h4><strong><u>FAQs</u></strong><br></h4>
 <p>Have questions?
 <br>
 </p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
 <p></p>
 <p></p>
-<h4><u>Location</u></h4>
+<p></p>
+<p></p>
+<h4><strong><u>Location</u></strong></h4>
 <p>**Ministry of Law Services Centre**
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
@@ -43,7 +45,7 @@ before visiting us. This will help to reduce waiting time.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="call" alt="call" src="/images/call.png">
 </div>
-<h4><u>Call Us</u></h4>
+<h4><strong><u>Call Us</u></strong></h4>
 <p>Tel: 1800-CALL-LAW (1800 2255 529)*</p>
 <p><sup>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers.</sup> 
 <br>For overseas callers, please dial +65 62255 529.
