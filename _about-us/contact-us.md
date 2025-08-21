@@ -14,7 +14,10 @@ variant: tiptap
 chat with us.</p>
 <hr>
 <h4><strong><u>Click below to write to us! </u></strong><br></h4><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
-<h2>  </h2>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/loc.png">
+</div>
 <h4><strong><u>Location</u></strong></h4>
 <p><em>Ministry of Law Services Centre</em>
 <br>45 Maxwell Road
