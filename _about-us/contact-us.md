@@ -11,21 +11,18 @@ variant: tiptap
 <br>01:30 PM to 04:30 PM</p>
 <p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener nofollow" target="_blank">here</a> to
 chat with us.</p>
-<p></p>
+<hr>
 <h4><strong><u>Click below to write to us! </u></strong><br></h4><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
 <p>
 <br>
 </p>
-<h4><strong><u>FAQs</u></strong><br></h4>
-<p>Have questions?
-<br>
-</p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
-<p></p>
+<hr>
+<h4><strong><u>FAQs</u></strong><br></h4><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
 <p></p>
 <p></p>
 <p></p>
 <h4><strong><u>Location</u></strong></h4>
-<p>**Ministry of Law Services Centre**
+<p><em>Ministry of Law Services Centre</em>
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
 <br>Singapore 069118
@@ -42,6 +39,7 @@ before visiting us. This will help to reduce waiting time.
 <p>
 <br>
 </p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="call" alt="call" src="/images/call.png">
 </div>
