@@ -20,12 +20,8 @@ chat with us.</p>
 <p>Have questions?
 <br>
 </p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="location" alt="location" src="/images/loc.png">
-</div>
+<p></p>
+<p></p>
 <h4><u>Location</u></h4>
 <p>**Ministry of Law Services Centre**
 <br>45 Maxwell Road
