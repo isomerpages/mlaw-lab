@@ -5,6 +5,7 @@ breadcrumb: Contact Us
 variant: tiptap
 ---
 <h2>The Legal Aid Bureau operates under the Ministry of Law<br></h2>
+<hr>
 <h4><strong><u>Our Live Chat Agents are available from:</u></strong><br></h4>
 <p>Monday to Friday
 <br>08:30 AM to 11:30 AM
@@ -45,3 +46,5 @@ before visiting us. This will help to reduce waiting time.
 <br>(Closed on Weekends &amp; Public Holidays)
 <br>
 </p>
+<hr>
+<p></p>
