@@ -5,24 +5,31 @@ breadcrumb: Contact Us
 variant: tiptap
 ---
 <h2>The Legal Aid Bureau operates under the Ministry of Law<br></h2>
-<p>Click below to contact us!
-<br>
-</p><a class="isomer-image-wrapper" href="https://eservices.mlaw.gov.sg/enquiry/"><img style="width: 300px; float: left;" height="auto" width="100%" title="contactus" alt="contactus" src="/images/mlaw-contactus.png"></a>
-<p>
-<br>
+<hr>
+<p></p>
+<blockquote>
+<p><strong><u>Chat with Us</u></strong>
 </p>
-<h2>FAQs<br></h2>
-<p>Have questions?
-<br>
-</p><a class="isomer-image-wrapper" href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355"><img style="width: 300px; float: left;" height="auto" width="100%" title="FAQ" alt="FAQ" src="/images/mlaw-faq.png"></a>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="location" alt="location" src="/images/loc.png">
-</div>
-<h3>Location</h3>
-<p>**Ministry of Law Services Centre**
+</blockquote>
+<p>Our Live Chat Agents are available from:</p>
+<p>Monday to Friday
+<br>08:30 AM to 11:30 AM
+<br>01:30 PM to 04:30 PM</p>
+<p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener nofollow" target="_blank">here</a> to
+chat with us.</p>
+<hr>
+<p></p>
+<blockquote>
+<h4><strong><u>Write to Us</u></strong></h4>
+</blockquote>
+<p>Submit your enquiries and feedback <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<h4><strong><u>Visit Us</u></strong></h4>
+</blockquote>
+<p><em>Ministry of Law Services Centre</em>
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
 <br>Singapore 069118
@@ -36,13 +43,12 @@ before visiting us. This will help to reduce waiting time.
 <div class="iframe-wrapper">
 <iframe style="border:0" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8229405858337!2d103.84294531475398!3d1.2798659990665142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1912c3f8f9a1%3A0x1300f7ac70e55bda!2sSingapore+069118!5e0!3m2!1sen!2ssg!4v1563259237607!5m2!1sen!2ssg"></iframe>
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="call" alt="call" src="/images/call.png">
-</div>
-<h3>Call Us</h3>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<h4><strong><u>Call Us</u></strong></h4>
+</blockquote>
 <p>Tel: 1800-CALL-LAW (1800 2255 529)*</p>
 <p><sup>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers.</sup> 
 <br>For overseas callers, please dial +65 62255 529.
@@ -50,3 +56,4 @@ before visiting us. This will help to reduce waiting time.
 <br>(Closed on Weekends &amp; Public Holidays)
 <br>
 </p>
+<p></p>
