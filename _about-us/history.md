@@ -2,9 +2,8 @@
 title: History
 permalink: /about-us/history/
 breadcrumb: History
-
+variant: markdown
 ---
-
 ## History
 
 <div class="image">
@@ -16,4 +15,4 @@ LAB was set up on 1 July 1958 as a department under the Ministry of Labour and W
 
 In 1964, LAB was placed under the Ministry of Social Affairs and subsequently became a department of the Ministry of Law in 1984, where it remains to this day.<br>
 
-LAB has been located at various premises in the course of its history. In 1965, it was moved from its initial premises at Havelock Road to Empress Place and then in 1974 to Pearl’s Hill. In 1987, it moved to Colombo Court and subsequently to the URA Centre (East Wing) at Maxwell Road in 1999, where it is currently situated.<br>
+LAB has been located at various premises in the course of its history. In 1965, it was moved from its initial premises at Havelock Road to Empress Place and then in 1974 to Pearl’s Hill. In 1987, it moved to Colombo Court and subsequently to the URA Centre (East Wing) at Maxwell Road in 1999, where it is currently situated. <br>
