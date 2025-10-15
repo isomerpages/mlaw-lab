@@ -1,0 +1,23 @@
+collections:
+  legal-services:
+    output: true
+    order:
+      - What services does LAB provide?/.keep
+      - What services does LAB provide?/types-of-services.md
+      - What services does LAB provide?/what-types-of-cases-are-handled-by-lab.md
+      - What services does LAB
+        provide?/what-types-of-cases-are-not-handled-by-lab.md
+      - are-all-the-legal-services-free.md
+      - do-i-qualify.md
+      - How do I Apply?/.keep
+      - How do I Apply?/how-do-i-apply-for-legal-aid.md
+      - How do I Apply?/casino-exclusion.md
+      - What happens After I Apply?/.keep
+      - What happens After I Apply?/taking-the-means-test.md
+      - What happens After I Apply?/taking-the-merits-test.md
+      - What happens After I Apply?/grant-of-aid.md
+      - What happens After I Apply?/after-aid-is-granted.md
+      - What happens After I Apply?/Your Guide to Attending Court.md
+      - What happens After I
+        Apply?/how-do-i-pay-my-contribution-or-other-charges-to-lab.md
+      - What happens After I Apply?/cancellation-of-legal-aid.md

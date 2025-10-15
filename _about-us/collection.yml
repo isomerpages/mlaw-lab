@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - our-mission-and-core-values.md
+      - organisation-structure.md
+      - history.md
+      - corporate-video.md
+      - contact-us.md
+      - help-with-a-heart.md
+      - LAB's 1st Lawyer & Social Workers' Networking Session.md
+      - LAB's 2nd Lawyer and Social Work Professionals' Networking Session.md
+      - LAB's 66th Anniversary Commemorative Publication.md
+      - LAB Reels.md

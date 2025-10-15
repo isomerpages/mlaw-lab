@@ -1,0 +1,28 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Overview of Resources.md
+      - Useful External Links.md
+      - Info on LAB and Legislation/.keep
+      - Info on LAB and Legislation/Important Amendments to the Legal Aid and
+        Advice Act.md
+      - Info on LAB and Legislation/legal-aid-and-advice-act-regulations.md
+      - LAB Tech Tools/.keep
+      - LAB Tech Tools/Divorce-AIDE-LAB-matrimonial-asset-estimator.md
+      - LAB Tech Tools/eBantu Syariah Court Originating Documents Guidance
+        Tool.md
+      - Legal Information/Family Justice Rules 2024 & Adoption of Children Act
+        2022.md
+      - Legal Information/.keep
+      - Legal Information/commencing-divorce-in-the-syariah-court.md
+      - Legal Information/mental-capacity-act-applications.md
+      - Cases and Articles/.keep
+      - Cases and Articles/Family Law Cases.md
+      - Cases and Articles/Notable Cases (66th LAB Anniversary Newsletter).md
+      - Cases and Articles/Law Articles.md
+      - Useful Documents/Useful Documents for Personal Injury Claims.md
+      - Useful Documents/.keep
+      - Useful Documents/Guides and Forms.md
+      - Useful Documents/Pro Bono SG's List of Legal Clinics and Community
+        Touchpoints.md
