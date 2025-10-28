@@ -33,9 +33,6 @@ description: ""
 <p><a href="/files/ApplicationFormforEnhancedStudentSupportSchemeSCT.pdf" rel="noopener nofollow" target="_blank">Application Form for Enhanced Student Support Scheme (Small Claims Tribunal)</a>
 </p>
 <p></p>
-<p><a href="/files/ApplicationFormforEnhancedStudentSupportSchemeSCT.pdf" rel="noopener nofollow" target="_blank">Application Form for Enhanced Student Support Scheme (Singapore Mediation Centre)</a>
-</p>
-<p></p>
 <p><a href="/files/ApplicationFormforEnhancedStudentSupportSchemeSMC.pdf" rel="noopener nofollow" target="_blank">Application Form for Enhanced Student Support Scheme (Singapore Mediation Centre)</a>
 </p>
 <p></p>
