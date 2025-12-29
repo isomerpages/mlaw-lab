@@ -33,7 +33,7 @@ chat with us.</p>
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
 <br>Singapore 069118
-<br>Please visit [Ministry of Law's website](https://www.mlaw.gov.sg/about-us/contact-us/)
+<br>Please visit Ministry of Law's <a href="https://www.mlaw.gov.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a> page
 for more information on our counter operating hours.</p>
 <p>For a smoother experience, please make an appointment via the OneMinLaw
 Portal at (<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a>)
