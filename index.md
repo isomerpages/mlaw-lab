@@ -14,7 +14,7 @@ sections:
         through policy, law and services.
       background: /images/Hero Banner 2021 v2 aligned.jpg
       button: Contact Us
-      url: https://www.mlaw.gov.sg/about-us/contact-us/
+      url: /about-us/contact-us/
       key_highlights:
         - title: Apply for Legal Aid
           description: The processes and related info
