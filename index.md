@@ -2,11 +2,11 @@
 layout: homepage
 title: Legal Aid Bureau
 permalink: /
-notification: '   Government officials will <b>NEVER</b> ask you to transfer
-  money or disclose bank log-in details over a phone call. Call the 24/7
-  ScamShield Helpline at 1799 if you are unsure if something is a scam. For more
+notification: Government officials will <b>NEVER</b> ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.'
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
 sections:
   - hero:
       title: LEGAL AID BUREAU
@@ -14,7 +14,7 @@ sections:
         through policy, law and services.
       background: /images/Hero Banner 2021 v2 aligned.jpg
       button: Contact Us
-      url: /about-us/contact-us/
+      url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
         - title: Apply for Legal Aid
           description: The processes and related info
