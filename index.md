@@ -21,7 +21,7 @@ sections:
           url: /legal-services/how-do-i-apply-for-legal-aid/
         - title: Divorce AIDE
           description: Information on matrimonial asset division upon divorce
-          url: https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do
+          url: /images/Maintenance.jpg
         - title: e-Bantu
           description: Syariah Court Guidance Tool
           url: https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.do
