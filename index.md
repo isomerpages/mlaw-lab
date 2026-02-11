@@ -14,14 +14,14 @@ sections:
         through policy, law and services.
       background: /images/Hero Banner 2021 v2 aligned.jpg
       button: Contact Us
-      url: /about-us/contact-us/
+      url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
         - title: Apply for Legal Aid
           description: The processes and related info
           url: /legal-services/how-do-i-apply-for-legal-aid/
         - title: Divorce AIDE
           description: Information on matrimonial asset division upon divorce
-          url: https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do
+          url: https://lab.mlaw.gov.sg/resources/divorce-aide-lab-matrimonial-asset-division-estimator/
         - title: e-Bantu
           description: Syariah Court Guidance Tool
           url: https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.do

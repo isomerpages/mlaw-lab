@@ -1,10 +1,9 @@
 ---
-title: 'Terms of Use'
+title: Terms of Use
 permalink: /terms-of-use/
-breadcrumb: 'Terms of Use'
-
+breadcrumb: Terms of Use
+variant: markdown
 ---
-
 ## Terms of Use
 
 1. **Agreement**
@@ -77,7 +76,7 @@ breadcrumb: 'Terms of Use'
 
 7. **Privacy Policy**
 
-     i. Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/){:target="_blank"} to review the Digital Service’s Privacy Statement. .<br> 
+     i. Please [click here](https://www.mlaw.gov.sg/privacy/) to review the Digital Service’s Privacy Statement. .<br> 
 
 8. **Disclaimers and Limitation of Liability**
 
