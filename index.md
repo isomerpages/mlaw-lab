@@ -13,8 +13,8 @@ sections:
       subtitle: Advancing access to justice, the rule of law, the economy and society
         through policy, law and services.
       background: /images/Hero Banner 2021 v2 aligned.jpg
-      button: Contact Us
-      url: https://www.mlaw.gov.sg/about-us/contact-us/
+      button: Login to Applicant Portal
+      url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
       key_highlights:
         - title: Apply for Legal Aid
           description: The processes and related info
@@ -25,9 +25,9 @@ sections:
         - title: e-Bantu
           description: Syariah Court Guidance Tool
           url: https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.do
-        - title: Login to Applicant Portal
-          description: Register and get case updates. Our online portal helps you save time.
-          url: https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3
+        - title: Therapeutic Justice Language Guide
+          description: For Family Litigants
+          url: /files/Therapeutic_Justice_Language_Guide_Feb2026.pdf
   - announcements:
       id: announcements
       announcement_items:
