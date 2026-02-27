@@ -11,8 +11,6 @@ description: ""
 <h4>Civil Matters</h4>
 <p><a href="https://www.judiciary.gov.sg" rel="noopener nofollow" target="_blank">Singapore courts, including self-help guides on civil matters</a>
 </p>
-<p><a href="https://cjc.org.sg" rel="noopener nofollow" target="_blank">Community Justice Centre – provides services to help self-represented persons accessing the court system</a>
-</p>
 <p><a href="https://io.mlaw.gov.sg" rel="noopener nofollow" target="_blank">Insolvency issues – Insolvency and Public Trustee’s Office</a>
 </p>
 <p><a href="https://www.tal.sg/tadm" rel="noopener nofollow" target="_blank">Resolving employment disputes with help from TADM (Tripartite Alliance for Dispute Management)</a>
