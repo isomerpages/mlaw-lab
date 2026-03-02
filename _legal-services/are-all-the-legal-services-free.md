@@ -7,12 +7,12 @@ variant: markdown
 ## Are LAB's services free?
 
 **1. Do I have to pay for legal aid?**<br>
-You do not have to pay for legal advice.
+LAB does not currently require applicants of legal advice to pay any financial contribution.
 
-You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends on your income and assets, the complexity of the case, and the type of work done. 
+You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends financial means. 
 
 **2. How much contribution will I be required to pay?**<br>
-The total contribution usually does not exceed S$1,650, but it may be more in certain exceptional cases. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
+It will usually not be more than S$1,650. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
 
 **3. What should I do if I am unable to pay the contribution?**<br>
 If you are unable to pay your contribution in full, you must inform us immediately. You may request to pay your contribution in instalments.
@@ -23,12 +23,12 @@ You are also required to pay for:
 - other fees incurred e.g. for personal service of Court documents on the opposing party
 
 **5. How do I pay my contribution or other charges to LAB?**<br>
-We will inform you on the various prevailing means on how to make payment in our letter to you. You are encouraged to make payment online via our e-services portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/). Please note that with effect from 7 April 2020, the Minlaw Services Centre will no longer accept cash payments.
+We will inform you on the various prevailing means on how to make payment in our letter to you. You are encouraged to make payment online via our e-services portal at [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/). Please note that the Minlaw Services Centre has stopped accepting cash payments since 7 April 2020.
 
 **6. Will I have to pay the costs of the opposing party if I lose the case?**<br>
-"Costs" of a case in Court include fees, charges, and other expenses of the winning party. Examples of expenses include hearing fees, filing fees for court papers, and photocopying charges.
+"Costs" of a case in court include fees, charges, and other expenses of the winning party. Examples of expenses include hearing fees, filing fees for court papers, and photocopying charges.
 
-If legal aid is granted to you, you will usually not be ordered by the Court to pay costs if you lose the case. However, there may be situations in which the Court may order you to pay costs, for example, when the Court decides that you have obtained legal aid through fraud or misrepresentation or that you have acted improperly in the conduct of your Court proceedings.
+If legal aid is granted to you, you will usually not be ordered by the Court to pay costs if you lose the case, unless the court finds that you have obtained legal aid through fraud or misrepresentation or that you have acted improperly in the conduct of the court proceedings.
 
 **7. Will I be paid any costs if I win the case?**<br>
-If you win a case, the Court may order costs to be paid by the opposing party. However, this will be payable to the Director of Legal Aid. You will not receive any of these costs.
+If you win a case, the court may order costs to be paid by the opposing party. However, these will be payable to the Director of Legal Aid. You will not receive any of these costs.
