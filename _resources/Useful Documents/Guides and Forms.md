@@ -7,8 +7,7 @@ third_nav_title: Useful Documents
 description: ""
 ---
 <p></p>
-<p><a href="/files/LAB_AP_Portal_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Legal Aid Bureau's Applicant Portal Guide</a>
-<br>
+<p><a href="/files/AP_Portal_Guide_09032026.pdf" rel="noopener nofollow" target="_blank">Legal Aid Bureau's Applicant Portal Guide</a>
 </p>
 <p><a href="/files/Guide_to_Online_Statement.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Online Statement</a>
 </p>
