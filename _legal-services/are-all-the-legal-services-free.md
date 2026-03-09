@@ -9,7 +9,7 @@ variant: markdown
 **1. Do I have to pay for legal aid?**<br>
 LAB does not currently require applicants of legal advice to pay any financial contribution.
 
-You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends financial means. 
+You may be required (as most legally aided persons are) to pay a financial contribution to the Bureau for the work done for legal assistance or legal aid matters. The amount of the contribution depends on your financial means. 
 
 **2. How much contribution will I be required to pay?**<br>
 It will usually not be more than S$1,650. You will usually be asked to pay a first contribution which is half the total contribution payable in your case, before any work is done for your case. Upon completion of your case, you will need to pay the remaining sum as a second contribution.
