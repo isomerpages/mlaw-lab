@@ -37,7 +37,7 @@ Child Abduction.</p>
 </p>
 <p>If you require legal aid, assistance, or advice, you can either*:</p>
 <p>(a) Register your case online <a href="https://eservices.mlaw.gov.sg/labesvc/" rel="noopener noreferrer nofollow" target="_blank">here</a>. A step-by-step
-guide to apply online via our Applicant Portal is available <a href="/files/lab-ap-portal-guide-(register-online).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+guide to apply online via our Applicant Portal is available <a href="/files/AP_Portal_Guide_09032026.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Once you have registered successfully, you will be required to make an
 appointment <strong>within 3 working days after the date of registration</strong> via
 <a href="https://eservices.mlaw.gov.sg/OMP" rel="noopener nofollow" target="_blank">OneMinLaw Portal</a>
