@@ -53,3 +53,7 @@ c)	Any other financial/investment products with a cash value, such as fixed depo
 **4. What happens if I fail the means test but I really cannot afford to pay for a private lawyer?**
 
 If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance.
+
+**5. Can I be exempted from the means test if I am a recipient of financial assistance scheme?**
+
+Means testing may be waived if you receive ComCare Long Term Assistance, ComCare Short/Medium Term Assistance, or hold a Medical Fee Exemption Card. However, you may still need to undergo means-testing if your assistance is expiring soon or becomes invalid. If aid is granted, you must inform us of any changes to your assistance status.
