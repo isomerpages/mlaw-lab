@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Cases and Articles
 ---
-<p><strong>Dear Mom and Dad, Don't make me feel bad. </strong>
-<br><strong>A Child of Divorce Speaks Up.</strong>
+<h3><strong>MSF Booklet</strong></h3>
+<p><strong>"<em>Dear Mom and Dad, Don't make me feel bad. A Child of Divorce Speaks Up.</em>"</strong>
 </p>
 <p></p>
