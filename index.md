@@ -31,6 +31,15 @@ sections:
   - announcements:
       id: announcements
       announcement_items:
+        - title: Understanding Children During Divorce - "Dear Mom and Dad"
+          date: 14 April 2026
+          announcement: "\"Dear Mom and Dad\" is an illustrated booklet by Director of
+            Legal Aid, Ms. Lim Hui Min, helping parents understand their
+            children's thoughts and feelings during divorce. First published in
+            2013, this resource encourages empathy and constructive
+            communication between co-parents."
+          link_text: Click here to read "Dear Mom and Dad"
+          link_url: https://go.gov.sg/dearmomanddad
         - title: Book an appointment via OneMinLaw Portal
           date: 14 August 2025
           announcement: To reduce waiting time for a smoother experience, please make an
