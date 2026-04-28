@@ -19,12 +19,12 @@ sections:
         - title: Apply for Legal Aid
           description: The processes and related info
           url: /legal-services/how-do-i-apply-for-legal-aid/
-        - title: Divorce AIDE
-          description: Information on matrimonial asset division upon divorce
-          url: https://lab.mlaw.gov.sg/resources/divorce-aide-lab-matrimonial-asset-division-estimator/
-        - title: e-Bantu
-          description: Syariah Court Guidance Tool
-          url: https://eservices.mlaw.gov.sg/labesvc/common/loadEbantu.do
+        - title: Choose Your Own Assigned Solicitor Programme
+          description: Select your preferred lawyer
+          url: /files/ChooseYourDivorceAssignedSolicitor.pdf
+        - title: Legal Tech Tools
+          description: Divorce AIDE & eBantu
+          url: https://lab.mlaw.gov.sg/overview-of-resources/
         - title: Therapeutic Justice Language Guide
           description: For Family Litigants
           url: /files/Therapeutic_Justice_Language_Guide_Feb2026.pdf
