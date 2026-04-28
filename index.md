@@ -19,9 +19,9 @@ sections:
         - title: Apply for Legal Aid
           description: The processes and related info
           url: /legal-services/how-do-i-apply-for-legal-aid/
-        - title: CHOOSE YOUR OWN ASSIGNED SOLICITOR PROGRAMME
+        - title: Choose Your Own Assigned Solicitor Programme
           description: Select your preferred lawyer
-          url: https://lab.mlaw.gov.sg/resources/divorce-aide-lab-matrimonial-asset-division-estimator/
+          url: https://lab.mlaw.gov.sg/files/ChooseYourDivorceAssignedSolicitor.pdf
         - title: Legal Tech Tools
           description: Divorce AIDE & eBantu
           url: https://lab.mlaw.gov.sg/overview-of-resources/
