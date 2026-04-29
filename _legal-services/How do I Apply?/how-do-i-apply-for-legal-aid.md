@@ -61,13 +61,13 @@ not commenced proceedings yet.</p>
 <p>This Programme is faster and simpler than the usual process. You do not
 need to explain your case to LAB first, which means that your chosen lawyer
 will be assigned to you more quickly.</p>
-<p>Click <a href="/files/ChooseYourDivorceAssignedSolicitor.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/CYOAS.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more about the programme and the list of our participating Assigned
-Solicitors. For other queries, please refer to our FAQs <a href="/files/FAQs_CYOAS.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>
+Solicitors. For other queries, please refer to our FAQs <a href="/files/FAQs__CYOAS.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>You cannot join this Programme if your spouse has started divorce case
-against you. You will need to file your Notice to Contest at the Singapore
-Courts’ Efiling Service Bureau within 14 days of receiving the court documents.
+against you. You will need to file your Notice to Contest at the Courts’
+Efiling Service Bureau within 14 days of receiving the court documents.
 Once completed, you may come to LAB as we can still provide legal aid for
 your divorce case if you pass the means and merits tests.</p>
 <p></p>
