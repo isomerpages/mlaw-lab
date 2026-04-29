@@ -53,24 +53,23 @@ or guardian must apply on your behalf.</p>
 <p><strong>'Choose your own Assigned Solicitor' Programme</strong> 
 <br>
 </p>
-<p>The Legal Aid Bureau (LAB), a department of the Ministry of Law, is running
-a programme which allows applicants of legal aid to choose their preferred
-Assigned Solicitors. The programme is open to applicants who wish to initiate
-divorce proceedings and have not commenced proceedings yet.</p>
-<p>Apart from being able to choose your preferred Assigned Solicitor, your
-application process for legal aid will be more streamlined as you will
-no longer need to provide a statement on your legal issue to LAB first.
-Less time will also be required to assign an Assigned Solicitor to take
-on your case.</p>
-<p>Click <a href="/files/ChooseYourDivorceAssignedSolicitor.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>The Legal Aid Bureau (LAB), a department of the Ministry of Law, offers
+eligible applicants the option to choose their preferred Assigned Solicitors
+for their divorce cases (i.e. not for Syariah divorce cases). The Programme
+is open to applicants who wish to initiate divorce proceedings and have
+not commenced proceedings yet.</p>
+<p>This Programme is faster and simpler than the usual process. You do not
+need to explain your case to LAB first, which means that your chosen lawyer
+will be assigned to you more quickly.</p>
+<p>Click <a href="/files/CYOAS.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more about the programme and the list of our participating Assigned
-Solicitors. For other queries, please refer to our FAQs <a href="/files/19_Jul_2024_FAQ_for_Pilot.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+Solicitors. For other queries, please refer to our FAQs <a href="/files/FAQs__CYOAS.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p>If your spouse has started divorce proceedings against you, you cannot
-participate in this programme. Please file your Memorandum of Appearance
-(MOA) at Crimsonlogic within 8 days from the day you were served the court
-documents. Thereafter, please come to the Legal Aid Bureau to apply for
-aid.</p>
+<p>You cannot join this Programme if your spouse has started divorce case
+against you. You will need to file your Notice to Contest at the Courts’
+Efiling Service Bureau within 14 days of receiving the court documents.
+Once completed, you may come to LAB as we can still provide legal aid for
+your divorce case if you pass the means and merits tests.</p>
 <p></p>
 <p><strong>3. What are the benefits of registering online?</strong> 
 <br>
