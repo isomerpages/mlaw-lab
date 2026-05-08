@@ -50,7 +50,7 @@ sections:
         - title: Waiver of Legal Aid Means Test Requirements for Volunteer Deputies w.e.f.
             1 April 2025
           date: 01 April 2025
-          announcement: LAAA's new Section 6A ensures volunteers (social workers,
+          announcement: The LAAA's Section 6A exempts volunteers (social workers,
             professional deputies) from means testing when helping mentally
             incapacitated persons with legal aid. This applies when the person
             qualifies and has no suitable family members as deputies, removing
