@@ -9,6 +9,6 @@ variant: markdown
 
 **What is Divorce Aide?**
 
-Divorce Aide is a tool that provides you with the principles of asset division and gives you an estimate on how much you can potentially receive as your share of the matrimonial assets post-divorce, based on your inputs. 
+Divorce Aide is a tool that provides you with the principles of asset division and gives you an estimate on how much you can potentially receive as your share of the matrimonial assets post-divorce, based on your inputs.
 
-![We apologize for the inconvenience caused.](/images/Maintenance.jpg)
+[Click here to access Divorce Aide!](https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do)
