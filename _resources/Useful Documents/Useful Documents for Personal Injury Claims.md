@@ -8,4 +8,6 @@ third_nav_title: Useful Documents
 <p><a href="/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf" rel="noopener nofollow" target="_blank">LAB Practitioner’s Guide to Accident &amp; Personal Injury Claims – Updated for Rules of Court 2021</a>
 </p>
 <p><a href="/files/Case_Summary__Personal_Injury_Claim_.pdf" rel="noopener nofollow" target="_blank">Case Summary (Personal Injury Claim)</a>
+<br>
+<br><a href="/files/Personal_Injury_Guide_reduced.pdf" rel="noopener nofollow" target="_blank">Personal Injury Guide</a>
 </p>
