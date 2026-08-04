@@ -33,7 +33,7 @@ description: ""
 </p>
 <p><a href="https://cpf.gov.sg/member/account-services/undergoing-a-divorce/division-of-cpf-assets" rel="noopener nofollow" target="_blank">Divorce-related CPF issues</a>
 </p>
-<p><a href="https://www.hdb.gov.sg/managing-my-home/home-ownership/change-of-flat-owners-or-occupiers/change-in-flat-ownership-not-through-a-sale/additional-information" rel="noopener nofollow" target="_blank">Divorce-related HDB Issues</a>
+<p><a href="https://www.hdb.gov.sg/managing-my-home/home-ownership/change-of-flat-owners-or-occupiers/change-in-flat-ownership-not-through-a-sale/additional-information" rel="noopener nofollow" target="_blank">Divorce-related HDB issues</a>
 </p>
 <hr>
 <h4>Muslim family matters</h4>
