@@ -27,7 +27,7 @@ sections:
           url: /legal-services/how-do-i-apply-for-legal-aid/
         - title: Choose Your Own Assigned Solicitor Programme
           description: Select your preferred lawyer
-          url: /files/CYOAS.pdf
+          url: /files/ChooseYrDivorceLABLawyer.pdf
         - title: Legal Tech Tools
           description: Divorce AIDE & eBantu
           url: https://lab.mlaw.gov.sg/overview-of-resources/
