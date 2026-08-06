@@ -61,7 +61,7 @@ not commenced proceedings yet.</p>
 <p>This Programme is faster and simpler than the usual process. You do not
 need to explain your case to LAB first, which means that your chosen lawyer
 will be assigned to you more quickly.</p>
-<p>Click <a href="/files/CYOAS.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/ChooseYrDivorceLABLawyer.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more about the programme and the list of our participating Assigned
 Solicitors. For other queries, please refer to our FAQs <a href="/files/FAQs_CYOAS.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
