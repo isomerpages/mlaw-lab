@@ -50,10 +50,11 @@ the Minlaw Services Centre. Do NOT come to the Centre without making an
 appointment. Please refer to our opening hours <a href="https://lab.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>*If you are a minor (i.e. a person below 21 years of age), your parent
 or guardian must apply on your behalf.</p>
+<p>Please note that all counter services and legal advice sessions at the
+Ministry of Law Services Centre are conducted via video conferencing mode.</p>
+<p></p>
 <p><strong>'Choose your own Assigned Solicitor' Programme</strong> 
-<br>
-</p>
-<p>The Legal Aid Bureau (LAB), a department of the Ministry of Law, offers
+<br>The Legal Aid Bureau (LAB), a department of the Ministry of Law, offers
 eligible applicants the option to choose their preferred Assigned Solicitors
 for their divorce cases (i.e. not for Syariah divorce cases). The Programme
 is open to applicants who wish to initiate divorce proceedings and have
