@@ -9,10 +9,10 @@ variant: tiptap
 <p><strong>1. What is the Means Test?</strong>
 <br>The Means Test assesses your financial circumstances to determine if you
 have limited means.</p>
-<p>From <strong>1 October 2026</strong>, applicants for legal aid must meet
+<p>From <strong>1 April 2024</strong>, applicants for legal aid must meet
 the following criteria:</p>
 <p>(a) The average Per Capita Gross Monthly Household Income (PCHI) must
-be <strong>$1,650 </strong>or lower for the last 12 months prior to the
+be <strong>$1,050 </strong>or lower for the last 12 months prior to the
 application;
 <br>
 </p>
@@ -20,9 +20,9 @@ application;
 applicant must be $21,000 or lower; and
 <br>
 </p>
-<p>(c) The applicant’s savings and non-CPF investments must be <strong>$12,000 </strong>or
+<p>(c) The applicant’s savings and non-CPF investments must be <strong>$10,000 </strong>or
 lower, if he is younger than 60 years old. Applicants aged 60 and above
-are allowed to have savings and non-CPF investments of <strong>$42,000 </strong>or
+are allowed to have savings and non-CPF investments of <strong>$40,000 </strong>or
 lower.
 <br>
 </p>
@@ -51,7 +51,7 @@ test, based on the supporting documents.</p>
 <p>Example:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Updated Means Test example to show $1650" src="/images/Update_to_Means_Test.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="$1050" src="/images/Example_of_PCHI_updated.jpg">
 </div>
 <p><strong>3. How are savings and non-CPF investments calculated?</strong>
 <br>
