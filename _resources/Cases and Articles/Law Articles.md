@@ -108,8 +108,8 @@ description: ""
 <br>
 </p>
 <p>{:start="11"} 11. LAB Practitioner's Guide to Accident &amp; Personal
-Injury Claims (October 2021)</p>
-<p><a href="/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf" rel="noopener nofollow" target="_blank">LAB Practitioner's Guide to Accident &amp; Personal Injury Claims (June 2025) - Updated ROC 2021</a>
+Injury Claims (As of September 2026)</p>
+<p><a href="https://go.gov.sg/accidentpersonalinjury" rel="noopener nofollow" target="_blank">LAB Practitioner's Guide to Accident &amp; Personal Injury Claims (September 2026) - Updated ROC 2021</a>
 <br>
 <br>
 <br>
